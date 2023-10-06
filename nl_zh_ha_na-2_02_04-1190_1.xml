@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-10-05T08:02:43.331+02:00</Created>
+        <LastChange>2023-10-05T12:02:31.840+02:00</LastChange>
+        <TranskribusMetadata docId="1601069" pageId="60386401" pageNr="1" tsid="136473362" status="GT" userId="122145" imgUrl="https://files.transkribus.eu/Get?id=MERQKLQLYXXCXFDRIQNORDGE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HIJSSZXRGQTJJHEQUGSKVYNO" imageId="48768526"/>
+    </Metadata>
+    <Page imageFilename="nl_zh_ha_na-2_02_04-1190_1.jpg" imageWidth="2759" imageHeight="4164">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1696622893006" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1696500130209_1195"/>
+                <RegionRefIndexed index="1" regionRef="region_1696500135449_1203"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="region_1696500130209_1195" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="656,2090 656,2296 1954,2296 1954,2090"/>
+            <TextLine id="line_1696500130213_1198" custom="readingOrder {index:0;}">
+                <Coords points="656,2246 1948,2090 1954,2140 662,2296"/>
+                <Baseline points="661,2291 1953,2135"/>
+                <TextEquiv>
+                    <Unicode>7 Mei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>7 Mei</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1696500135449_1203" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="707,2461 707,2571 1917,2571 1917,2461"/>
+            <TextLine id="line_1696500135453_1206" custom="readingOrder {index:0;}">
+                <Coords points="707,2521 1915,2461 1917,2511 709,2571"/>
+                <Baseline points="709,2566 1917,2506"/>
+                <TextEquiv>
+                    <Unicode>1859</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1859</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
