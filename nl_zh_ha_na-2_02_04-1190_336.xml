@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-10-05T08:02:44.738+02:00</Created>
+        <LastChange>2023-10-05T09:04:08.547+02:00</LastChange>
+        <TranskribusMetadata docId="1601069" pageId="60386747" pageNr="336" tsid="136461438" status="IN_PROGRESS" userId="122145" imgUrl="https://files.transkribus.eu/Get?id=IXLZUUTBGVAFTTXKIBEGJBJO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WCCCKKVUALXSKRTIBDLHCOAX" imageId="48768872"/>
+    </Metadata>
+    <Page imageFilename="nl_zh_ha_na-2_02_04-1190_336.jpg" imageWidth="2753" imageHeight="4402"/>
+</PcGts>
