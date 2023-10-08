@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.3.0:model_id=51170:date=05_10_2023_21:06</Creator>
+        <Created>2023-10-05T08:02:44.197+02:00</Created>
+        <LastChange>2023-10-05T21:07:00.028+02:00</LastChange>
+        <TranskribusMetadata docId="1601069" pageId="60386581" pageNr="172" tsid="136533944" status="IN_PROGRESS" userId="122145" imgUrl="https://files.transkribus.eu/Get?id=NNHIDVDRRNIPXMVIHMOTSNVC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XNKLEAQHVFGYJBUBXRKOPYJK" imageId="48768706"/>
+    </Metadata>
+    <Page imageFilename="nl_zh_ha_na-2_02_04-1190_172.jpg" imageWidth="5481" imageHeight="4211">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1696622905003" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_6"/>
+                <RegionRefIndexed index="1" regionRef="tr_4"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+                <RegionRefIndexed index="3" regionRef="tr_5"/>
+                <RegionRefIndexed index="4" regionRef="tr_1"/>
+                <RegionRefIndexed index="5" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_6" custom="readingOrder {index:0;}">
+            <Coords points="1025,540 2761,540 2761,1328 1025,1328"/>
+            <TextLine id="tr_6_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1020,608 1442,610 1511,671 1670,612 2236,614 2323,660 2673,612 2671,556 2501,519 1018,536"/>
+                <Baseline points="1031,596 1121,596 1210,596 1300,590 1389,596 1479,596 1568,596 1658,596 1747,602 1837,596 1926,596 2016,602 2105,602 2194,602 2284,596 2373,602 2463,602 2552,602 2642,602 2678,602"/>
+                <TextEquiv>
+                    <Unicode>de la Contisse comprimée, on l’en débarrasse, par un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1025,738 1103,786 1717,721 2278,723 2397,788 2475,721 2642,762 2642,686 2545,627 2299,686 2117,638 1891,682 1767,632 1646,677 1598,641 1413,677 1357,623 1027,654"/>
+                <Baseline points="1037,709 1127,709 1216,709 1306,709 1395,709 1485,709 1574,715 1664,709 1753,709 1843,709 1932,709 2021,709 2111,709 2200,709 2290,709 2379,709 2469,709 2558,703 2648,709"/>
+                <TextEquiv>
+                    <Unicode>moyen très-simple, consistant dans une ijection</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1018,836 1227,840 1294,901 1581,834 2197,838 2269,901 2475,838 2738,884 2738,777 2521,743 2375,788 2134,736 1896,793 1789,734 1513,803 1331,743 1146,786 1018,747"/>
+                <Baseline points="1031,823 1043,823 1133,823 1222,823 1312,829 1401,823 1491,823 1580,823 1670,829 1759,823 1849,823 1938,823 2027,823 2117,829 2206,823 2296,823 2385,823 2475,823 2564,823 2654,823 2743,811"/>
+                <TextEquiv>
+                    <Unicode>intérieure, donnée à l’aide d’une Pompe foulante, &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1031,979 2074,958 2239,1018 2338,964 2527,1014 2695,962 2695,864 2262,918 2013,871 1683,925 1400,871 1031,912"/>
+                <Baseline points="1043,942 1133,948 1222,948 1312,948 1401,948 1491,942 1580,942 1670,948 1759,942 1849,942 1938,948 2027,948 2117,942 2206,942 2296,948 2385,942 2475,942 2564,948 2654,942 2701,942"/>
+                <TextEquiv>
+                    <Unicode>manière a produire, à travers la masse filtrante, un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1014,1081 2755,1107 2755,999 2619,1044 2362,977 2167,1049 1691,973 1596,1034 1324,1038 1014,973"/>
+                <Baseline points="1025,1061 1115,1061 1204,1061 1294,1061 1383,1061 1473,1067 1562,1067 1652,1067 1741,1067 1831,1067 1920,1067 2010,1061 2099,1067 2189,1067 2278,1067 2367,1067 2457,1067 2546,1067 2636,1067 2725,1073 2761,1073"/>
+                <TextEquiv>
+                    <Unicode>contre-courant, d’un débit supérieur au débit norma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1049,1212 1144,1207 1194,1235 1246,1201 1351,1199 1370,1214 1392,1199 1427,1203 1431,1086 1335,1123 1270,1107 1196,1136 1133,1118 1094,1136 1051,1123"/>
+                <Baseline points="1061,1192 1073,1192 1163,1186 1252,1186 1342,1180 1431,1180"/>
+                <TextEquiv>
+                    <Unicode>du Filtre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1222,1353 1337,1383 1435,1327 1557,1366 1648,1324 1774,1370 1859,1327 2199,1409 2495,1331 2562,1368 2679,1342 2679,1279 2486,1246 2404,1288 2123,1229 1648,1294 1427,1199 1222,1199"/>
+                <Baseline points="1234,1312 1324,1312 1413,1312 1503,1312 1592,1312 1682,1312 1771,1312 1860,1318 1950,1312 2039,1312 2129,1312 2218,1318 2308,1318 2397,1318 2487,1318 2576,1318 2666,1318 2684,1318"/>
+                <TextEquiv>
+                    <Unicode>Pour les appareils portatifs, tel que celui qui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_4" custom="readingOrder {index:1;}">
+            <Coords points="1013,1381 2761,1381 2761,2646 1013,2646"/>
+            <TextLine id="tr_4_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1025,1450 1179,1503 1377,1448 1967,1500 2154,1453 2354,1524 2484,1450 2684,1472 2681,1370 2530,1400 2423,1353 2223,1416 2115,1366 1943,1407 1444,1348 1023,1398"/>
+                <Baseline points="1037,1431 1127,1431 1216,1431 1306,1431 1395,1437 1485,1437 1574,1437 1664,1443 1753,1443 1843,1443 1932,1443 2021,1443 2111,1443 2200,1443 2290,1443 2379,1443 2469,1443 2558,1443 2648,1443 2690,1443"/>
+                <TextEquiv>
+                    <Unicode>est représenté (T.ig. 5.) il suffit de changer les</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1014,1572 1344,1565 1442,1635 1544,1568 1702,1624 1898,1565 2662,1600 2662,1472 2247,1531 2158,1472 1757,1500 1704,1457 1014,1494"/>
+                <Baseline points="1025,1550 1115,1550 1204,1550 1294,1550 1383,1556 1473,1550 1562,1556 1652,1550 1741,1550 1831,1556 1920,1550 2010,1550 2099,1556 2189,1556 2278,1556 2367,1556 2457,1556 2546,1556 2636,1556 2666,1556"/>
+                <TextEquiv>
+                    <Unicode>raccords, et diriger le refousement dans l’intérieur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1018,1700 1335,1687 1494,1739 1605,1700 1717,1754 1961,1691 2063,1739 2167,1689 2744,1704 2744,1633 2549,1613 2375,1661 2280,1620 1878,1648 1776,1596 1411,1644 1303,1578 1127,1641 1018,1594"/>
+                <Baseline points="1031,1676 1121,1670 1210,1670 1300,1670 1389,1676 1479,1676 1568,1676 1658,1676 1747,1676 1837,1676 1926,1676 2016,1676 2105,1676 2194,1676 2284,1676 2373,1676 2463,1676 2552,1682 2642,1676 2731,1682 2749,1682"/>
+                <TextEquiv>
+                    <Unicode>du Filtre (Fig. 6.) en se servant de la même Pompe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1209,1809 1659,1880 1804,1811 2030,1859 2219,1804 2338,1861 2721,1828 2721,1754 2623,1783 2497,1720 2299,1757 2102,1722 1943,1778 1850,1726 1726,1763 1665,1722 1207,1724"/>
+                <Baseline points="1222,1795 1312,1789 1401,1789 1491,1795 1580,1795 1670,1795 1759,1795 1849,1795 1938,1795 2027,1795 2117,1795 2206,1801 2296,1801 2385,1801 2475,1801 2564,1801 2654,1801 2725,1801"/>
+                <TextEquiv>
+                    <Unicode>Mais pour les systèmes composés de plusieurs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1031,1945 1615,1930 1791,1987 1872,1932 2130,1998 2221,1939 2621,1982 2723,1961 2723,1904 2228,1861 1891,1900 1733,1843 1422,1880 1303,1817 1029,1817"/>
+                <Baseline points="1043,1914 1133,1908 1222,1914 1312,1914 1401,1914 1491,1914 1580,1920 1670,1920 1759,1920 1849,1920 1938,1926 2027,1920 2117,1920 2206,1920 2296,1926 2385,1926 2475,1926 2564,1926 2654,1926 2725,1926"/>
+                <TextEquiv>
+                    <Unicode>Filtres immergés, tels, par exemple, que ceux qui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1018,2050 1852,2110 2067,2043 2423,2102 2755,2056 2753,1995 2551,1963 2145,2017 1967,1945 1770,2011 1583,1952 1440,2004 1355,1956 1288,2013 1016,2004"/>
+                <Baseline points="1031,2033 1121,2027 1210,2027 1300,2033 1389,2033 1479,2039 1568,2039 1658,2039 1747,2039 1837,2039 1926,2045 2016,2039 2105,2045 2194,2039 2284,2045 2373,2039 2463,2039 2552,2045 2642,2045 2731,2045 2761,2051"/>
+                <TextEquiv>
+                    <Unicode>sont representés (Fig. §) il faut une Tompe spéciale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1001,2210 1131,2160 1357,2210 1717,2163 1952,2219 2182,2165 2673,2193 2673,2106 2406,2134 2317,2067 2252,2123 2047,2139 1672,2080 1611,2126 1463,2084 1383,2126 1001,2115"/>
+                <Baseline points="1013,2153 1103,2147 1192,2147 1282,2147 1371,2147 1461,2153 1550,2153 1640,2153 1729,2159 1819,2159 1908,2159 1998,2159 2087,2159 2177,2159 2266,2159 2356,2159 2445,2159 2534,2165 2624,2165 2678,2165"/>
+                <TextEquiv>
+                    <Unicode>opérant successivement sur chaque cylindre; et la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1003,2291 1539,2288 1676,2356 2184,2282 2603,2302 2601,2230 2395,2189 2167,2254 2006,2184 1850,2252 1783,2199 1702,2245 1394,2197 1138,2247 1001,2217"/>
+                <Baseline points="1013,2266 1103,2266 1192,2266 1282,2266 1371,2266 1461,2266 1550,2272 1640,2266 1729,2266 1819,2272 1908,2272 1998,2272 2087,2272 2177,2272 2266,2272 2356,2272 2445,2272 2534,2278 2606,2272"/>
+                <TextEquiv>
+                    <Unicode>manière la plus commode est de les raccorber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1018,2410 1739,2401 2069,2467 2330,2397 2558,2480 2695,2425 2695,2378 2427,2375 2280,2299 2091,2378 1941,2312 1661,2364 1186,2354 1016,2297"/>
+                <Baseline points="1031,2385 1121,2385 1210,2385 1300,2385 1389,2391 1479,2385 1568,2385 1658,2391 1747,2391 1837,2391 1926,2391 2016,2391 2105,2397 2194,2397 2284,2391 2373,2397 2463,2397 2552,2397 2642,2397 2701,2397"/>
+                <TextEquiv>
+                    <Unicode>l'extrémité postérieure de chaque Filtre au moyen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1025,2545 2341,2556 2619,2543 2642,2475 2317,2484 2173,2432 1987,2484 1618,2430 1489,2475 1277,2434 1183,2486 1023,2432"/>
+                <Baseline points="1037,2505 1127,2505 1216,2505 1306,2511 1395,2505 1485,2511 1574,2505 1664,2511 1753,2511 1843,2511 1932,2511 2021,2511 2111,2511 2200,2511 2290,2511 2379,2511 2469,2511 2558,2511 2648,2511 2654,2505"/>
+                <TextEquiv>
+                    <Unicode>d’un boyau fléxible, et d’une simple manœuvre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1042,2649 1083,2642 1125,2664 1207,2640 1220,2653 1366,2653 1392,2671 1470,2651 1503,2662 1503,2577 1468,2564 1400,2577 1377,2564 1285,2614 1233,2601 1203,2571 1086,2582 1042,2566"/>
+                <Baseline points="1055,2630 1145,2630 1234,2630 1324,2630 1413,2630 1503,2636 1509,2636"/>
+                <TextEquiv>
+                    <Unicode>de Robinets,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="996,2699 2749,2699 2749,3731 996,3731"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1222,2777 1533,2810 1583,2768 1811,2775 1937,2842 2121,2777 2234,2820 2336,2773 2423,2833 2543,2794 2690,2827 2688,2708 1865,2729 1631,2671 1400,2716 1220,2647"/>
+                <Baseline points="1234,2755 1324,2749 1413,2749 1503,2755 1592,2755 1682,2755 1771,2755 1860,2755 1950,2761 2039,2755 2129,2761 2218,2761 2308,2761 2397,2761 2487,2761 2576,2761 2666,2761 2695,2755"/>
+                <TextEquiv>
+                    <Unicode>Pour les Filtres à cuves fermées le principe est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1018,2896 1637,2929 1772,2892 1969,2970 2137,2890 2332,2955 2690,2907 2690,2844 2556,2792 2386,2862 2091,2810 2013,2855 1018,2827"/>
+                <Baseline points="1031,2874 1121,2868 1210,2868 1300,2874 1389,2880 1479,2874 1568,2874 1658,2880 1747,2874 1837,2874 1926,2880 2016,2880 2105,2880 2194,2880 2284,2880 2373,2886 2463,2880 2552,2886 2642,2886 2695,2880"/>
+                <TextEquiv>
+                    <Unicode>le même, et la manœuvre est également facile; car</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1010,3046 2714,3020 2725,2909 2310,2979 2195,2912 2067,2970 1379,2899 1172,2964 1007,2914"/>
+                <Baseline points="1019,2994 1109,2994 1198,2988 1288,2994 1377,2994 1467,2994 1556,2994 1646,2994 1735,2994 1825,2994 1914,2994 2004,2994 2093,3000 2183,3000 2272,3000 2361,3000 2451,3000 2540,2994 2630,2994 2719,3000 2731,2994"/>
+                <TextEquiv>
+                    <Unicode>il suffit d'ouvrir le Robinet qui vide l’intervalle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1014,3157 1739,3129 2074,3187 2143,3137 2410,3192 2493,3133 2634,3148 2673,3088 2527,3051 2204,3088 2017,3038 1704,3085 1516,3027 1014,3096"/>
+                <Baseline points="1025,3119 1067,3113 1157,3113 1246,3113 1336,3113 1425,3113 1515,3113 1604,3113 1693,3113 1783,3119 1872,3119 1962,3119 2051,3119 2141,3119 2230,3119 2320,3119 2409,3119 2499,3119 2588,3119 2678,3113"/>
+                <TextEquiv>
+                    <Unicode>compris entre la cuve et le Filtre, et de refouler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1014,3263 1181,3318 1366,3246 2412,3261 2412,3207 2252,3164 2119,3216 1665,3161 1568,3213 1461,3161 1259,3198 1014,3157"/>
+                <Baseline points="1025,3232 1115,3232 1204,3232 1294,3232 1383,3232 1473,3232 1562,3238 1652,3238 1741,3232 1831,3232 1920,3238 2010,3232 2099,3238 2189,3238 2278,3238 2367,3238 2415,3238"/>
+                <TextEquiv>
+                    <Unicode>l'eau propre dans l'intérieur de celui-ci.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1229,3374 1724,3374 1804,3420 1985,3376 2082,3420 2152,3378 2293,3422 2443,3374 2512,3422 2642,3370 2642,3268 2534,3342 2245,3298 2080,3329 1937,3259 1722,3320 1602,3257 1229,3294"/>
+                <Baseline points="1240,3352 1330,3358 1419,3364 1509,3358 1598,3358 1687,3358 1777,3364 1866,3364 1956,3364 2045,3364 2135,3358 2224,3358 2314,3364 2403,3358 2493,3358 2582,3358 2648,3352"/>
+                <TextEquiv>
+                    <Unicode>L’un des modes le plus simple pour le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1007,3522 1205,3563 1602,3491 1787,3535 2206,3487 2282,3533 2525,3485 2625,3533 2744,3494 2744,3428 2573,3378 2284,3461 2061,3402 1956,3448 1609,3400 1007,3457"/>
+                <Baseline points="1019,3477 1049,3477 1139,3477 1228,3477 1318,3477 1407,3477 1497,3477 1586,3477 1676,3477 1765,3477 1854,3477 1944,3477 2033,3477 2123,3477 2212,3477 2302,3477 2391,3477 2481,3477 2570,3471 2660,3471 2749,3471"/>
+                <TextEquiv>
+                    <Unicode>nettoyage spécial consiste à avoir une petite Tompe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="984,3628 1110,3676 1268,3619 1494,3667 1646,3611 2721,3619 2655,3550 2406,3567 2243,3517 2158,3563 1995,3502 1856,3570 1624,3511 1188,3570 984,3524"/>
+                <Baseline points="996,3602 1025,3596 1115,3590 1204,3590 1294,3596 1383,3602 1473,3596 1562,3602 1652,3596 1741,3596 1831,3596 1920,3596 2010,3596 2099,3596 2189,3596 2278,3596 2367,3596 2457,3596 2546,3596 2636,3602 2725,3596"/>
+                <TextEquiv>
+                    <Unicode>l'acomobile (Fig. 18) dont le débit soit d'environ ¼ en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1014,3758 2206,3737 2410,3795 2655,3728 2655,3678 2349,3643 2234,3695 1995,3639 1896,3680 1678,3622 1014,3689"/>
+                <Baseline points="1025,3715 1115,3715 1204,3715 1294,3715 1383,3715 1473,3715 1562,3715 1652,3715 1741,3715 1831,3715 1920,3709 2010,3715 2099,3715 2189,3715 2278,3721 2367,3715 2457,3721 2546,3721 2636,3715 2660,3715"/>
+                <TextEquiv>
+                    <Unicode>sus de celui du Filtre, et cette Compe peut, en outre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_5" custom="readingOrder {index:3;}">
+            <Coords points="3501,236 5189,236 5189,1226 3501,1226"/>
+            <TextLine id="tr_5_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3643,326 3884,304 3960,332 4036,302 4088,332 4136,313 4171,328 4221,304 4282,319 4369,276 4369,245 4332,258 4221,208 4095,250 3865,224 3750,174 3667,202 3643,189"/>
+                <Baseline points="3656,292 3745,292 3835,292 3924,292 4014,292 4103,292 4193,292 4282,292 4372,286"/>
+                <TextEquiv>
+                    <Unicode>Désignation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3496,632 3984,630 4067,695 4243,632 4631,630 4749,680 4909,627 5013,673 5183,630 5183,545 3496,569"/>
+                <Baseline points="3507,620 3578,614 3668,614 3757,614 3847,614 3936,614 4026,620 4115,620 4205,620 4294,614 4383,620 4473,620 4562,620 4652,620 4741,614 4831,614 4920,614 5010,614 5099,614 5189,608"/>
+                <TextEquiv>
+                    <Unicode>servir à d’autres usages, notamment comme Pompe d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3507,749 3984,793 4173,743 5183,747 5183,699 5063,651 4985,699 4927,656 4662,703 4416,660 4091,708 3507,688"/>
+                <Baseline points="3519,727 3608,733 3698,733 3787,733 3876,733 3966,733 4055,733 4145,733 4234,727 4324,727 4413,727 4503,733 4592,733 4682,733 4771,727 4861,727 4950,727 5040,727 5129,727 5189,727"/>
+                <TextEquiv>
+                    <Unicode>premier secours, en cas d’incendie, dans les Etablissem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3489,868 3589,853 3715,897 3837,860 3900,879 3926,853 4088,882 4345,864 4342,747 4290,775 4034,758 3956,808 3845,777 3687,808 3583,758 3559,782 3530,760 3487,775"/>
+                <Baseline points="3501,846 3590,846 3680,841 3769,841 3859,841 3948,846 4038,846 4127,846 4216,841 4306,846 4348,846"/>
+                <TextEquiv>
+                    <Unicode>ou sont placés les Filtres.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3698,979 3943,1020 4039,981 4201,1020 4627,984 4705,1040 4814,979 5155,999 5155,916 4920,944 4840,895 4772,938 4473,897 4251,940 4041,871 3936,921 3854,862 3698,892"/>
+                <Baseline points="3709,966 3799,966 3888,972 3978,972 4067,966 4157,972 4246,966 4336,966 4425,966 4515,966 4604,966 4694,966 4783,966 4873,966 4962,966 5052,972 5141,966 5159,966"/>
+                <TextEquiv>
+                    <Unicode>Pour les petits appareils à cuve fermée, la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3496,1112 3817,1153 3963,1086 4390,1140 5165,1103 5165,999 4738,1040 4171,999 4002,1053 3913,1005 3646,1034 3496,992"/>
+                <Baseline points="3507,1079 3596,1079 3686,1085 3775,1085 3865,1085 3954,1085 4043,1085 4133,1085 4222,1085 4312,1085 4401,1085 4491,1091 4580,1085 4670,1085 4759,1085 4849,1091 4938,1091 5028,1085 5117,1085 5171,1085"/>
+                <TextEquiv>
+                    <Unicode>Pompe est plus commodement établie sur le mém</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="3507,1229 3702,1227 3763,1275 3960,1220 4798,1264 5183,1229 5183,1149 5050,1129 4933,1199 4694,1116 3507,1170"/>
+                <Baseline points="3519,1204 3608,1204 3698,1204 3787,1204 3876,1204 3966,1204 4055,1210 4145,1210 4234,1216 4324,1210 4413,1216 4503,1216 4592,1216 4682,1216 4771,1216 4861,1210 4950,1216 5040,1210 5129,1210 5189,1210"/>
+                <TextEquiv>
+                    <Unicode>plateau que le Filtre (Fig. 16). Enfin pour les tre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:4;}">
+            <Coords points="3489,1274 5213,1274 5213,2550 3489,2550"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3500,1361 4364,1351 4412,1396 4631,1340 4825,1422 4974,1351 5207,1379 5207,1259 5135,1240 4471,1311 4386,1257 4149,1307 3500,1259"/>
+                <Baseline points="3513,1336 3602,1330 3692,1336 3781,1330 3871,1330 3960,1330 4049,1330 4139,1336 4228,1330 4318,1336 4407,1336 4497,1342 4586,1342 4676,1336 4765,1342 4855,1336 4944,1336 5034,1336 5123,1336 5213,1324"/>
+                <TextEquiv>
+                    <Unicode>petits Filtres représentés (Fig. 3 et 4 ) So petite Pomp</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3483,1466 4058,1468 4267,1537 4549,1474 4838,1548 4942,1479 5055,1531 5189,1476 5189,1418 4562,1433 4206,1372 4058,1424 3908,1366 3639,1416 3483,1374"/>
+                <Baseline points="3495,1449 3584,1449 3674,1449 3763,1455 3853,1455 3942,1455 4032,1455 4121,1461 4211,1461 4300,1461 4389,1461 4479,1467 4568,1467 4658,1461 4747,1467 4837,1467 4926,1461 5016,1467 5105,1461 5195,1461 5201,1455"/>
+                <TextEquiv>
+                    <Unicode>à main à jet direct (Fig. 4) est ce qu’il y à de pli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3496,1615 3600,1622 3641,1585 3689,1581 3804,1602 3841,1589 3928,1628 3926,1496 3860,1511 3800,1474 3765,1503 3717,1498 3672,1537 3633,1535 3574,1489 3494,1496"/>
+                <Baseline points="3507,1568 3596,1568 3686,1568 3775,1568 3865,1568 3930,1574"/>
+                <TextEquiv>
+                    <Unicode>commode.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3687,1744 3945,1711 4073,1778 4221,1783 4475,1707 4673,1765 4775,1709 4918,1761 5204,1720 5168,1641 4712,1672 4564,1622 4319,1668 4227,1613 4088,1663 3687,1609"/>
+                <Baseline points="3698,1699 3775,1693 3865,1693 3954,1693 4043,1693 4133,1693 4222,1699 4312,1693 4401,1693 4491,1693 4580,1693 4670,1693 4759,1693 4849,1693 4938,1693 5028,1693 5117,1699 5207,1693"/>
+                <TextEquiv>
+                    <Unicode>Quant il s'agit de grands appareils on pourrais</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3483,1835 3676,1817 3800,1874 4036,1817 4162,1887 4390,1824 4512,1900 4712,1896 4807,1837 5165,1859 5165,1780 4660,1796 4421,1726 4221,1783 3778,1737 3483,1776"/>
+                <Baseline points="3495,1807 3584,1807 3674,1813 3763,1813 3853,1813 3942,1813 4032,1813 4121,1813 4211,1819 4300,1813 4389,1819 4479,1813 4568,1813 4658,1819 4747,1819 4837,1819 4926,1819 5016,1819 5105,1819 5171,1819"/>
+                <TextEquiv>
+                    <Unicode>éviter l’emploi d’une forte Tompe, en y substituant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3500,1965 4657,1945 4720,2002 5172,1963 5172,1863 4903,1856 4783,1917 4360,1911 4286,1854 4240,1902 4095,1854 3500,1872"/>
+                <Baseline points="3513,1932 3602,1932 3692,1932 3781,1932 3871,1938 3960,1938 4049,1938 4139,1938 4228,1938 4318,1938 4407,1938 4497,1938 4586,1938 4676,1944 4765,1938 4855,1938 4944,1938 5034,1944 5123,1944 5177,1944"/>
+                <TextEquiv>
+                    <Unicode>l'écoulement venant d'un réservoir supérieur, donn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="3489,2067 3676,2069 3756,2141 3971,2065 4086,2115 4160,2069 4234,2130 4310,2074 4942,2119 5165,2089 5165,1980 5046,1969 4905,2039 4759,1976 4688,2039 4553,2039 4158,1952 3897,2037 3778,1985 3489,2030"/>
+                <Baseline points="3501,2051 3590,2051 3680,2051 3769,2051 3859,2051 3948,2057 4038,2051 4127,2057 4216,2057 4306,2057 4395,2057 4485,2057 4574,2057 4664,2057 4753,2057 4843,2057 4932,2057 5022,2057 5111,2063 5171,2057"/>
+                <TextEquiv>
+                    <Unicode>une charge d'eau plus forte que celle correspondan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="3476,2191 3900,2223 4332,2176 4653,2254 4859,2199 4935,2269 5150,2241 5148,2150 4835,2097 4653,2143 4499,2089 4345,2160 4128,2097 3939,2150 3834,2087 3750,2147 3476,2137"/>
+                <Baseline points="3489,2165 3578,2171 3668,2171 3757,2171 3847,2177 3936,2171 4026,2177 4115,2171 4205,2177 4294,2177 4383,2177 4473,2177 4562,2177 4652,2177 4741,2177 4831,2183 4920,2183 5010,2183 5099,2177 5153,2177"/>
+                <TextEquiv>
+                    <Unicode>au travail du Filtre. – Mais dans le plus gran</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="3496,2310 4204,2304 4351,2371 4555,2371 4670,2304 4822,2351 5113,2310 5111,2256 4484,2269 4377,2213 4262,2271 3919,2273 3715,2204 3496,2265"/>
+                <Baseline points="3507,2290 3596,2284 3686,2284 3775,2290 3865,2290 3954,2290 4043,2296 4133,2296 4222,2296 4312,2296 4401,2296 4491,2296 4580,2296 4670,2296 4759,2296 4849,2302 4938,2296 5028,2296 5117,2290"/>
+                <TextEquiv>
+                    <Unicode>nombre de cas ce réservoir supérieur ne pourrait</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="3483,2432 3713,2475 4125,2423 4225,2475 4392,2427 4570,2503 4681,2454 5168,2467 5165,2334 5092,2323 4990,2384 4838,2343 4779,2395 4390,2393 4232,2325 4049,2386 3897,2315 3743,2380 3483,2347"/>
+                <Baseline points="3495,2409 3584,2409 3674,2409 3763,2409 3853,2409 3942,2409 4032,2409 4121,2415 4211,2415 4300,2415 4389,2415 4479,2415 4568,2415 4658,2415 4747,2415 4837,2415 4926,2415 5016,2415 5105,2415 5171,2415"/>
+                <TextEquiv>
+                    <Unicode>être rempli lui-même qu'au moyen d’une Pomp</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="3483,2562 3622,2612 3852,2571 3956,2621 4267,2556 4510,2632 4777,2547 4907,2608 5124,2571 5124,2475 5079,2464 4955,2514 4703,2469 4538,2514 4462,2460 4145,2512 3483,2475"/>
+                <Baseline points="3495,2528 3584,2528 3674,2523 3763,2523 3853,2528 3942,2528 4032,2528 4121,2528 4211,2534 4300,2534 4389,2534 4479,2534 4568,2534 4658,2534 4747,2534 4837,2534 4926,2534 5016,2534 5105,2534 5129,2540"/>
+                <TextEquiv>
+                    <Unicode>Le premier moyen est donc encore le plus simple</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:5;}">
+            <Coords points="3501,2735 5147,2735 5147,3767 3501,3767"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="4562,2810 4688,2799 4709,2812 4779,2790 4831,2805 4870,2838 4903,2818 4966,2825 4998,2803 4996,2727 4916,2760 4842,2705 4783,2738 4742,2714 4690,2755 4666,2740 4610,2753 4560,2725"/>
+                <Baseline points="4574,2791 4664,2785 4753,2791 4843,2785 4932,2791 5004,2791"/>
+                <TextEquiv>
+                    <Unicode>voir la légende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="4082,3031 4132,3055 4160,3051 4182,3072 4227,3048 4273,3059 4334,3040 4377,3040 4399,3061 4421,3042 4445,3061 4488,3053 4484,2920 4403,2962 4329,2979 4316,2970 4297,2985 4195,2918 4175,2927 4125,2899 4078,2909"/>
+                <Baseline points="4091,3012 4181,3012 4270,3012 4360,3018 4449,3018 4491,3018"/>
+                <TextEquiv>
+                    <Unicode>Résumé</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3663,3311 3741,3339 4045,3276 4306,3357 4488,3281 4601,3348 4683,3289 5100,3289 5066,3198 4575,3248 4397,3194 3834,3224 3767,3166 3663,3209"/>
+                <Baseline points="3674,3262 3763,3268 3853,3262 3942,3268 4032,3268 4121,3268 4211,3268 4300,3268 4389,3268 4479,3268 4568,3268 4658,3268 4747,3274 4837,3274 4926,3274 5016,3274 5105,3274"/>
+                <TextEquiv>
+                    <Unicode>D'après ces description, qui complètent celles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3500,3402 4101,3402 4177,3470 4303,3405 4918,3483 5000,3409 5076,3431 5076,3324 5000,3307 4677,3313 4584,3374 4488,3326 4184,3370 3748,3361 3646,3292 3500,3315"/>
+                <Baseline points="3513,3387 3602,3387 3692,3381 3781,3387 3871,3387 3960,3387 4049,3387 4139,3387 4228,3393 4318,3393 4407,3393 4497,3393 4586,3399 4676,3399 4765,3399 4855,3399 4944,3393 5034,3393 5081,3387"/>
+                <TextEquiv>
+                    <Unicode>précédemment données, je reclame le privilège</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3489,3589 3535,3567 3641,3593 3713,3528 3748,3546 3824,3513 3943,3600 4006,3596 4110,3530 4455,3528 4455,3454 4308,3491 3930,3424 3789,3476 3574,3420 3489,3457"/>
+                <Baseline points="3501,3507 3590,3501 3680,3507 3769,3507 3859,3507 3948,3507 4038,3513 4127,3513 4216,3513 4306,3513 4395,3507 4461,3507"/>
+                <TextEquiv>
+                    <Unicode>légal pour les objets suivants</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3650,3784 4082,3756 4186,3817 4351,3756 4929,3791 5142,3771 5142,3728 4718,3706 4536,3635 4390,3715 3995,3717 3750,3611 3648,3617"/>
+                <Baseline points="3662,3745 3751,3739 3841,3745 3930,3745 4020,3745 4109,3745 4199,3745 4288,3745 4378,3745 4467,3751 4556,3751 4646,3745 4735,3751 4825,3751 4914,3751 5004,3751 5093,3751 5147,3757"/>
+                <TextEquiv>
+                    <Unicode>Construction et emploi de Filtres - Enbulaires</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

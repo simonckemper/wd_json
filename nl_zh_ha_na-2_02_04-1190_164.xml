@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.3.0:model_id=51170:date=05_10_2023_21:06</Creator>
+        <Created>2023-10-05T08:02:44.174+02:00</Created>
+        <LastChange>2023-10-05T21:06:57.749+02:00</LastChange>
+        <TranskribusMetadata docId="1601069" pageId="60386572" pageNr="164" tsid="136533931" status="IN_PROGRESS" userId="122145" imgUrl="https://files.transkribus.eu/Get?id=OCHHLVUJSDALJNMTHBHMCXOW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FTPSLXMZOBOBLZCPXFBECVVX" imageId="48768697"/>
+    </Metadata>
+    <Page imageFilename="nl_zh_ha_na-2_02_04-1190_164.jpg" imageWidth="5481" imageHeight="4211">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1696622904406" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="966,737 2767,737 2767,1787 966,1787"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1257,854 1593,824 1793,885 1865,838 1944,865 2011,809 2252,800 2586,836 2615,743 2262,730 2077,773 1876,687 1807,750 1640,777 1556,764 1381,626 1261,635"/>
+                <Baseline points="1270,823 1276,817 1365,817 1455,817 1544,811 1634,811 1723,805 1813,805 1902,805 1992,799 2081,799 2171,793 2260,799 2350,793 2439,793 2528,787 2618,799"/>
+                <TextEquiv>
+                    <Unicode>Ik veroorloof mij alzoo eerbiedig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="957,971 1192,939 1338,1005 1993,921 2237,984 2356,919 2698,926 2735,851 960,899"/>
+                <Baseline points="972,942 1037,936 1127,936 1216,936 1306,930 1395,930 1485,924 1574,924 1664,924 1753,918 1843,918 1932,912 2021,912 2111,906 2200,912 2290,906 2379,906 2469,906 2558,906 2648,900 2737,906"/>
+                <TextEquiv>
+                    <Unicode>Uwer Majesteit te verzoeken bygaand concept</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="969,1086 1933,1041 2025,1097 2133,1032 2710,1032 2746,933 2608,978 2349,937 2252,991 1921,935 1352,1025 973,984"/>
+                <Baseline points="984,1055 1049,1049 1139,1049 1228,1043 1318,1043 1407,1043 1497,1037 1586,1031 1676,1031 1765,1031 1854,1025 1944,1025 2033,1019 2123,1019 2212,1013 2302,1013 2391,1013 2481,1008 2570,1002 2660,1002 2749,996"/>
+                <TextEquiv>
+                    <Unicode>octrooi en ontwerp van besluit te willen bekrachte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="998,1185 1385,1158 1552,1230 1689,1156 2219,1135 2390,1198 2523,1126 2744,1140 2748,1032 2588,1083 2385,1038 2259,1095 1755,1050 1561,1108 1421,1050 1147,1140 1000,1117"/>
+                <Baseline points="1013,1157 1049,1157 1139,1157 1228,1151 1318,1145 1407,1139 1497,1139 1586,1133 1676,1133 1765,1133 1854,1127 1944,1127 2033,1127 2123,1121 2212,1121 2302,1121 2391,1115 2481,1109 2570,1109 2660,1103 2749,1103"/>
+                <TextEquiv>
+                    <Unicode>„ren, en het daarbij liggend duplicaat van het</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="951,1318 1401,1255 2534,1264 2762,1234 2764,1115 2390,1198 2059,1135 1714,1225 953,1232"/>
+                <Baseline points="966,1264 978,1270 1067,1264 1157,1258 1246,1258 1336,1252 1425,1246 1515,1246 1604,1240 1693,1240 1783,1234 1872,1234 1962,1228 2051,1222 2141,1222 2230,1222 2320,1222 2409,1216 2499,1216 2588,1216 2678,1216 2767,1216"/>
+                <TextEquiv>
+                    <Unicode>octrooi, dat aan den belanghebbende zou worden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="964,1457 1270,1376 2478,1367 2622,1349 2624,1275 2480,1237 2059,1300 1948,1241 1777,1309 1370,1275 1219,1347 1122,1302 969,1345"/>
+                <Baseline points="978,1371 1019,1371 1109,1371 1198,1365 1288,1359 1377,1359 1467,1353 1556,1347 1646,1347 1735,1342 1825,1336 1914,1336 2004,1330 2093,1330 2183,1324 2272,1324 2361,1318 2451,1318 2540,1312 2630,1318"/>
+                <TextEquiv>
+                    <Unicode>uitgereikt tevens te willen onderteekenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1759,1586 1962,1550 2050,1584 2095,1559 2151,1565 2243,1624 2325,1595 2426,1617 2430,1498 2381,1484 2250,1518 2142,1471 2030,1518 1966,1496 1888,1424 1834,1415 1764,1442"/>
+                <Baseline points="1771,1556 1807,1556 1896,1550 1986,1550 2075,1550 2165,1544 2254,1538 2344,1538 2433,1538"/>
+                <TextEquiv>
+                    <Unicode>De Minister</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1608,1802 2620,1764 2640,1662 2331,1644 1966,1741 1838,1662 1613,1667"/>
+                <Baseline points="1622,1777 1658,1771 1747,1771 1837,1771 1926,1771 2016,1771 2105,1765 2194,1759 2284,1753 2373,1753 2463,1747 2552,1741 2642,1741"/>
+                <TextEquiv>
+                    <Unicode>Binnenlandsche Zaken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

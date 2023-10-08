@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.3.0:model_id=51170:date=05_10_2023_20:43</Creator>
+        <Created>2023-10-05T08:02:44.018+02:00</Created>
+        <LastChange>2023-10-05T20:43:02.208+02:00</LastChange>
+        <TranskribusMetadata docId="1601069" pageId="60386521" pageNr="114" tsid="136530697" status="IN_PROGRESS" userId="122145" imgUrl="https://files.transkribus.eu/Get?id=HSBRGKBCBKJJATHNUGRIGQBO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YODBQKTSDGLPJSSLWVCQJPRC" imageId="48768646"/>
+    </Metadata>
+    <Page imageFilename="nl_zh_ha_na-2_02_04-1190_114.jpg" imageWidth="5381" imageHeight="4301">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1696622900651" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2962,356 4952,356 4952,1443 2962,1443"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2984,478 3167,422 3337,474 3433,422 3529,469 3583,449 3650,501 3796,508 3798,289 3539,271 2987,298"/>
+                <Baseline points="2998,418 3082,412 3171,412 3261,412 3351,412 3440,406 3530,406 3620,406 3709,406 3799,412"/>
+                <TextEquiv>
+                    <Unicode>Een 26 April 1859 No. 48</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2950,853 3033,811 3396,871 3588,831 3800,885 3884,866 3887,755 3729,710 3675,747 3579,681 3428,740 3394,710 3283,755 3038,718 2952,762"/>
+                <Baseline points="2962,806 2998,806 3088,806 3177,800 3267,800 3357,800 3446,794 3536,794 3625,794 3715,788 3805,794 3894,794"/>
+                <TextEquiv>
+                    <Unicode>De Kanton Regter te Assen.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2967,999 3177,922 4804,930 4945,913 4945,831 2967,873"/>
+                <Baseline points="2980,925 3070,919 3160,919 3249,913 3339,913 3428,907 3518,907 3608,907 3697,913 3787,913 3876,913 3966,913 4056,907 4145,907 4235,907 4324,907 4414,907 4504,902 4593,902 4683,896 4772,896 4862,896 4952,896"/>
+                <TextEquiv>
+                    <Unicode>Gehen het verzoek beneven het verslag van aan Ambtenaar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2960,1031 3243,1097 3566,1009 4207,1011 4491,1078 4935,1016 4935,935 3699,974 3608,927 3490,977 3189,930 2960,1001"/>
+                <Baseline points="2974,1021 3058,1021 3148,1015 3237,1009 3327,1003 3416,1003 3506,997 3596,997 3685,997 3775,997 3864,997 3954,1003 4044,1003 4133,1003 4223,1003 4312,1003 4402,1003 4492,1003 4581,997 4671,997 4760,997 4850,991 4940,991"/>
+                <TextEquiv>
+                    <Unicode>van het Oplubaar Ministrie by hetselve Kanton geregt, en zich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2984,1154 3310,1194 3591,1112 3657,1176 3855,1107 4792,1130 4898,1115 4898,1048 2984,1068"/>
+                <Baseline points="2998,1129 3022,1129 3112,1123 3201,1117 3291,1117 3381,1111 3470,1105 3560,1105 3649,1105 3739,1105 3829,1105 3918,1105 4008,1105 4097,1105 4187,1099 4277,1099 4366,1099 4456,1099 4545,1099 4635,1099 4725,1099 4814,1093 4904,1099"/>
+                <TextEquiv>
+                    <Unicode>hiermede geheel vereingen de vielent de ny heer Z. A. aen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="2984,1245 3645,1206 3926,1282 4074,1216 4491,1201 4772,1270 4839,1245 4841,1134 4294,1107 4188,1169 3877,1134 3310,1196 2984,1154"/>
+                <Baseline points="2998,1230 3052,1224 3142,1224 3231,1224 3321,1218 3410,1212 3500,1206 3590,1206 3679,1206 3769,1206 3858,1206 3948,1200 4038,1200 4127,1200 4217,1200 4306,1194 4396,1194 4486,1194 4575,1188 4665,1188 4754,1188 4844,1188"/>
+                <TextEquiv>
+                    <Unicode>koning te advorens den Rekvolstrant.üthten Josef</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="2999,1421 3149,1349 3490,1332 3763,1327 3879,1398 4230,1300 4412,1295 4498,1366 4718,1315 4750,1243 4491,1201 4395,1255 3426,1297 3226,1223 3004,1243"/>
+                <Baseline points="3016,1344 3052,1344 3142,1338 3231,1332 3321,1326 3410,1326 3500,1320 3590,1320 3679,1320 3769,1314 3858,1314 3948,1314 4038,1308 4127,1302 4217,1302 4306,1296 4396,1290 4486,1290 4575,1284 4665,1284 4754,1284"/>
+                <TextEquiv>
+                    <Unicode>bykstra van de vlverdeling vollenig te ontheffen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="3431,1453 3576,1443 3635,1467 3771,1435 3926,1492 4020,1455 4059,1490 4148,1465 4200,1485 4222,1327 4165,1322 4109,1361 3973,1334 3887,1391 3702,1388 3623,1347 3433,1364"/>
+                <Baseline points="3446,1433 3512,1433 3602,1427 3691,1427 3781,1427 3870,1421 3960,1421 4050,1421 4139,1421 4229,1421"/>
+                <TextEquiv>
+                    <Unicode>Achten Ulm 21 April 1859</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="3966,1485 4916,1485 4916,1730 3966,1730"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3953,1559 4099,1549 4170,1583 4415,1536 4572,1569 4913,1559 4913,1490 4548,1502 4464,1440 4336,1485 4259,1443 4200,1487 4153,1465 3953,1490"/>
+                <Baseline points="3966,1547 4020,1547 4109,1541 4199,1541 4289,1535 4378,1535 4468,1535 4557,1535 4647,1535 4737,1535 4826,1535 4916,1541"/>
+                <TextEquiv>
+                    <Unicode>De Kanten Regter woonen u</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="4400,1731 4444,1714 4528,1739 4545,1726 4595,1736 4639,1773 4676,1768 4674,1618 4649,1628 4600,1588 4575,1593 4535,1564 4518,1564 4498,1583 4447,1569 4397,1588"/>
+                <Baseline points="4414,1714 4504,1714 4593,1714 4683,1720"/>
+                <TextEquiv>
+                    <Unicode>P. K. R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

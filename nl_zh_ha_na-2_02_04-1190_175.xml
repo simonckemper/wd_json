@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.3.0:model_id=51170:date=05_10_2023_21:07</Creator>
+        <Created>2023-10-05T08:02:44.205+02:00</Created>
+        <LastChange>2023-10-05T21:07:01.230+02:00</LastChange>
+        <TranskribusMetadata docId="1601069" pageId="60386584" pageNr="175" tsid="136533950" status="IN_PROGRESS" userId="122145" imgUrl="https://files.transkribus.eu/Get?id=BSNFEEQLXQSMGIIMZPNZWNOX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YCARNGADQHMVXGFRWMFYAHKC" imageId="48768709"/>
+    </Metadata>
+    <Page imageFilename="nl_zh_ha_na-2_02_04-1190_175.jpg" imageWidth="5479" imageHeight="4203">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1696622905212" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_4"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+                <RegionRefIndexed index="3" regionRef="tr_5"/>
+                <RegionRefIndexed index="4" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="382,236 2758,236 2758,1287 382,1287"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1241,388 1374,365 1479,400 1600,371 1803,406 1968,397 1962,271 1841,209 1591,271 1450,221 1418,238 1359,194 1235,215"/>
+                <Baseline points="1253,286 1343,286 1432,292 1522,292 1611,298 1701,298 1791,304 1880,310 1970,310"/>
+                <TextEquiv>
+                    <Unicode>Designation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="365,497 950,615 1150,550 1744,626 2159,585 2156,441 2024,421 1765,412 1615,479 1329,394 1068,462 774,353 362,406"/>
+                <Baseline points="382,483 471,483 561,483 650,483 740,489 829,489 919,489 1008,495 1098,495 1188,495 1277,501 1367,501 1456,507 1546,507 1635,507 1725,513 1814,513 1904,519 1994,519 2083,519 2167,525"/>
+                <TextEquiv>
+                    <Unicode>13 Filtre plus grand, à cuve horiz ontale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="518,679 624,650 747,735 1321,659 1644,753 1741,682 1982,676 2271,750 2265,585 1918,624 1844,576 1744,638 1088,565 947,615 512,509"/>
+                <Baseline points="531,620 620,626 710,626 800,632 889,632 979,638 1068,638 1158,638 1247,638 1337,644 1426,650 1516,650 1605,656 1695,656 1785,656 1874,662 1964,662 2053,668 2143,668 2232,674 2274,674"/>
+                <TextEquiv>
+                    <Unicode>a c. b. Euyau, robinct, &amp; raccord d'arrivée. et Petits robincts de rentousag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="524,844 1906,903 2147,824 2462,915 2674,800 2388,694 2227,762 1841,682 1641,753 1500,691 935,741 518,679"/>
+                <Baseline points="537,770 626,770 716,770 805,776 895,776 985,782 1074,782 1164,782 1253,782 1343,788 1432,788 1522,794 1611,794 1701,794 1791,800 1880,800 1970,805 2059,805 2149,811 2238,811 2328,817 2417,817 2507,823 2597,823 2680,829"/>
+                <TextEquiv>
+                    <Unicode>e. f. Robinct &amp; raccerd pour l’eau clarifiée. l. Bouckon, à manivelle p. le ordange de l'eau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="529,1035 676,962 782,1003 1044,950 1100,982 1159,959 1241,985 1353,953 1350,882 1274,903 1174,850 1062,897 876,829 785,891 629,826 524,844"/>
+                <Baseline points="543,919 632,913 722,913 811,919 901,925 991,925 1080,931 1170,931 1259,931 1349,937 1361,937"/>
+                <TextEquiv>
+                    <Unicode>g. h. Couvercle fermant à brides.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1415,959 1765,959 1859,1012 1938,962 2368,979 2568,1032 2635,988 2753,1044 2750,906 2682,929 2606,868 2385,929 2085,879 1953,924 1668,844 1415,912"/>
+                <Baseline points="1432,943 1522,943 1611,943 1701,943 1791,943 1880,949 1970,949 2059,955 2149,955 2238,961 2328,961 2417,967 2507,967 2597,973 2686,979 2758,979"/>
+                <TextEquiv>
+                    <Unicode>M. N. support sous le robinet à branchem=t représenté Fig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="388,1074 800,1082 900,1168 1300,1091 1477,1188 2071,1124 2068,1059 1965,1012 1712,1062 1441,962 1388,1015 1303,971 1138,1041 962,976 853,1029 382,944"/>
+                <Baseline points="405,1050 495,1056 585,1056 674,1056 764,1062 853,1062 943,1068 1032,1068 1122,1074 1211,1074 1301,1080 1391,1080 1480,1086 1570,1086 1659,1092 1749,1092 1838,1098 1928,1098 2017,1104 2077,1104"/>
+                <TextEquiv>
+                    <Unicode>13b is Brosse à tige pour le mettoyage superficiel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="382,1224 2744,1288 2741,1209 2371,1126 2044,1215 897,1194 659,1109 382,1162"/>
+                <Baseline points="400,1205 489,1205 579,1205 668,1205 758,1217 847,1217 937,1217 1026,1217 1116,1217 1205,1223 1295,1229 1385,1229 1474,1229 1564,1235 1653,1235 1743,1241 1832,1241 1922,1247 2011,1247 2101,1253 2191,1253 2280,1253 2370,1259 2459,1259 2549,1265 2638,1271 2728,1271 2752,1277"/>
+                <TextEquiv>
+                    <Unicode>14    Plan du robinet à raccerd &amp; a double branchement l’un servau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_4" custom="readingOrder {index:1;}">
+            <Coords points="400,1305 2746,1305 2746,2451 400,2451"/>
+            <TextLine id="tr_4_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="488,1468 679,1368 2029,1409 2200,1506 2406,1415 2671,1477 2668,1327 2385,1288 1968,1356 1385,1265 1285,1347 1100,1259 715,1324 482,1229"/>
+                <Baseline points="501,1367 591,1355 680,1355 770,1361 859,1361 949,1361 1038,1367 1128,1367 1217,1373 1307,1373 1397,1373 1486,1379 1576,1379 1665,1385 1755,1385 1844,1385 1934,1391 2023,1391 2113,1397 2202,1397 2292,1397 2382,1402 2471,1402 2561,1408 2650,1408 2674,1402"/>
+                <TextEquiv>
+                    <Unicode>pour la sortie de l'eau, clarifiée, l'autre pour le nettoyage de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="497,1535 556,1521 615,1556 659,1562 682,1544 721,1568 753,1571 744,1394 659,1371 591,1421 576,1418 509,1468 494,1468"/>
+                <Baseline points="513,1504 602,1504 692,1510 758,1516"/>
+                <TextEquiv>
+                    <Unicode>Sompe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="382,1700 2738,1771 2735,1647 2365,1568 1759,1635 1532,1553 1212,1632 782,1529 379,1577"/>
+                <Baseline points="400,1641 489,1641 579,1647 668,1647 758,1653 847,1653 937,1653 1026,1659 1116,1659 1205,1665 1295,1665 1385,1671 1474,1671 1564,1671 1653,1677 1743,1677 1832,1683 1922,1683 2011,1683 2101,1683 2191,1689 2280,1689 2370,1695 2459,1695 2549,1695 2638,1701 2728,1707 2746,1707"/>
+                <TextEquiv>
+                    <Unicode>15 Détait du robinct, à double boisseau, dont l'un sert comme robing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="503,1809 1291,1909 1412,1827 1877,1906 1974,1841 2650,1874 2650,1800 2077,1785 1844,1697 1235,1785 503,1709"/>
+                <Baseline points="519,1797 608,1791 698,1797 788,1797 877,1802 967,1802 1056,1802 1146,1808 1235,1814 1325,1814 1414,1814 1504,1814 1594,1814 1683,1820 1773,1826 1862,1826 1952,1826 2041,1832 2131,1838 2220,1838 2310,1838 2400,1838 2489,1844 2579,1850 2656,1844"/>
+                <TextEquiv>
+                    <Unicode>d’arret, l’autre comme régulateur de la pression, extérieure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="382,2003 491,2065 765,1965 2450,2035 2635,2015 2635,1950 1527,1856 1303,1912 1168,1856 1079,1929 891,1847 379,1888"/>
+                <Baseline points="400,1946 489,1946 579,1946 668,1946 758,1952 847,1952 937,1952 1026,1958 1116,1958 1205,1958 1295,1958 1385,1958 1474,1958 1564,1964 1653,1970 1743,1970 1832,1976 1922,1976 2011,1976 2101,1982 2191,1982 2280,1982 2370,1982 2459,1982 2549,1982 2638,1994 2644,1994"/>
+                <TextEquiv>
+                    <Unicode>16. Appareil à ceux horizontale précède d'un Eube. Reducteur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="488,2115 794,2179 894,2112 1362,2124 1756,2235 2368,2241 2512,2144 2697,2156 2694,2056 2435,2115 1582,1991 962,2065 735,1982 485,2056"/>
+                <Baseline points="501,2077 591,2083 680,2089 770,2089 859,2095 949,2095 1038,2101 1128,2101 1217,2101 1307,2107 1397,2107 1486,2113 1576,2113 1665,2113 1755,2119 1844,2119 1934,2119 2023,2125 2113,2125 2202,2131 2292,2131 2382,2131 2471,2137 2561,2137 2650,2131 2704,2137"/>
+                <TextEquiv>
+                    <Unicode>N=o La disposition des raciards et Rcabinets est, pour le surplus, la même que dans la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="506,2279 553,2271 574,2247 597,2268 626,2262 665,2300 679,2285 694,2285 688,2115 662,2115 644,2097 629,2109 588,2103 500,2118"/>
+                <Baseline points="519,2232 608,2232 698,2238 704,2232"/>
+                <TextEquiv>
+                    <Unicode>Tig. 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="524,2453 712,2388 1053,2479 1471,2403 1597,2471 2203,2429 2735,2506 2677,2368 1818,2315 1694,2371 1377,2294 924,2347 518,2268"/>
+                <Baseline points="537,2376 626,2376 716,2376 805,2382 895,2388 985,2388 1074,2388 1164,2388 1253,2388 1343,2394 1432,2394 1522,2394 1611,2400 1701,2405 1791,2405 1880,2411 1970,2411 2059,2417 2149,2417 2238,2423 2328,2423 2417,2429 2507,2435 2597,2435 2686,2441 2740,2441"/>
+                <TextEquiv>
+                    <Unicode>Elération, vue de face de la Boite manométrique, servant à vérifier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="370,2475 2716,2475 2716,3795 370,3795"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="500,2606 882,2538 1541,2638 1718,2559 2703,2615 2700,2541 2412,2465 1985,2538 1197,2441 1071,2512 706,2491 618,2412 494,2482"/>
+                <Baseline points="513,2525 602,2525 692,2525 782,2525 871,2531 961,2531 1050,2531 1140,2531 1229,2537 1319,2537 1408,2543 1498,2543 1588,2549 1677,2549 1767,2555 1856,2555 1946,2561 2035,2561 2125,2561 2214,2567 2304,2567 2394,2573 2483,2573 2573,2579 2662,2579 2710,2579"/>
+                <TextEquiv>
+                    <Unicode>les pretions, ou charges d’eau, effectives auxquelles sont soumis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="500,2738 541,2759 700,2703 741,2724 776,2691 968,2688 1203,2741 1279,2694 1424,2744 1421,2644 1229,2547 1138,2603 924,2594 847,2644 724,2635 659,2577 497,2594"/>
+                <Baseline points="513,2668 602,2668 692,2674 782,2674 871,2674 961,2674 1050,2680 1140,2680 1229,2680 1319,2686 1408,2692 1432,2692"/>
+                <TextEquiv>
+                    <Unicode>les appareils de cette espèce</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="468,2847 509,2824 668,2821 697,2844 756,2827 824,2877 868,2844 903,2868 950,2829 982,2832 979,2709 903,2747 856,2721 815,2738 779,2718 750,2738 700,2703 556,2771 506,2765 468,2785"/>
+                <Baseline points="483,2805 573,2805 662,2811 752,2811 841,2811 931,2817 991,2817"/>
+                <TextEquiv>
+                    <Unicode>a a. Rancord à vis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1632,2938 1727,2932 1812,2877 1882,2903 1979,2871 2121,2894 2115,2782 2062,2771 2024,2788 1959,2774 1924,2741 1874,2782 1815,2785 1797,2768 1771,2785 1706,2738 1656,2771 1627,2768"/>
+                <Baseline points="1647,2841 1737,2841 1826,2841 1916,2847 2005,2853 2095,2853 2125,2853"/>
+                <TextEquiv>
+                    <Unicode>B: petite ventouse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="579,2994 894,3044 1229,2994 1471,3053 2221,3032 2218,2921 2053,2947 1909,2882 1521,2947 576,2844"/>
+                <Baseline points="597,2967 686,2961 776,2961 865,2967 955,2967 1044,2973 1134,2973 1223,2979 1313,2979 1402,2979 1492,2985 1582,2985 1671,2991 1761,2991 1850,2997 1940,2997 2029,3002 2119,3002 2208,3002 2226,3002"/>
+                <TextEquiv>
+                    <Unicode>Filtres fonctionnant par resoulement.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="650,3200 826,3235 924,3177 1153,3215 1438,3177 1729,3218 1832,3156 2118,3156 2118,3059 1997,3094 1424,3029 1129,3091 647,3015"/>
+                <Baseline points="662,3110 752,3110 841,3110 931,3116 1020,3116 1110,3116 1200,3122 1289,3122 1379,3122 1468,3122 1558,3128 1647,3128 1737,3128 1826,3128 1916,3134 2005,3134 2095,3128 2125,3134"/>
+                <TextEquiv>
+                    <Unicode>Filtrage opéré par Refoulement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="353,3327 603,3271 947,3350 2644,3327 2641,3212 2479,3179 1982,3262 1268,3168 815,3244 624,3129 350,3156"/>
+                <Baseline points="370,3259 459,3259 549,3259 638,3259 728,3259 817,3265 907,3265 997,3265 1086,3271 1176,3271 1265,3271 1355,3271 1444,3271 1534,3277 1623,3277 1713,3277 1802,3277 1892,3283 1982,3283 2071,3289 2161,3289 2250,3283 2340,3289 2429,3295 2519,3295 2608,3307 2650,3307"/>
+                <TextEquiv>
+                    <Unicode>18. La même sompe puise dans une barrique, un liquide</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="450,3488 888,3415 1706,3435 1877,3518 2118,3441 2712,3459 2712,3400 1956,3312 1835,3388 1703,3315 829,3368 650,3291 450,3368"/>
+                <Baseline points="465,3402 555,3402 644,3402 734,3402 823,3402 913,3408 1002,3408 1092,3408 1182,3408 1271,3414 1361,3414 1450,3420 1540,3420 1629,3420 1719,3420 1808,3426 1898,3426 1988,3426 2077,3426 2167,3432 2256,3432 2346,3432 2435,3438 2525,3438 2614,3444 2704,3444 2716,3444"/>
+                <TextEquiv>
+                    <Unicode>trouble, qu’elle transmet, à Travers le filtre dans une autre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="456,3568 759,3635 1150,3565 2679,3650 2612,3479 1709,3541 1565,3456 1224,3527 453,3465"/>
+                <Baseline points="471,3546 561,3546 650,3552 740,3552 829,3552 919,3552 1008,3552 1098,3558 1188,3558 1277,3558 1367,3558 1456,3558 1546,3558 1635,3564 1725,3570 1814,3570 1904,3570 1994,3570 2083,3576 2173,3576 2262,3576 2352,3582 2441,3588 2531,3588 2620,3594 2686,3594"/>
+                <TextEquiv>
+                    <Unicode>barrique, sans que ce liquide ait reçus le contact de l’air</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1124,3727 1344,3756 1532,3677 2668,3721 2668,3659 2565,3603 2447,3653 2241,3591 2162,3641 1650,3577 1350,3641 1124,3621"/>
+                <Baseline points="1140,3695 1152,3695 1241,3683 1331,3677 1420,3671 1510,3671 1600,3671 1689,3671 1779,3671 1868,3671 1958,3671 2047,3671 2137,3677 2226,3677 2316,3677 2405,3677 2495,3683 2585,3683 2674,3683"/>
+                <TextEquiv>
+                    <Unicode>p.p P. A. Le Comte de Fontaine Movee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1809,3812 1877,3797 1903,3818 1988,3785 2062,3794 2100,3824 2171,3794 2218,3818 2350,3824 2350,3732 2282,3700 2224,3715 2168,3682 2082,3703 2012,3680 1812,3700"/>
+                <Baseline points="1826,3779 1910,3779 2000,3785 2089,3779 2179,3779 2268,3779 2358,3773"/>
+                <TextEquiv>
+                    <Unicode>P. J. Vonk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_5" custom="readingOrder {index:3;}">
+            <Coords points="2931,1758 3898,1758 3898,2350 2931,2350"/>
+            <TextLine id="tr_5_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3521,1877 3577,1897 3609,1874 3641,1871 3665,1891 3721,1894 3732,1882 3750,1903 3768,1903 3782,1727 3756,1732 3744,1718 3706,1735 3662,1718 3600,1753 3591,1747 3559,1765 3530,1759"/>
+                <Baseline points="3540,1826 3605,1820 3695,1814 3785,1808"/>
+                <TextEquiv>
+                    <Unicode>Wien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3041,2041 3100,2041 3138,2009 3341,2032 3403,2012 3435,2035 3559,2006 3656,2021 3706,2009 3706,1882 3618,1909 3509,1868 3353,1915 3259,1859 3179,1856 3041,1909"/>
+                <Baseline points="3056,2000 3086,1994 3176,1994 3265,1994 3355,1994 3444,2000 3534,1994 3623,1988 3713,1988"/>
+                <TextEquiv>
+                    <Unicode>De Minister</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2915,2215 2959,2235 3071,2194 3171,2232 3235,2185 3429,2179 3738,2218 3891,2179 3894,2050 3456,2029 3368,2085 3288,2041 3224,2085 3077,2056 3003,2091 2918,2062"/>
+                <Baseline points="2931,2185 3002,2179 3092,2173 3182,2173 3271,2167 3361,2167 3450,2167 3540,2167 3629,2167 3719,2161 3808,2161 3898,2161"/>
+                <TextEquiv>
+                    <Unicode>Binnenlandsche Zaken:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3432,2362 3459,2359 3474,2344 3521,2353 3535,2341 3580,2347 3603,2338 3618,2353 3644,2344 3650,2200 3635,2197 3615,2212 3582,2191 3506,2244 3482,2224 3468,2235 3435,2235"/>
+                <Baseline points="3450,2340 3474,2340 3564,2334 3653,2334"/>
+                <TextEquiv>
+                    <Unicode>Vulx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:4;}">
+            <Coords points="3928,529 5188,529 5188,2111 3928,2111"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3912,600 4056,600 4077,615 4144,588 4171,600 4306,600 4309,526 4280,512 4232,529 4194,515 4141,532 4118,515 4094,532 4068,515 3915,526"/>
+                <Baseline points="3928,591 3952,591 4041,585 4131,585 4220,579 4310,579"/>
+                <TextEquiv>
+                    <Unicode>waartoe er ter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="4306,603 4359,597 4430,647 4485,597 4538,597 4580,638 4624,609 4668,618 4694,591 4715,591 4715,509 4644,518 4580,497 4541,526 4491,524 4468,506 4356,529 4306,524"/>
+                <Baseline points="4322,579 4411,579 4501,585 4591,579 4680,579 4722,579"/>
+                <TextEquiv>
+                    <Unicode>nen zijn mogten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="4006,721 4171,688 4312,694 4365,735 4459,682 4641,676 4788,735 4885,726 5035,676 5035,579 4785,568 4580,638 4488,597 4424,641 4141,588 4006,635"/>
+                <Baseline points="4023,686 4059,680 4149,674 4238,668 4328,674 4417,668 4507,668 4597,668 4686,668 4776,668 4865,662 4955,662 5044,662"/>
+                <TextEquiv>
+                    <Unicode>Zonder eenigzints te waarborgen de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3918,785 4138,812 4344,771 4430,824 4715,765 4794,821 4924,812 5056,765 5056,674 4930,706 4830,674 4694,729 4621,685 4450,685 4368,735 4312,694 4280,721 4094,685 3918,735"/>
+                <Baseline points="3934,770 3988,764 4077,758 4167,758 4256,758 4346,758 4435,752 4525,758 4614,752 4704,752 4794,752 4883,752 4973,752 5062,758"/>
+                <TextEquiv>
+                    <Unicode>waarde der uitvinding, den voorrang der in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3912,891 4032,926 4177,862 4253,903 4309,862 4430,856 4588,906 4788,900 4947,865 4950,806 4797,821 4715,765 4674,800 4582,765 4450,824 4362,776 4141,826 3912,824"/>
+                <Baseline points="3928,853 3970,853 4059,853 4149,853 4238,847 4328,847 4417,847 4507,841 4597,841 4686,841 4776,841 4865,841 4955,835"/>
+                <TextEquiv>
+                    <Unicode>voering, noch de waarheid der opgave</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3930,976 3997,1000 4224,935 5018,938 5018,882 4930,856 4821,885 4753,856 4697,903 4459,856 4044,924 3932,903"/>
+                <Baseline points="3946,937 3952,943 4041,943 4131,937 4220,937 4310,931 4400,931 4489,931 4579,931 4668,925 4758,919 4847,919 4937,919 5026,919"/>
+                <TextEquiv>
+                    <Unicode>aangaande het aanvragen van</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="3938,1047 4009,1065 4106,1024 4221,1088 4306,1035 4359,1056 4503,1018 4671,1026 4706,1056 4785,1029 4785,947 4718,956 4691,929 4359,962 4232,932 4156,976 4080,956 4018,997 3941,997"/>
+                <Baseline points="3958,1032 3988,1026 4077,1026 4167,1026 4256,1020 4346,1020 4435,1014 4525,1020 4614,1014 4704,1014 4794,1014"/>
+                <TextEquiv>
+                    <Unicode>een buitenlandsch Octrooi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="4115,1118 4353,1147 4480,1109 4597,1141 4774,1109 4838,1147 4900,1109 5009,1115 5012,997 4880,982 4706,1056 4682,1029 4315,1032 4244,1088 4168,1038 4115,1044"/>
+                <Baseline points="4131,1110 4208,1110 4298,1104 4388,1104 4477,1110 4567,1104 4656,1104 4746,1104 4835,1098 4925,1098 5014,1098"/>
+                <TextEquiv>
+                    <Unicode>On zal dit Octrooi door Ons</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="3912,1241 4085,1244 4130,1209 4215,1253 4265,1224 4471,1253 4850,1197 4938,1235 5006,1209 5009,1118 4377,1171 4235,1118 3912,1174"/>
+                <Baseline points="3928,1200 3940,1200 4029,1200 4119,1194 4208,1200 4298,1194 4388,1194 4477,1194 4567,1188 4656,1188 4746,1188 4835,1188 4925,1188 5014,1182"/>
+                <TextEquiv>
+                    <Unicode>vervallen kunnen worden verklaard, om</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="3930,1318 4544,1291 4618,1350 4718,1288 4877,1282 4974,1332 5030,1312 5030,1218 4897,1232 4850,1197 4756,1244 4697,1200 4335,1262 4262,1221 4209,1256 4130,1215 4077,1250 3930,1238"/>
+                <Baseline points="3946,1283 3964,1283 4053,1283 4143,1283 4232,1283 4322,1283 4411,1283 4501,1277 4591,1277 4680,1277 4770,1277 4859,1277 4949,1271 5038,1271"/>
+                <TextEquiv>
+                    <Unicode>eene der redenen vermeld bij Art 8 der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="3924,1394 4280,1379 4309,1400 4385,1374 4730,1427 4732,1306 4621,1347 4538,1297 4377,1300 4291,1338 4194,1297 4153,1324 4091,1297 3924,1318"/>
+                <Baseline points="3940,1379 4017,1373 4107,1373 4197,1373 4286,1373 4376,1373 4465,1367 4555,1367 4644,1367 4734,1367"/>
+                <TextEquiv>
+                    <Unicode>wet van den 25 Januarij 1817.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="4147,1494 4344,1462 4506,1465 4541,1500 4685,1468 4900,1500 5024,1471 5024,1421 4959,1397 4924,1424 4750,1394 4706,1427 4606,1429 4474,1382 4150,1382"/>
+                <Baseline points="4167,1462 4226,1462 4316,1456 4405,1456 4495,1450 4585,1450 4674,1450 4764,1450 4853,1450 4943,1450 5032,1450"/>
+                <TextEquiv>
+                    <Unicode>De geoctroijeerde voorwerpen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="3930,1565 4271,1562 4480,1615 4574,1553 4635,1591 4903,1559 4962,1600 5062,1562 5118,1606 5180,1594 5180,1447 4906,1500 4653,1468 4591,1509 4450,1462 4274,1521 4056,1441 3930,1491"/>
+                <Baseline points="3946,1552 4035,1552 4125,1552 4214,1546 4304,1546 4394,1546 4483,1546 4573,1546 4662,1540 4752,1540 4841,1540 4931,1540 5020,1546 5110,1558 5188,1564"/>
+                <TextEquiv>
+                    <Unicode>zullen binnen het Rijk moeten worden ver„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="3927,1694 3965,1703 3985,1694 4018,1709 4056,1697 4082,1715 4174,1727 4177,1571 4112,1574 4080,1594 4050,1588 4030,1603 4015,1597 3930,1618"/>
+                <Baseline points="3946,1641 4005,1635 4095,1635 4185,1635"/>
+                <TextEquiv>
+                    <Unicode>vaardigd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="4103,1844 4400,1847 4488,1812 4718,1835 4803,1812 4850,1835 4856,1685 4703,1665 4532,1703 4406,1685 4330,1715 4294,1694 4253,1729 4182,1694 4147,1721 4106,1709"/>
+                <Baseline points="4119,1814 4143,1814 4232,1814 4322,1814 4411,1802 4501,1797 4591,1797 4680,1797 4770,1797 4859,1797"/>
+                <TextEquiv>
+                    <Unicode>den 8 kei 1854</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="4253,2138 4330,2127 4368,2147 4444,2121 4547,2150 4644,2129 4738,2194 4821,2185 4827,1903 4747,1903 4682,1962 4553,1997 4462,1974 4335,2029 4309,2009 4253,2024"/>
+                <Baseline points="4268,2101 4292,2101 4382,2095 4471,2095 4561,2095 4650,2089 4740,2089 4829,2089"/>
+                <TextEquiv>
+                    <Unicode>Willem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

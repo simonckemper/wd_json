@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.3.0:model_id=51170:date=05_10_2023_20:43</Creator>
+        <Created>2023-10-05T08:02:44.012+02:00</Created>
+        <LastChange>2023-10-05T20:43:01.806+02:00</LastChange>
+        <TranskribusMetadata docId="1601069" pageId="60386519" pageNr="112" tsid="136530695" status="IN_PROGRESS" userId="122145" imgUrl="https://files.transkribus.eu/Get?id=SQVURZYWJHXNCOSSIGLNEVFQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VZSQGLBNTIFZYHNSNZONLATL" imageId="48768644"/>
+    </Metadata>
+    <Page imageFilename="nl_zh_ha_na-2_02_04-1190_112.jpg" imageWidth="5471" imageHeight="4301">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1696622900521" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="979,439 2789,439 2789,1204 979,1204"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1181,690 1663,555 1765,588 2304,517 2430,577 2645,500 2729,535 2782,517 2786,442 2552,360 2419,427 2140,467 2079,420 1946,484 1864,438 1647,495 1342,418 1198,444"/>
+                <Baseline points="1200,597 1266,591 1356,579 1445,573 1535,567 1624,561 1714,555 1804,549 1893,543 1983,531 2072,531 2162,525 2252,519 2341,513 2431,507 2520,501 2610,495 2700,489 2789,489"/>
+                <TextEquiv>
+                    <Unicode>Concludeert dat het der Regtbank</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="982,778 1123,838 1325,750 1488,805 1669,723 2468,643 2700,721 2755,690 2766,542 2249,646 2032,579 1840,668 1457,699 1229,632 993,657"/>
+                <Baseline points="997,758 1063,758 1152,746 1242,746 1332,740 1421,734 1511,728 1600,722 1690,710 1780,704 1869,698 1959,686 2048,680 2138,669 2228,669 2317,657 2407,651 2496,639 2586,639 2676,627 2765,627"/>
+                <TextEquiv>
+                    <Unicode>behagen moge te adviseren om de opg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="957,1006 1148,993 1260,911 1411,885 1738,896 1915,829 2366,809 2373,743 2297,697 2068,787 1906,747 1776,800 1570,765 1249,862 982,785"/>
+                <Baseline points="979,925 1033,919 1123,907 1212,907 1302,890 1391,884 1481,872 1571,860 1660,854 1750,842 1839,842 1929,824 2019,812 2108,806 2198,788 2287,788 2377,776"/>
+                <TextEquiv>
+                    <Unicode>ligde geldboete te verminderen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1205,1114 1577,1022 1661,1075 1866,1002 1946,1057 2112,940 2231,980 2397,904 2729,920 2775,909 2786,794 2335,882 1999,823 1751,922 1225,924"/>
+                <Baseline points="1224,1039 1260,1033 1350,1027 1439,1015 1529,1003 1618,997 1708,985 1798,973 1887,955 1977,943 2066,937 2156,931 2246,919 2335,913 2425,902 2514,896 2604,890 2694,890 2783,884"/>
+                <TextEquiv>
+                    <Unicode>Gedaan op het parquet den 19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1941,1156 2098,1183 2178,1247 2335,1196 2415,1218 2558,1163 2607,1168 2623,953 2556,933 2382,949 2300,993 2271,977 2213,997 2048,1103 1944,1117"/>
+                <Baseline points="1953,1152 1989,1152 2078,1152 2168,1140 2258,1134 2347,1129 2437,1123 2526,1111 2616,1117"/>
+                <TextEquiv>
+                    <Unicode>B: Paulin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="975,1294 1044,1280 1139,1210 1320,1170 1437,1214 1504,1183 1621,1243 1630,1132 1570,1126 1482,1059 1400,1084 1349,1057 1216,1117 1145,1053 993,1075"/>
+                <Baseline points="997,1194 1003,1194 1093,1194 1182,1182 1272,1176 1361,1164 1451,1164 1541,1152 1630,1152"/>
+                <TextEquiv>
+                    <Unicode>April 1859.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

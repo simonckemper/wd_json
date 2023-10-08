@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.3.0:model_id=51170:date=05_10_2023_21:06</Creator>
+        <Created>2023-10-05T08:02:44.183+02:00</Created>
+        <LastChange>2023-10-05T21:06:58.563+02:00</LastChange>
+        <TranskribusMetadata docId="1601069" pageId="60386575" pageNr="167" tsid="136533934" status="IN_PROGRESS" userId="122145" imgUrl="https://files.transkribus.eu/Get?id=ZVHRCNKAVSPAOKTQKCJCSXJW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FRBRJUZGRJSWRLRPBAKBMPES" imageId="48768700"/>
+    </Metadata>
+    <Page imageFilename="nl_zh_ha_na-2_02_04-1190_167.jpg" imageWidth="5481" imageHeight="4211">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1696622904620" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_6"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+                <RegionRefIndexed index="3" regionRef="tr_1"/>
+                <RegionRefIndexed index="4" regionRef="tr_5"/>
+                <RegionRefIndexed index="5" regionRef="tr_4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="1079,546 2797,546 2797,1954 1079,1954"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1108,627 1239,612 1345,663 1663,630 1830,680 1988,619 2543,645 2543,559 1665,529 1452,573 1106,507"/>
+                <Baseline points="1121,596 1210,596 1300,596 1389,596 1479,602 1568,602 1658,602 1747,602 1837,602 1926,602 2016,602 2105,602 2194,602 2284,608 2373,608 2463,602 2546,602"/>
+                <TextEquiv>
+                    <Unicode>première cuve, à un lessivage ordinaire, au</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1097,741 1498,731 1665,790 1799,733 2762,746 2762,643 2604,689 2475,623 2354,691 2137,625 1869,689 1663,630 1384,693 1257,627 1097,641"/>
+                <Baseline points="1109,721 1157,715 1246,715 1336,715 1425,715 1515,715 1604,715 1693,715 1783,715 1872,715 1962,715 2051,715 2141,715 2230,721 2320,721 2409,721 2499,715 2588,715 2678,715 2767,715"/>
+                <TextEquiv>
+                    <Unicode>du sel de soude (Crystaux desoude) dans sa proportion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1090,845 1702,840 1775,884 2779,847 2751,759 2604,814 2431,752 2047,814 1777,752 1621,805 1501,741 1266,792 1090,744"/>
+                <Baseline points="1103,829 1175,823 1264,823 1353,823 1443,829 1532,829 1622,829 1711,829 1801,835 1890,829 1980,835 2069,829 2159,829 2248,835 2338,829 2427,829 2517,829 2606,829 2695,829 2785,823"/>
+                <TextEquiv>
+                    <Unicode>d’environ 1/11 à 1/3 de leurs poids; aveele volume convenable</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1097,961 1397,1020 2172,965 2271,1014 2740,972 2786,862 2163,939 1097,873"/>
+                <Baseline points="1109,948 1198,948 1288,948 1377,948 1467,948 1556,954 1646,954 1735,954 1825,954 1914,954 2004,954 2093,954 2183,954 2272,954 2361,954 2451,954 2540,954 2630,948 2719,954 2791,948"/>
+                <TextEquiv>
+                    <Unicode>d’eau carifiée pour opérer (à une température de 60.°</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1079,1110 1266,1090 1564,1154 1744,1079 2108,1095 2196,1150 2404,1084 2518,1143 2722,1079 2657,1009 2339,1040 2130,994 1766,1049 1079,1009"/>
+                <Baseline points="1091,1067 1180,1067 1270,1067 1359,1067 1449,1067 1538,1067 1628,1067 1717,1067 1807,1067 1896,1067 1986,1067 2075,1073 2165,1073 2254,1067 2344,1073 2433,1073 2523,1073 2612,1073 2701,1073 2725,1073"/>
+                <TextEquiv>
+                    <Unicode>80.°) ce lessisvage, qui enlève à la fois toutes les</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1086,1202 1316,1270 1430,1202 1582,1246 1641,1207 2722,1218 2705,1134 2295,1171 1983,1117 1595,1176 1248,1106 1086,1160"/>
+                <Baseline points="1097,1186 1186,1186 1276,1186 1365,1192 1455,1186 1544,1186 1634,1192 1723,1192 1813,1192 1902,1192 1992,1198 2081,1198 2171,1198 2260,1198 2350,1198 2439,1204 2528,1204 2618,1198 2707,1204 2725,1198"/>
+                <TextEquiv>
+                    <Unicode>matières grasses, pouvant accidentellement se trouve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1079,1329 1606,1325 1718,1406 1849,1327 2093,1373 2178,1334 2679,1354 2679,1257 1895,1294 1623,1222 1365,1290 1185,1231 1079,1283"/>
+                <Baseline points="1091,1312 1180,1306 1270,1312 1359,1312 1449,1318 1538,1312 1628,1318 1717,1318 1807,1318 1896,1318 1986,1318 2075,1324 2165,1324 2254,1324 2344,1324 2433,1324 2523,1330 2612,1324 2684,1324"/>
+                <TextEquiv>
+                    <Unicode>mélées à la saine, déja teinte; plus toutes les</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1073,1443 1288,1450 1389,1507 1586,1446 1737,1454 1819,1516 2018,1472 2060,1507 2244,1516 2244,1422 2156,1384 1893,1417 1597,1378 1479,1417 1316,1406 1253,1354 1073,1393"/>
+                <Baseline points="1085,1431 1175,1431 1264,1431 1353,1437 1443,1437 1532,1437 1622,1437 1711,1437 1801,1437 1890,1443 1980,1443 2069,1443 2159,1443 2248,1443"/>
+                <TextEquiv>
+                    <Unicode>couleurs végétales, ou mauvais teint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1270,1619 1437,1569 1540,1617 1871,1623 1996,1571 2525,1584 2586,1637 2731,1590 2731,1527 2468,1529 2409,1490 2314,1544 1604,1527 1483,1468 1402,1520 1345,1481 1270,1516"/>
+                <Baseline points="1282,1550 1371,1550 1461,1550 1550,1550 1640,1550 1729,1550 1819,1550 1908,1556 1998,1556 2087,1556 2177,1556 2266,1562 2356,1562 2445,1568 2534,1562 2624,1562 2713,1562 2737,1562"/>
+                <TextEquiv>
+                    <Unicode>Après cette préparation on verse sur la Contisse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1073,1700 1849,1698 1911,1742 2012,1691 2727,1707 2725,1597 2554,1663 2409,1582 2183,1654 2064,1593 1843,1637 1680,1588 1334,1654 1071,1575"/>
+                <Baseline points="1085,1670 1175,1664 1264,1664 1353,1670 1443,1670 1532,1670 1622,1670 1711,1676 1801,1676 1890,1676 1980,1676 2069,1682 2159,1682 2248,1682 2338,1682 2427,1682 2517,1682 2606,1682 2695,1682 2731,1682"/>
+                <TextEquiv>
+                    <Unicode>lessivée une solution de Sulfate de cuivre, dans la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1073,1825 2793,1819 2790,1735 2652,1705 2450,1757 1713,1705 1580,1757 1250,1707 1071,1757"/>
+                <Baseline points="1085,1795 1175,1795 1264,1795 1353,1801 1443,1795 1532,1795 1622,1795 1711,1801 1801,1801 1890,1801 1980,1801 2069,1807 2159,1807 2248,1807 2338,1807 2427,1807 2517,1807 2606,1807 2695,1807 2785,1807 2797,1807"/>
+                <TextEquiv>
+                    <Unicode>quelle le sel varie de 1/20 à 30 du poids de l'eau, selon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1068,1985 1577,1933 1713,1994 1841,1959 2503,2005 2755,1946 2755,1898 1722,1860 1494,1898 1147,1841 1066,1889"/>
+                <Baseline points="1079,1914 1169,1914 1258,1914 1347,1920 1437,1920 1526,1920 1616,1914 1705,1920 1795,1920 1884,1926 1974,1926 2063,1926 2153,1926 2242,1926 2332,1926 2421,1932 2511,1932 2600,1932 2690,1932 2761,1944"/>
+                <TextEquiv>
+                    <Unicode>le dégré de minéralisation plus ou moins énergique</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_6" custom="readingOrder {index:1;}">
+            <Coords points="1073,1983 2785,1983 2785,2664 1073,2664"/>
+            <TextLine id="tr_6_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1086,2056 2106,2058 2198,2119 2391,2051 2624,2124 2771,2088 2769,2007 2652,1968 2551,2020 1830,1961 1716,2005 1086,1994"/>
+                <Baseline points="1097,2033 1186,2033 1276,2033 1365,2033 1455,2033 1544,2033 1634,2033 1723,2039 1813,2039 1902,2039 1992,2039 2081,2039 2171,2045 2260,2045 2350,2045 2439,2045 2528,2045 2618,2045 2707,2045 2773,2045"/>
+                <TextEquiv>
+                    <Unicode>qué l'on veut obtenir. Et après un séjour de quelques</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1073,2167 1711,2174 1821,2229 1924,2176 2744,2181 2744,2126 2543,2099 1816,2145 1573,2117 1503,2056 1356,2121 1073,2067"/>
+                <Baseline points="1085,2153 1175,2153 1264,2153 1353,2153 1443,2153 1532,2153 1622,2153 1711,2159 1801,2159 1890,2159 1980,2159 2069,2165 2159,2159 2248,2165 2338,2165 2427,2165 2517,2165 2606,2165 2695,2165 2749,2171"/>
+                <TextEquiv>
+                    <Unicode>heures dans la cuve où est cette solution, sa Contisse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1086,2310 1264,2292 1428,2356 1652,2286 1784,2365 2181,2295 2428,2365 2532,2292 2731,2290 2714,2238 2494,2264 2325,2185 2130,2253 2058,2203 1852,2257 1492,2211 1389,2249 1318,2192 1086,2233"/>
+                <Baseline points="1097,2266 1186,2272 1276,2266 1365,2272 1455,2272 1544,2272 1634,2272 1723,2272 1813,2272 1902,2272 1992,2272 2081,2278 2171,2278 2260,2278 2350,2278 2439,2278 2528,2278 2618,2278 2707,2278 2737,2278"/>
+                <TextEquiv>
+                    <Unicode>est retirée, légèrement égouttée, puis plongée au</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1062,2466 1408,2422 2455,2490 2602,2415 2727,2422 2727,2374 2275,2371 2174,2319 2080,2371 1957,2328 1549,2358 1496,2312 1384,2369 1060,2343"/>
+                <Baseline points="1073,2391 1163,2391 1252,2391 1342,2391 1431,2391 1520,2391 1610,2391 1699,2397 1789,2397 1878,2397 1968,2397 2057,2403 2147,2403 2236,2403 2326,2403 2415,2403 2505,2403 2594,2397 2684,2403 2731,2397"/>
+                <TextEquiv>
+                    <Unicode>moyen de baches en treillis, toiles métalliques, o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1073,2525 2782,2540 2747,2470 2266,2496 1946,2435 1608,2494 1073,2468"/>
+                <Baseline points="1085,2505 1175,2499 1264,2505 1353,2505 1443,2505 1532,2505 1622,2511 1711,2511 1801,2511 1890,2511 1980,2517 2069,2517 2159,2517 2248,2517 2338,2523 2427,2517 2517,2517 2606,2523 2695,2523 2785,2528"/>
+                <TextEquiv>
+                    <Unicode>autre enveloppe perméable, dans une autre cuve.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1075,2659 1174,2698 1261,2650 1992,2657 2242,2729 2341,2672 2769,2674 2766,2584 2711,2575 2595,2635 2218,2613 2073,2547 1073,2589"/>
+                <Baseline points="1085,2624 1175,2630 1264,2630 1353,2630 1443,2636 1532,2636 1622,2636 1711,2636 1801,2636 1890,2642 1980,2642 2069,2642 2159,2642 2248,2648 2338,2648 2427,2648 2517,2648 2606,2654 2695,2654 2773,2654"/>
+                <TextEquiv>
+                    <Unicode>contenant une dissolution de Cammin, emprunté à</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="1061,2699 2779,2699 2779,3731 1061,3731"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1068,2775 1367,2775 1463,2826 1584,2771 2762,2784 2692,2720 1658,2731 1599,2683 1533,2738 1312,2674 1178,2718 1066,2654"/>
+                <Baseline points="1079,2749 1169,2749 1258,2749 1347,2755 1437,2755 1526,2755 1616,2761 1705,2761 1795,2761 1884,2761 1974,2767 2063,2767 2153,2767 2242,2767 2332,2767 2421,2767 2511,2767 2600,2767 2690,2767 2767,2767"/>
+                <TextEquiv>
+                    <Unicode>la noix de galle, à l’écorce de chène, où à d'autres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1082,2951 1235,2885 1867,2889 2306,2898 2396,2973 2486,2966 2571,2937 2569,2817 2292,2865 1983,2793 1740,2856 1079,2828"/>
+                <Baseline points="1091,2868 1180,2868 1270,2868 1359,2874 1449,2874 1538,2874 1628,2874 1717,2880 1807,2880 1896,2880 1986,2880 2075,2880 2165,2886 2254,2886 2344,2886 2433,2886 2523,2886 2576,2886"/>
+                <TextEquiv>
+                    <Unicode>végétaux contenant de l’acide rannique</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1255,3014 1661,3016 1834,3071 1952,3014 2376,3062 2769,3021 2766,2966 2297,2984 2064,2900 1832,2902 1696,2966 1586,2909 1483,2962 1380,2898 1253,2915"/>
+                <Baseline points="1264,2994 1353,2994 1443,2994 1532,3000 1622,2994 1711,2994 1801,3000 1890,3000 1980,3000 2069,3006 2159,3006 2248,3006 2338,3006 2427,3006 2517,3006 2606,3006 2695,3000 2773,3006"/>
+                <TextEquiv>
+                    <Unicode>Alors la réaction que l'on désire s'opère immé</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1051,3137 1696,3130 1917,3192 2183,3130 2486,3179 2738,3141 2736,3043 2306,3109 1876,3102 1691,3021 1049,3036"/>
+                <Baseline points="1061,3113 1151,3113 1240,3107 1330,3107 1419,3113 1509,3113 1598,3113 1687,3113 1777,3119 1866,3119 1956,3119 2045,3119 2135,3119 2224,3119 2314,3125 2403,3125 2493,3119 2582,3119 2672,3119 2743,3119"/>
+                <TextEquiv>
+                    <Unicode>=diatement; c'est-à-dire que d'après ses propriétés</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1049,3291 1356,3306 1494,3251 1582,3306 1856,3256 1959,3313 2301,3271 2516,3308 2762,3253 2740,3157 2567,3220 2163,3181 2053,3218 1823,3157 1299,3218 1049,3192"/>
+                <Baseline points="1061,3232 1151,3232 1240,3232 1330,3232 1419,3238 1509,3232 1598,3232 1687,3232 1777,3238 1866,3238 1956,3232 2045,3238 2135,3238 2224,3238 2314,3238 2403,3238 2493,3238 2582,3244 2672,3238 2761,3238 2767,3238"/>
+                <TextEquiv>
+                    <Unicode>comme s'el insoluble, le Tannate de cuivre se forme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1064,3383 2490,3409 2733,3385 2731,3262 2415,3343 2321,3286 2205,3334 2099,3288 1062,3328"/>
+                <Baseline points="1073,3358 1163,3358 1252,3358 1342,3358 1431,3358 1520,3358 1610,3364 1699,3358 1789,3364 1878,3364 1968,3364 2057,3358 2147,3364 2236,3358 2326,3364 2415,3358 2505,3364 2594,3364 2684,3358 2737,3364"/>
+                <TextEquiv>
+                    <Unicode>immédiatement, parla combinaison de l’acide</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1049,3519 1171,3560 1349,3486 2117,3530 2420,3490 2567,3556 2646,3495 2773,3517 2773,3433 2521,3455 2404,3381 2290,3460 2042,3409 1852,3460 1049,3418"/>
+                <Baseline points="1061,3477 1079,3471 1169,3471 1258,3471 1347,3477 1437,3477 1526,3477 1616,3477 1705,3477 1795,3477 1884,3483 1974,3483 2063,3477 2153,3477 2242,3477 2332,3477 2421,3483 2511,3477 2600,3477 2690,3477 2779,3471"/>
+                <TextEquiv>
+                    <Unicode>Tannique avec le cuivre; tandis que l'acide sulfurique</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1066,3617 1547,3657 2731,3615 2731,3567 2536,3539 1520,3576 1066,3523"/>
+                <Baseline points="1079,3590 1169,3590 1258,3596 1347,3596 1437,3596 1526,3596 1616,3596 1705,3596 1795,3596 1884,3596 1974,3596 2063,3596 2153,3596 2242,3596 2332,3596 2421,3596 2511,3602 2600,3596 2690,3596 2737,3602"/>
+                <TextEquiv>
+                    <Unicode>devenu libre, reste en petite quantité mélé dans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1049,3743 2731,3749 2690,3626 2385,3626 2295,3692 2115,3639 1915,3690 1841,3639 1711,3694 1621,3633 1049,3628"/>
+                <Baseline points="1061,3709 1151,3709 1240,3709 1330,3715 1419,3715 1509,3715 1598,3715 1687,3715 1777,3721 1866,3715 1956,3715 2045,3715 2135,3715 2224,3715 2314,3715 2403,3715 2493,3715 2582,3715 2672,3715 2737,3721"/>
+                <TextEquiv>
+                    <Unicode>le liquide. Le Tannate, en poudre impalpable, et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:3;}">
+            <Coords points="3531,242 5302,242 5302,1853 3531,1853"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3686,347 4065,318 4243,349 4407,338 4407,261 4368,279 4260,230 4162,261 4010,261 3953,228 3890,239 3832,197 3686,206"/>
+                <Baseline points="3698,292 3787,304 3876,310 3966,310 4055,310 4145,310 4234,310 4324,310 4413,310"/>
+                <TextEquiv>
+                    <Unicode>Désignation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3536,654 3872,713 3958,656 4388,649 5296,695 5296,586 5118,555 4993,603 4361,555 4067,612 3995,559 3672,537 3536,588"/>
+                <Baseline points="3548,644 3602,638 3692,644 3781,644 3871,638 3960,638 4049,638 4139,644 4228,644 4318,638 4407,638 4497,638 4586,638 4676,638 4765,644 4855,638 4944,638 5034,638 5123,632 5213,638 5302,632"/>
+                <TextEquiv>
+                    <Unicode>tenu en suspension, se trouve ainsi, à l’état naissant en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3547,766 3870,772 3986,831 4131,772 4458,768 4526,816 4589,763 5158,777 5197,673 5026,720 4943,667 4872,724 4655,737 4462,663 3549,687"/>
+                <Baseline points="3560,757 3590,757 3680,757 3769,757 3859,757 3948,757 4038,757 4127,757 4216,751 4306,757 4395,757 4485,751 4574,757 4664,757 4753,757 4843,751 4932,751 5022,751 5111,751 5201,745"/>
+                <TextEquiv>
+                    <Unicode>contract avec les filaments de laine, non seulement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3543,893 4991,921 5247,880 5247,763 4991,838 4635,788 4377,838 4278,785 4076,842 3808,770 3670,827 3543,777"/>
+                <Baseline points="3554,870 3644,864 3733,864 3823,870 3912,870 4002,864 4091,864 4181,864 4270,870 4360,870 4449,870 4539,870 4628,870 4717,870 4807,870 4896,870 4986,864 5075,864 5165,864 5254,858"/>
+                <TextEquiv>
+                    <Unicode>L’extérieur mais même dans le petit tube capillaire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3530,1014 3600,1033 3703,1014 3743,1040 3824,1038 3872,1007 3982,1042 4026,1022 4098,1040 4122,1016 4164,1042 4208,1011 4317,1033 4330,893 4223,930 4155,906 4113,937 4052,902 3964,932 3887,906 3800,935 3738,904 3681,930 3611,891 3530,917"/>
+                <Baseline points="3542,990 3632,990 3721,990 3811,990 3900,990 3990,996 4079,996 4169,990 4258,990 4336,990"/>
+                <TextEquiv>
+                    <Unicode>existant à leur intérieur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3714,1136 4881,1119 5105,1160 5247,1128 5247,1051 4466,1073 4324,1016 4203,1082 4052,1024 3714,1062"/>
+                <Baseline points="3727,1103 3817,1115 3906,1115 3996,1109 4085,1115 4175,1109 4264,1115 4354,1109 4443,1109 4533,1115 4622,1109 4712,1115 4801,1109 4890,1115 4980,1109 5069,1109 5159,1109 5248,1109 5254,1109"/>
+                <TextEquiv>
+                    <Unicode>De sorte qu'en retirant, au bout de quelques</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="3530,1290 3822,1244 4699,1250 4760,1290 4861,1244 5239,1248 5236,1163 5043,1136 4765,1215 4616,1141 4440,1202 4366,1152 4015,1200 3528,1160"/>
+                <Baseline points="3542,1234 3632,1228 3721,1234 3811,1234 3900,1234 3990,1228 4079,1234 4169,1234 4258,1234 4348,1234 4437,1234 4527,1234 4616,1234 4706,1234 4795,1234 4884,1240 4974,1240 5063,1234 5153,1240 5242,1240 5248,1234"/>
+                <TextEquiv>
+                    <Unicode>heures, la Zontisse de ce dernier bain, qu'il est bon de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="3519,1375 5254,1389 5219,1275 3839,1332 3740,1272 3655,1316 3517,1283"/>
+                <Baseline points="3531,1347 3620,1353 3709,1353 3799,1353 3888,1353 3978,1353 4067,1353 4157,1353 4246,1353 4336,1353 4425,1353 4515,1359 4604,1359 4694,1359 4783,1359 4873,1359 4962,1353 5052,1353 5141,1359 5230,1359 5260,1359"/>
+                <TextEquiv>
+                    <Unicode>tenir aussi à une température de 50. o 60.o environ, et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="3543,1487 4089,1490 4181,1551 4278,1494 4932,1533 5226,1494 5226,1441 5094,1424 4815,1465 4699,1402 4416,1424 4370,1384 4157,1446 3754,1441 3712,1400 3543,1448"/>
+                <Baseline points="3554,1473 3644,1473 3733,1473 3823,1473 3912,1473 4002,1473 4091,1479 4181,1479 4270,1479 4360,1479 4449,1479 4539,1485 4628,1479 4717,1479 4807,1479 4896,1479 4986,1479 5075,1479 5165,1479 5230,1479"/>
+                <TextEquiv>
+                    <Unicode>en la soumettant au grand air, ou dans une étuve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="3530,1621 4039,1608 4124,1656 4186,1610 4392,1645 4537,1606 4618,1654 4991,1604 5109,1656 5267,1601 5250,1547 5021,1522 4828,1573 4374,1503 4107,1573 3909,1496 3530,1492"/>
+                <Baseline points="3542,1598 3572,1598 3662,1592 3751,1592 3841,1592 3930,1592 4020,1592 4109,1592 4199,1592 4288,1598 4378,1592 4467,1598 4556,1592 4646,1592 4735,1592 4825,1592 4914,1592 5004,1598 5093,1592 5183,1592 5272,1586"/>
+                <TextEquiv>
+                    <Unicode>à une desication complète, qui n'évacore que l'eau pur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="3525,1733 3639,1729 3736,1794 4183,1724 4333,1794 4420,1737 4515,1775 4620,1733 4666,1779 4763,1735 5109,1744 5142,1672 3523,1630"/>
+                <Baseline points="3537,1717 3626,1711 3715,1711 3805,1711 3894,1711 3984,1711 4073,1717 4163,1711 4252,1717 4342,1717 4431,1717 4521,1717 4610,1717 4700,1717 4789,1717 4879,1717 4968,1717 5057,1717 5147,1717"/>
+                <TextEquiv>
+                    <Unicode>le sel insoluble dont il s'agit reste définitivement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="3530,1884 3870,1843 4085,1843 4212,1906 4462,1849 5208,1869 5186,1764 4883,1755 4728,1819 4548,1759 4164,1810 3986,1755 3707,1797 3528,1753"/>
+                <Baseline points="3542,1831 3632,1831 3721,1831 3811,1831 3900,1831 3990,1831 4079,1837 4169,1837 4258,1837 4348,1837 4437,1837 4527,1837 4616,1837 4706,1843 4795,1837 4884,1837 4974,1843 5063,1843 5153,1843 5213,1843"/>
+                <TextEquiv>
+                    <Unicode>adhérent à la saine, qui prend une coloration d’un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_5" custom="readingOrder {index:4;}">
+            <Coords points="3531,1906 5248,1906 5248,2819 3531,2819"/>
+            <TextLine id="tr_5_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3519,1983 3672,2027 3738,1966 3958,1968 4021,2018 4166,1970 5151,1994 5195,1898 5079,1876 4923,1939 4771,1873 4453,1926 4236,1930 4118,1869 3519,1904"/>
+                <Baseline points="3531,1956 3620,1956 3709,1956 3799,1956 3888,1962 3978,1956 4067,1956 4157,1956 4246,1962 4336,1962 4425,1962 4515,1962 4604,1962 4694,1962 4783,1962 4873,1962 4962,1968 5052,1962 5141,1962 5201,1962"/>
+                <TextEquiv>
+                    <Unicode>brun foncé, complètement inaltérable, sous l’action</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3547,2093 3705,2095 3771,2150 4118,2113 4219,2163 4462,2097 4815,2097 4875,2145 5226,2106 5223,2027 4997,1985 4785,2056 4664,1994 4278,2056 4065,2001 3613,2040 3545,2001"/>
+                <Baseline points="3560,2075 3650,2075 3739,2075 3829,2075 3918,2075 4008,2075 4097,2075 4187,2075 4276,2081 4366,2081 4455,2081 4545,2081 4634,2081 4723,2087 4813,2081 4902,2087 4992,2081 5081,2087 5171,2081 5230,2081"/>
+                <TextEquiv>
+                    <Unicode>des lavages ordinaires, soit à chaud soit a froid. De</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3519,2255 3615,2207 4232,2249 4572,2209 4855,2284 5228,2227 5177,2141 5079,2176 4473,2108 4107,2167 3988,2104 3775,2150 3519,2110"/>
+                <Baseline points="3531,2194 3620,2194 3709,2194 3799,2194 3888,2194 3978,2194 4067,2194 4157,2194 4246,2194 4336,2194 4425,2200 4515,2194 4604,2194 4694,2200 4783,2200 4873,2200 4962,2200 5052,2200 5141,2200 5230,2200 5236,2194"/>
+                <TextEquiv>
+                    <Unicode>plus la substance animale de la laine est compléten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3539,2393 3773,2332 4436,2369 4640,2321 5043,2393 5236,2332 5236,2279 3536,2257"/>
+                <Baseline points="3548,2308 3638,2308 3727,2308 3817,2314 3906,2308 3996,2314 4085,2314 4175,2314 4264,2314 4354,2314 4443,2314 4533,2314 4622,2314 4712,2314 4801,2314 4890,2314 4980,2314 5069,2314 5159,2314 5242,2314"/>
+                <TextEquiv>
+                    <Unicode>injectée d'une matière insoluble et autreptique, qu'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3536,2455 3848,2512 4067,2442 4438,2494 4491,2450 5215,2461 5215,2387 4813,2367 4677,2409 4368,2358 4241,2402 4111,2354 3868,2385 3778,2334 3536,2396"/>
+                <Baseline points="3548,2427 3638,2427 3727,2427 3817,2427 3906,2433 3996,2433 4085,2433 4175,2433 4264,2433 4354,2433 4443,2433 4533,2433 4622,2439 4712,2439 4801,2433 4890,2439 4980,2439 5069,2439 5159,2439 5219,2433"/>
+                <TextEquiv>
+                    <Unicode>sa rend parfaitement incorruptible; et des lors tout a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3539,2639 3804,2562 4129,2575 4188,2635 4269,2589 4436,2617 4502,2564 4730,2567 4778,2611 5171,2575 5168,2499 5046,2464 4839,2527 4488,2481 4438,2532 4324,2470 4177,2516 3536,2486"/>
+                <Baseline points="3548,2552 3638,2552 3727,2546 3817,2546 3906,2552 3996,2546 4085,2552 4175,2552 4264,2546 4354,2546 4443,2546 4533,2552 4622,2552 4712,2552 4801,2558 4890,2552 4980,2552 5069,2552 5159,2558 5177,2558"/>
+                <TextEquiv>
+                    <Unicode>fait propre à servir au filtrage des eaux potables</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="3530,2685 5239,2731 5239,2611 5059,2670 4660,2654 4545,2593 3530,2639"/>
+                <Baseline points="3542,2672 3632,2672 3721,2672 3811,2672 3900,2672 3990,2678 4079,2678 4169,2678 4258,2678 4348,2678 4437,2684 4527,2684 4616,2684 4706,2684 4795,2684 4884,2684 4974,2690 5063,2690 5153,2690 5242,2690 5248,2684"/>
+                <TextEquiv>
+                    <Unicode>comme à celui de tous liquides quelconques, employé</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="3530,2806 4124,2810 4230,2867 5048,2817 5201,2874 5201,2773 4932,2718 4526,2784 4304,2709 4234,2773 4098,2714 3979,2766 3883,2698 3758,2758 3528,2725"/>
+                <Baseline points="3542,2791 3632,2785 3721,2785 3811,2791 3900,2791 3990,2791 4079,2797 4169,2797 4258,2797 4348,2797 4437,2797 4527,2803 4616,2803 4706,2803 4795,2803 4884,2803 4974,2803 5063,2803 5153,2803 5207,2809"/>
+                <TextEquiv>
+                    <Unicode>soit dans l’économie domestique, soit dan s'industrie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_4" custom="readingOrder {index:5;}">
+            <Coords points="3531,2866 5242,2866 5242,3773 3531,3773"/>
+            <TextLine id="tr_4_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3692,2935 3784,2968 4036,2931 4177,2981 4385,2937 4464,3001 4578,2944 4627,2984 4807,2940 4947,2990 5195,2951 5195,2869 4923,2847 4778,2905 4482,2834 3692,2847"/>
+                <Baseline points="3704,2916 3793,2916 3882,2916 3972,2922 4061,2922 4151,2922 4240,2922 4330,2928 4419,2928 4509,2928 4598,2928 4688,2928 4777,2928 4867,2928 4956,2928 5046,2928 5135,2934 5201,2928"/>
+                <TextEquiv>
+                    <Unicode>On produit un effet analogue, par l'emploi do</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3519,3093 4782,3049 5140,3120 5184,3025 4760,3021 4587,2951 4311,3008 4216,2964 3872,3001 3517,2951"/>
+                <Baseline points="3531,3035 3620,3035 3709,3035 3799,3035 3888,3035 3978,3035 4067,3041 4157,3035 4246,3035 4336,3041 4425,3041 4515,3041 4604,3041 4694,3041 4783,3041 4873,3041 4962,3047 5052,3047 5141,3047 5189,3041"/>
+                <TextEquiv>
+                    <Unicode>Cannate deser, obtenu desa meme maniere, pa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3519,3174 3868,3223 3925,3174 4464,3177 4622,3249 5239,3188 5239,3102 5184,3087 4907,3133 4578,3082 4319,3144 4076,3080 3519,3093"/>
+                <Baseline points="3531,3161 3620,3161 3709,3155 3799,3155 3888,3161 3978,3161 4067,3161 4157,3161 4246,3161 4336,3161 4425,3161 4515,3167 4604,3161 4694,3161 4783,3167 4873,3161 4962,3167 5052,3167 5141,3167 5230,3161 5242,3161"/>
+                <TextEquiv>
+                    <Unicode>la réaction du Tannin sur le sulfur de fer. Mais</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3536,3315 4001,3337 4047,3295 4355,3286 4688,3350 4776,3299 5168,3297 5168,3245 4932,3262 4811,3201 4578,3251 3925,3172 3861,3227 3536,3198"/>
+                <Baseline points="3548,3280 3638,3280 3727,3280 3817,3280 3906,3280 3996,3280 4085,3280 4175,3280 4264,3280 4354,3286 4443,3280 4533,3280 4622,3286 4712,3286 4801,3280 4890,3286 4980,3280 5069,3280 5159,3280 5171,3280"/>
+                <TextEquiv>
+                    <Unicode>se procedé ci-dessus décrit doit être regardé comme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3565,3473 3591,3479 3642,3468 3694,3420 3714,3420 3736,3442 3771,3451 3811,3442 3841,3418 3865,3431 3868,3328 3832,3310 3769,3341 3751,3334 3707,3343 3681,3321 3644,3321 3620,3339 3593,3330 3567,3343"/>
+                <Baseline points="3578,3399 3668,3405 3757,3399 3847,3399 3871,3399"/>
+                <TextEquiv>
+                    <Unicode>méferable</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3714,3536 3835,3580 3898,3536 4341,3536 4451,3582 4576,3532 4975,3532 5037,3580 5215,3582 5215,3455 5160,3438 4416,3488 4260,3451 4144,3497 3714,3462"/>
+                <Baseline points="3727,3519 3787,3519 3876,3519 3966,3519 4055,3519 4145,3519 4234,3519 4324,3525 4413,3525 4503,3519 4592,3519 4682,3519 4771,3519 4861,3519 4950,3519 5040,3519 5129,3513 5219,3513"/>
+                <TextEquiv>
+                    <Unicode>Au premier abord on pourrait craindre que la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="3536,3653 4201,3688 4824,3648 4973,3696 5201,3657 5199,3560 4997,3626 4820,3565 4385,3596 4260,3536 4124,3607 3949,3554 3859,3609 3534,3604"/>
+                <Baseline points="3548,3638 3638,3632 3727,3632 3817,3632 3906,3632 3996,3638 4085,3638 4175,3632 4264,3632 4354,3638 4443,3632 4533,3638 4622,3638 4712,3638 4801,3644 4890,3638 4980,3644 5069,3638 5159,3638 5207,3638"/>
+                <TextEquiv>
+                    <Unicode>minéralisation, ainsi produite à l’aide de ce proced.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="3530,3837 3769,3758 5140,3804 5166,3664 4969,3734 4892,3675 4570,3703 4403,3661 4111,3723 3791,3650 3530,3681"/>
+                <Baseline points="3542,3751 3632,3757 3721,3751 3811,3757 3900,3757 3990,3757 4079,3757 4169,3757 4258,3757 4348,3757 4437,3757 4527,3757 4616,3763 4706,3757 4795,3757 4884,3757 4974,3757 5063,3757 5153,3751 5171,3751"/>
+                <TextEquiv>
+                    <Unicode>n’offrit relativement à la qualité des eaux potable</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
