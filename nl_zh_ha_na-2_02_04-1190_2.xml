@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.3.0:model_id=51170:date=05_10_2023_08:59</Creator>
+        <Created>2023-10-05T08:02:43.338+02:00</Created>
+        <LastChange>2023-10-05T12:02:40.334+02:00</LastChange>
+        <TranskribusMetadata docId="1601069" pageId="60386402" pageNr="2" tsid="136473378" status="GT" userId="122145" imgUrl="https://files.transkribus.eu/Get?id=ZNPVGXDMGEPFVVTCJGHKNCIX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YLYCPWWLPNXIOEYLUWHVQZCM" imageId="48768527"/>
+    </Metadata>
+    <Page imageFilename="nl_zh_ha_na-2_02_04-1190_2.jpg" imageWidth="5345" imageHeight="4164">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1696622893007" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1696489114882_379"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1696489100316_366"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1696489114882_379" custom="readingOrder {index:0;}">
+            <Coords points="2875,512 5029,512 5029,1680 2875,1680"/>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:0;}">
+                <Coords points="3657,807 3823,751 3948,809 4020,751 4183,748 4517,772 4608,828 4701,801 4704,652 4239,687 3996,649 3660,711"/>
+                <Baseline points="3674,733 3728,739 3817,739 3907,733 3996,733 4086,733 4175,733 4265,733 4354,733 4444,727 4533,727 4623,727 4712,721"/>
+                <TextEquiv>
+                    <Unicode>Eisch 7 Mei 1859 N:o 29</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:1;}">
+                <Coords points="3152,1012 3304,1007 3350,1031 3419,1010 3457,1036 3529,1007 3585,1034 3612,1010 3686,1023 3686,852 3545,820 3398,833 3315,801 3152,831"/>
+                <Baseline points="3167,936 3257,942 3346,942 3436,942 3525,942 3615,942 3692,936"/>
+                <TextEquiv>
+                    <Unicode>Notificatie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:2;}">
+                <Coords points="4042,1229 4306,1250 4338,1226 4373,1253 4603,1215 4747,1231 4875,1309 4974,1272 4971,1098 4715,1111 4608,1159 4477,1106 4384,1138 4271,1095 4178,1125 4039,1101"/>
+                <Baseline points="4056,1193 4146,1199 4235,1199 4325,1199 4414,1199 4504,1199 4593,1199 4683,1205 4772,1205 4861,1205 4951,1205 4981,1199"/>
+                <TextEquiv>
+                    <Unicode>Aan den Koning</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="3390,1683 3457,1718 3475,1707 3534,1739 3553,1728 3606,1760 3662,1728 3721,1752 3726,1493 3694,1483 3676,1499 3606,1461 3534,1501 3494,1504 3459,1472 3398,1459"/>
+                <Baseline points="3406,1670 3436,1670 3525,1670 3615,1664 3728,1664"/>
+                <TextEquiv>
+                    <Unicode>Sire A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696489111261_373" custom="readingOrder {index:4;}">
+                <Coords points="4448,1822 4653,1822 4691,1787 4739,1824 4784,1811 4808,1784 4840,1800 4838,1587 4784,1595 4760,1571 4699,1587 4664,1568 4635,1589 4579,1552 4517,1592 4445,1589"/>
+                <Baseline points="4463,1711 4847,1714"/>
+                <TextEquiv>
+                    <Unicode>29</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Eisch 7 Mei 1859 N:o 29
+Notificatie
+Aan den Koning
+Sire A.
+29</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1696489100316_366" custom="readingOrder {index:1;}">
+            <Coords points="2947,2551 5184,2551 5184,3344 2947,3344"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3157,2642 3446,2639 3609,2722 3780,2634 5105,2629 5105,2530 3641,2572 3358,2468 3157,2527"/>
+                <Baseline points="3173,2601 3263,2612 3352,2618 3442,2618 3531,2624 3621,2624 3710,2624 3800,2630 3889,2624 3979,2624 4068,2624 4158,2630 4247,2630 4337,2624 4426,2630 4515,2630 4605,2624 4694,2624 4784,2624 4873,2618 4963,2618 5052,2606 5112,2606"/>
+                <TextEquiv>
+                    <Unicode>De ondergeteekenden uitmakende de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3035,2749 3278,2837 3566,2735 3975,2754 4092,2832 4226,2754 5177,2770 5177,2695 4926,2631 4354,2709 3932,2637 3612,2717 3035,2631"/>
+                <Baseline points="3048,2738 3137,2738 3227,2738 3316,2738 3406,2732 3495,2732 3585,2738 3674,2738 3764,2744 3853,2738 3943,2738 4032,2744 4122,2744 4211,2738 4301,2744 4390,2738 4480,2738 4569,2738 4659,2738 4748,2738 4838,2732 4927,2732 5017,2732 5106,2738 5184,2738"/>
+                <TextEquiv>
+                    <Unicode>Commissie tot het enzamelen en beheeren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3051,2880 3579,2962 3799,2874 5145,2874 5145,2786 5035,2743 4816,2832 3601,2749 3275,2834 3051,2751"/>
+                <Baseline points="3066,2863 3090,2863 3179,2863 3269,2857 3358,2857 3448,2863 3537,2857 3627,2857 3716,2857 3806,2863 3895,2863 3985,2857 4074,2857 4164,2857 4253,2857 4342,2857 4432,2857 4521,2857 4611,2857 4700,2857 4790,2851 4879,2851 4969,2845 5058,2845 5148,2851"/>
+                <TextEquiv>
+                    <Unicode>van liefde gesien voor de nagelaten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3069,2997 4210,2973 4442,3069 4541,2994 5179,2986 5158,2906 4747,2885 3577,2965 3069,2869"/>
+                <Baseline points="3084,2976 3149,2976 3239,2976 3328,2976 3418,2982 3507,2982 3597,2982 3686,2970 3776,2976 3865,2976 3955,2970 4044,2964 4134,2970 4223,2970 4313,2976 4402,2970 4492,2976 4581,2970 4671,2970 4760,2970 4850,2964 4939,2964 5029,2964 5118,2958 5158,2962"/>
+                <TextEquiv>
+                    <Unicode>betrekkingen van de verongelukte va¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3064,3120 3449,3189 3681,3101 5070,3112 5172,3093 5172,2978 4450,3061 4210,2970 3831,3043 3708,2984 3638,3040 3545,2981 3248,3056 3064,3016"/>
+                <Baseline points="3078,3096 3120,3096 3209,3090 3298,3096 3388,3096 3477,3090 3567,3084 3656,3078 3746,3084 3835,3084 3925,3084 4014,3084 4104,3084 4193,3084 4283,3084 4372,3084 4462,3078 4551,3084 4641,3084 4730,3078 4820,3078 4909,3078 4999,3072 5088,3072 5178,3066"/>
+                <TextEquiv>
+                    <Unicode>renslieden E. Edelenbos, W. Meuldyk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3067,3242 4950,3280 5149,3225 5149,3132 4846,3096 4552,3163 4405,3112 4325,3187 4044,3179 3900,3099 3390,3195 3070,3113"/>
+                <Baseline points="3067,3219 3125,3221 3215,3215 3304,3215 3394,3215 3483,3209 3573,3209 3662,3209 3752,3209 3841,3209 3931,3203 4020,3203 4110,3203 4199,3203 4289,3203 4378,3203 4468,3203 4557,3197 4647,3203 4736,3203 4826,3203 4915,3197 5005,3203 5094,3197 5136,3208"/>
+                <TextEquiv>
+                    <Unicode>G. van der Sluys en C. de Neef,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De ondergeteekenden uitmakende de
+Commissie tot het enzamelen en beheeren
+van liefde gesien voor de nagelaten
+betrekkingen van de verongelukte va¬
+renslieden E. Edelenbos, W. Meuldyk
+G. van der Sluys en C. de Neef,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

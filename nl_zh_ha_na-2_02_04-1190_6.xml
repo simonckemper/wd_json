@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.3.0:model_id=51170:date=05_10_2023_11:57</Creator>
+        <Created>2023-10-05T08:02:43.363+02:00</Created>
+        <LastChange>2023-10-05T12:04:23.293+02:00</LastChange>
+        <TranskribusMetadata docId="1601069" pageId="60386407" pageNr="6" tsid="136473496" status="GT" userId="122145" imgUrl="https://files.transkribus.eu/Get?id=XBOXRIXMWEQEPKGVISULOPON&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CDZSWILQXAZIBLHKRGDDSHYN" imageId="48768532"/>
+    </Metadata>
+    <Page imageFilename="nl_zh_ha_na-2_02_04-1190_6.jpg" imageWidth="5345" imageHeight="4197">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1696622893011" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1696499789517_1074"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1696499789517_1074" custom="readingOrder {index:0;}">
+            <Coords points="1101,947 2638,947 2638,2111 1101,2111"/>
+            <TextLine id="tr_6_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1286,1020 1520,1062 1718,1004 2572,1029 2627,1022 2627,928 2442,873 2348,945 2002,937 1912,985 1286,952"/>
+                <Baseline points="1295,997 1385,997 1474,997 1564,997 1653,997 1743,997 1832,997 1922,997 2011,1002 2101,997 2191,997 2280,997 2370,997 2459,1002 2549,997 2632,997"/>
+                <TextEquiv>
+                    <Unicode>aangeduid. zoo b.v. in art. 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1279,1104 1703,1117 1770,1085 2109,1124 2261,1079 2587,1112 2587,1064 2480,1044 1932,1057 1856,1024 1754,1057 1662,1024 1510,1060 1279,1015"/>
+                <Baseline points="1289,1086 1379,1080 1468,1074 1558,1080 1647,1080 1737,1080 1826,1074 1916,1080 2005,1080 2095,1080 2185,1080 2274,1080 2364,1080 2453,1080 2543,1086 2591,1092"/>
+                <TextEquiv>
+                    <Unicode>heeft men ten onregte curcyf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1256,1204 1617,1192 1662,1159 1830,1189 2412,1164 2495,1198 2497,1112 2320,1102 2213,1146 1258,1127"/>
+                <Baseline points="1265,1170 1337,1164 1426,1164 1516,1164 1605,1158 1695,1158 1785,1158 1874,1158 1964,1158 2053,1158 2143,1158 2232,1158 2322,1158 2411,1158 2501,1164"/>
+                <TextEquiv>
+                    <Unicode>gedrukt: voor het toetsen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="1291,1271 2636,1284 2634,1196 2475,1243 2383,1199 2270,1244 2072,1192 2019,1231 1581,1181 1452,1228 1289,1199"/>
+                <Baseline points="1301,1253 1391,1247 1480,1247 1570,1247 1659,1247 1749,1247 1838,1247 1928,1247 2017,1247 2107,1247 2197,1253 2286,1259 2376,1259 2465,1259 2555,1259 2638,1265"/>
+                <TextEquiv>
+                    <Unicode>van kleine werken... per stuk,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="1281,1380 1519,1348 1754,1388 2002,1351 2569,1370 2567,1323 2462,1301 1743,1326 1279,1284"/>
+                <Baseline points="1289,1343 1379,1343 1468,1343 1558,1343 1647,1343 1737,1343 1826,1343 1916,1343 2005,1343 2095,1343 2185,1343 2274,1343 2364,1349 2453,1349 2543,1349 2573,1349"/>
+                <TextEquiv>
+                    <Unicode>terwijl men verkeerdelijk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="1279,1465 1811,1453 2064,1514 2273,1457 2464,1473 2467,1412 1278,1403"/>
+                <Baseline points="1289,1432 1379,1438 1468,1438 1558,1438 1647,1438 1737,1438 1826,1444 1916,1444 2005,1456 2095,1450 2185,1450 2274,1444 2364,1444 2453,1444 2471,1438"/>
+                <TextEquiv>
+                    <Unicode>niet curcyf gemaakt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="1286,1562 1430,1589 1811,1547 2086,1592 2141,1555 2243,1607 2368,1550 2564,1555 2564,1522 2420,1490 1937,1530 1627,1487 1560,1529 1286,1484"/>
+                <Baseline points="1295,1540 1385,1546 1474,1540 1564,1546 1653,1546 1743,1546 1832,1546 1922,1552 2011,1552 2101,1546 2191,1552 2280,1546 2370,1546 2459,1546 2549,1546 2567,1540"/>
+                <TextEquiv>
+                    <Unicode>heeft de woorden vyf cent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="1328,1723 1995,1719 1994,1678 1922,1689 1863,1651 1721,1666 1694,1649 1664,1674 1495,1634 1326,1639"/>
+                <Baseline points="1337,1701 1426,1701 1516,1701 1605,1707 1695,1707 1785,1707 1874,1707 1964,1707 1999,1707"/>
+                <TextEquiv>
+                    <Unicode>Met achting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="1698,1917 1741,1935 1892,1912 1950,1945 1972,1927 2340,1950 2372,1927 2425,1933 2425,1885 2300,1877 2211,1840 2109,1856 1967,1823 1925,1861 1820,1823 1698,1840"/>
+                <Baseline points="1707,1904 1713,1904 1802,1904 1892,1898 1982,1898 2071,1904 2161,1904 2250,1904 2340,1904 2429,1898"/>
+                <TextEquiv>
+                    <Unicode>Uw D W Deenaar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_12" custom="readingOrder {index:9;}">
+                <Coords points="1851,2097 1987,2074 2024,2089 2069,2086 2094,2109 2137,2116 2184,2086 2464,2085 2466,2036 2179,2039 2117,1985 2042,2004 2002,1975 1937,1984 1908,2010 1855,2000"/>
+                <Baseline points="1862,2071 1892,2071 1982,2065 2071,2065 2161,2059 2250,2059 2443,2055"/>
+                <TextEquiv>
+                    <Unicode>C Zeeman</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_13" custom="readingOrder {index:10;}">
+                <Coords points="1126,2116 1231,2094 1306,2119 1363,2096 1427,2146 1470,2146 1494,2166 1542,2146 1539,2004 1499,2000 1388,2064 1330,2057 1219,1989 1174,2010 1122,2010"/>
+                <Baseline points="1134,2095 1223,2089 1313,2089 1402,2089 1492,2101 1546,2101"/>
+                <TextEquiv>
+                    <Unicode>10 mei 59</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>aangeduid. zoo b.v. in art. 3
+heeft men ten onregte curcyf
+gedrukt: voor het toetsen
+van kleine werken... per stuk,
+terwijl men verkeerdelijk
+niet curcyf gemaakt
+heeft de woorden vyf cent
+Met achting
+Uw D W Deenaar
+C Zeeman
+10 mei 59</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

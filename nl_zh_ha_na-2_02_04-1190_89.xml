@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.3.0:model_id=51170:date=05_10_2023_20:42</Creator>
+        <Created>2023-10-05T08:02:43.927+02:00</Created>
+        <LastChange>2023-10-05T20:42:56.066+02:00</LastChange>
+        <TranskribusMetadata docId="1601069" pageId="60386494" pageNr="89" tsid="136530667" status="IN_PROGRESS" userId="122145" imgUrl="https://files.transkribus.eu/Get?id=JKXFZBCXZGBVCFTUBSHQLIPI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BUPWXARVHDZMMFIFKBADUADC" imageId="48768619"/>
+    </Metadata>
+    <Page imageFilename="nl_zh_ha_na-2_02_04-1190_89.jpg" imageWidth="5297" imageHeight="4301">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1696622899034" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="579,559 2592,559 2592,1300 579,1300"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="566,658 2513,631 2518,408 1744,478 1562,591 568,598"/>
+                <Baseline points="579,651 639,645 728,651 818,651 907,651 997,645 1087,645 1176,645 1266,645 1356,645 1445,645 1535,645 1624,639 1714,639 1804,633 1893,633 1983,633 2072,627 2162,621 2252,615 2341,615 2431,609 2520,609"/>
+                <TextEquiv>
+                    <Unicode>veelen dat erkennen bestaan om den verzoeken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="581,773 1572,753 1672,848 1802,756 1962,821 2125,766 2415,803 2543,778 2545,626 2252,711 583,708"/>
+                <Baseline points="597,752 669,752 758,758 848,758 937,758 1027,758 1117,758 1206,758 1296,758 1385,758 1475,752 1565,752 1654,746 1744,746 1833,746 1923,746 2013,740 2102,740 2192,740 2281,740 2371,734 2461,728 2550,728"/>
+                <TextEquiv>
+                    <Unicode>een gedeelte der Boete kwyt te schelden en di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="578,916 936,888 1056,983 1411,898 1584,986 1974,976 2585,856 2588,778 1717,858 1582,768 1404,858 1089,768 578,821"/>
+                <Baseline points="591,878 621,878 710,878 800,878 890,878 979,872 1069,878 1158,884 1248,878 1338,878 1427,878 1517,878 1606,872 1696,878 1786,872 1875,866 1965,866 2054,860 2144,860 2234,854 2323,854 2413,848 2502,848 2592,848"/>
+                <TextEquiv>
+                    <Unicode>tot een bedrag van Drie gulden te verminden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="953,1081 1436,1096 1554,1159 1879,1066 1987,1116 2077,1056 2490,1034 2495,926 2327,973 2185,938 956,991"/>
+                <Baseline points="967,1069 973,1075 1063,1063 1152,1069 1242,1069 1332,1069 1421,1069 1511,1069 1600,1063 1690,1057 1780,1057 1869,1051 1959,1045 2048,1045 2138,1039 2228,1039 2317,1033 2407,1027 2496,1027"/>
+                <TextEquiv>
+                    <Unicode>Hertagenbom den 16 April 1854</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1454,1419 1592,1411 1637,1364 1732,1341 1957,1401 2097,1321 2315,1349 2292,1156 2130,1201 2047,1184 1942,1214 1907,1184 1839,1211 1637,1116 1564,1176 1449,1204"/>
+                <Baseline points="1463,1266 1553,1266 1642,1266 1732,1260 1821,1260 1911,1272 2001,1272 2090,1284 2180,1284 2269,1284 2317,1290"/>
+                <TextEquiv>
+                    <Unicode>Lwphurg groff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

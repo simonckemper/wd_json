@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.3.0:model_id=51170:date=05_10_2023_20:42</Creator>
+        <Created>2023-10-05T08:02:43.836+02:00</Created>
+        <LastChange>2023-10-05T20:42:50.507+02:00</LastChange>
+        <TranskribusMetadata docId="1601069" pageId="60386474" pageNr="69" tsid="136530632" status="IN_PROGRESS" userId="122145" imgUrl="https://files.transkribus.eu/Get?id=EXLOKJSUUMGOBDWFJVNMCFKZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KCRYLPBLOZEDHIMNHOFXZSPD" imageId="48768599"/>
+    </Metadata>
+    <Page imageFilename="nl_zh_ha_na-2_02_04-1190_69.jpg" imageWidth="5429" imageHeight="4222">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1696622897221" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="2997,278 5129,278 5129,953 2997,953"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3308,365 3368,376 3422,358 3453,365 3475,354 3533,367 3538,249 3504,256 3471,281 3440,265 3424,267 3404,243 3371,252 3355,243 3333,258 3310,256"/>
+                <Baseline points="3320,334 3362,334 3451,334 3541,328"/>
+                <TextEquiv>
+                    <Unicode>Esch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3582,374 3689,352 3802,392 3949,345 4130,434 4294,367 4372,392 4392,327 3869,269 3758,323 3649,267 3580,278"/>
+                <Baseline points="3594,340 3684,340 3774,346 3863,346 3953,346 4042,352 4132,346 4222,352 4311,352 4395,358"/>
+                <TextEquiv>
+                    <Unicode>4 Mei 1839 en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3135,488 3197,492 3241,470 3317,465 3357,483 3373,472 3395,481 3411,465 3462,476 3524,461 3546,472 3569,468 3571,416 3520,421 3495,403 3475,419 3408,381 3335,372 3313,347 3257,354 3246,343 3157,381 3137,376"/>
+                <Baseline points="3147,459 3218,459 3308,453 3397,453 3487,453 3577,447"/>
+                <TextEquiv>
+                    <Unicode>Kabinet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3974,577 4145,603 4343,565 4640,606 4686,579 4749,614 5123,568 5120,479 4824,492 4778,445 4680,434 4461,528 4121,474 4056,514 3972,499"/>
+                <Baseline points="3983,549 4072,549 4162,555 4251,561 4341,561 4431,555 4520,561 4610,555 4699,555 4789,555 4878,561 4968,561 5058,567 5129,567"/>
+                <TextEquiv>
+                    <Unicode>'s Hage, den 6: Mei 185.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3168,619 3184,614 3219,632 3257,608 3270,612 3290,597 3304,601 3326,590 3359,612 3388,612 3395,488 3375,488 3357,501 3333,492 3304,505 3281,494 3266,510 3250,503 3201,521 3172,516"/>
+                <Baseline points="3182,597 3218,591 3308,591 3397,585"/>
+                <TextEquiv>
+                    <Unicode>L.a S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="2988,866 3041,884 3132,837 3348,817 3509,842 3664,824 3749,853 3798,846 3800,768 3571,757 3497,784 3428,750 3342,775 3277,739 3088,773 2990,748"/>
+                <Baseline points="3003,818 3087,818 3176,818 3266,812 3356,812 3445,812 3535,812 3624,812 3714,806 3803,806"/>
+                <TextEquiv>
+                    <Unicode>Voorstel tot het ber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="2985,971 3644,971 3698,942 3829,984 4121,982 4123,862 4054,848 3969,899 3526,877 3433,904 3364,868 3119,922 2988,897"/>
+                <Baseline points="2997,937 3087,943 3176,943 3266,937 3356,937 3445,937 3535,931 3624,937 3714,931 3803,931 3893,931 3983,931 4072,937 4126,937"/>
+                <TextEquiv>
+                    <Unicode>van een Apotheker der 3: klasse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="3385,1430 5159,1430 5159,2613 3385,2613"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3604,1561 3738,1567 3825,1509 4083,1545 4682,1498 4804,1554 4933,1492 5154,1505 5154,1431 4408,1434 4279,1354 4143,1389 3929,1305 3780,1358 3607,1338"/>
+                <Baseline points="3618,1486 3708,1498 3798,1498 3887,1504 3977,1504 4066,1498 4156,1498 4245,1498 4335,1492 4425,1492 4514,1486 4604,1486 4693,1486 4783,1486 4872,1486 4962,1480 5052,1486 5141,1486 5159,1486"/>
+                <TextEquiv>
+                    <Unicode>De Inspecteur van de Geneesko</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3382,1734 3713,1656 4297,1645 4435,1701 4586,1634 4686,1681 5132,1627 4911,1549 4606,1590 4450,1512 4041,1614 3860,1583 3462,1641 3386,1596"/>
+                <Baseline points="3397,1660 3433,1660 3523,1660 3612,1654 3702,1648 3792,1648 3881,1642 3971,1642 4060,1642 4150,1636 4239,1636 4329,1636 4419,1636 4508,1630 4598,1624 4687,1624 4777,1624 4866,1618 4956,1618 5046,1612 5135,1612"/>
+                <TextEquiv>
+                    <Unicode>dige dienst der Landmagt heeft, ter ver</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3391,1837 4864,1759 4940,1823 5134,1759 5136,1681 4506,1721 4343,1665 4018,1754 3393,1745"/>
+                <Baseline points="3403,1797 3439,1791 3529,1791 3618,1791 3708,1791 3798,1785 3887,1779 3977,1779 4066,1773 4156,1773 4245,1767 4335,1761 4425,1761 4514,1761 4604,1755 4693,1755 4783,1749 4872,1749 4962,1749 5052,1743 5141,1737"/>
+                <TextEquiv>
+                    <Unicode>vulling van eene in deze betrekking be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3382,2010 3511,2021 3787,1919 5103,1917 5123,1837 3386,1877"/>
+                <Baseline points="3397,1928 3421,1928 3511,1922 3600,1922 3690,1916 3780,1916 3869,1910 3959,1910 4048,1910 4138,1904 4227,1904 4317,1893 4407,1893 4496,1893 4586,1887 4675,1887 4765,1887 4855,1881 4944,1881 5034,1881 5123,1881"/>
+                <TextEquiv>
+                    <Unicode>staande racature voor eene bevorderd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3377,2084 4301,2117 5149,2026 5149,1981 4439,1950 4355,2013 3656,1972 3379,2013"/>
+                <Baseline points="3391,2060 3451,2054 3541,2054 3630,2054 3720,2048 3809,2048 3899,2042 3989,2036 4078,2036 4168,2030 4257,2030 4347,2030 4436,2030 4526,2024 4616,2018 4705,2018 4795,2012 4884,2006 4974,2006 5064,2000 5153,2000"/>
+                <TextEquiv>
+                    <Unicode>tot Apotheker van de 2:de Klasse, in aan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3391,2213 3831,2253 4165,2179 5083,2164 5120,2104 4535,2090 4361,2139 4001,2093 3834,2153 3698,2084 3573,2168 3393,2153"/>
+                <Baseline points="3403,2191 3421,2191 3511,2191 3600,2191 3690,2185 3780,2185 3869,2179 3959,2173 4048,2167 4138,2167 4227,2161 4317,2161 4407,2161 4496,2155 4586,2155 4675,2149 4765,2149 4855,2149 4944,2143 5034,2137 5123,2131"/>
+                <TextEquiv>
+                    <Unicode>merking gebragt, den Apotheker der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="3954,2326 4196,2322 4277,2371 4651,2346 4726,2407 4896,2318 5089,2304 5089,2262 4965,2242 4847,2282 4539,2271 4412,2204 3956,2249"/>
+                <Baseline points="3965,2322 4018,2317 4108,2311 4198,2305 4287,2305 4377,2305 4466,2305 4556,2305 4645,2299 4735,2299 4825,2299 4914,2293 5004,2293 5093,2293"/>
+                <TextEquiv>
+                    <Unicode>C. W. Bohnensieg, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="3373,2389 3411,2382 3529,2427 3633,2380 3753,2424 3814,2387 3938,2409 3960,2398 3963,2233 3927,2231 3825,2304 3566,2231 3375,2235"/>
+                <Baseline points="3385,2328 3427,2328 3517,2322 3606,2322 3696,2322 3786,2322 3875,2322 3965,2322"/>
+                <TextEquiv>
+                    <Unicode>3=de Klasse G.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="3391,2498 3838,2473 4061,2538 4196,2462 4430,2498 4513,2456 4633,2516 4871,2429 5129,2442 5132,2333 4726,2407 4406,2371 4154,2431 3802,2393 3742,2440 3391,2436"/>
+                <Baseline points="3403,2466 3433,2466 3523,2466 3612,2466 3702,2460 3792,2460 3881,2460 3971,2460 4060,2454 4150,2448 4239,2448 4329,2442 4419,2442 4508,2436 4598,2430 4687,2430 4777,2430 4866,2424 4956,2424 5046,2418 5135,2412"/>
+                <TextEquiv>
+                    <Unicode>overeenkomstig de bepalingen der Wet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="3391,2620 3843,2594 4025,2656 4099,2605 4731,2576 4900,2614 5120,2578 5125,2476 4582,2554 4150,2574 4012,2513 3945,2565 3765,2522 3700,2574 3391,2560"/>
+                <Baseline points="3403,2603 3427,2603 3517,2603 3606,2597 3696,2597 3786,2597 3875,2591 3965,2591 4054,2591 4144,2591 4233,2585 4323,2585 4413,2579 4502,2573 4592,2573 4681,2567 4771,2567 4860,2567 4950,2561 5040,2561 5129,2555"/>
+                <TextEquiv>
+                    <Unicode>van den 28.e Augustus 1851, (staatsblad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="2842,2637 5165,2637 5165,3855 2842,3855"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3379,2761 3600,2805 4072,2720 4243,2778 4784,2696 5042,2723 5118,2716 5120,2634 3769,2694 3671,2640 3379,2718"/>
+                <Baseline points="3391,2741 3421,2741 3511,2735 3600,2735 3690,2729 3780,2729 3869,2729 3959,2729 4048,2723 4138,2717 4227,2717 4317,2717 4407,2711 4496,2705 4586,2705 4675,2699 4765,2693 4855,2693 4944,2687 5034,2687 5123,2693"/>
+                <TextEquiv>
+                    <Unicode>N. 128:) tot het afleggen van het examen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3388,2907 3800,2865 3949,2919 4027,2863 4179,2892 4248,2850 4501,2914 4680,2838 5040,2850 5060,2787 4201,2834 3885,2787 3391,2841"/>
+                <Baseline points="3403,2872 3451,2872 3541,2866 3630,2860 3720,2860 3809,2860 3899,2854 3989,2854 4078,2854 4168,2848 4257,2848 4347,2842 4436,2842 4526,2836 4616,2836 4705,2830 4795,2824 4884,2830 4974,2824 5064,2818"/>
+                <TextEquiv>
+                    <Unicode>voor den hoogenen rang opgeroepen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3371,3032 4025,2992 4168,3041 4769,2976 5018,3023 5145,3005 5147,2923 3373,2956"/>
+                <Baseline points="3385,3003 3451,3003 3541,2997 3630,2997 3720,2991 3809,2985 3899,2991 3989,2985 4078,2979 4168,2979 4257,2979 4347,2973 4436,2973 4526,2967 4616,2967 4705,2967 4795,2961 4884,2967 4974,2961 5064,2961 5153,2955"/>
+                <TextEquiv>
+                    <Unicode>aan de vereischten van dat examen heeft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3391,3150 3468,3152 3497,3175 3529,3155 3580,3172 3615,3150 3647,3175 3740,3143 3791,3152 3816,3143 3818,3034 3785,3030 3740,3066 3725,3054 3700,3072 3662,3048 3627,3063 3571,3043 3546,3061 3475,3057 3417,3094 3391,3083"/>
+                <Baseline points="3403,3135 3463,3135 3553,3135 3642,3135 3732,3129 3821,3129"/>
+                <TextEquiv>
+                    <Unicode>voldaan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3482,3315 5029,3286 5134,3270 5136,3199 4546,3192 4386,3246 4030,3206 3751,3268 3484,3188"/>
+                <Baseline points="3493,3296 3529,3296 3618,3290 3708,3290 3798,3290 3887,3284 3977,3284 4066,3278 4156,3278 4245,3278 4335,3272 4425,3272 4514,3272 4604,3266 4693,3266 4783,3266 4872,3266 4962,3260 5052,3254 5141,3254"/>
+                <TextEquiv>
+                    <Unicode>En vermits nu de Apothekers der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3371,3460 3713,3502 3876,3422 5136,3422 5163,3288 4973,3346 4793,3304 4570,3368 4493,3319 4346,3382 3373,3397"/>
+                <Baseline points="3385,3445 3463,3439 3553,3433 3642,3433 3732,3427 3821,3427 3911,3421 4001,3415 4090,3409 4180,3409 4269,3409 4359,3403 4448,3403 4538,3397 4628,3397 4717,3391 4807,3391 4896,3391 4986,3385 5075,3391 5165,3397"/>
+                <TextEquiv>
+                    <Unicode>3de Klasse, die boven den Apotheker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="3377,3642 3909,3662 4143,3571 4539,3544 4851,3609 5074,3555 5111,3480 4869,3500 4524,3431 4319,3524 3751,3531 3624,3473 3379,3522"/>
+                <Baseline points="3391,3565 3415,3565 3505,3565 3594,3565 3684,3565 3774,3565 3863,3559 3953,3559 4042,3559 4132,3553 4222,3547 4311,3553 4401,3547 4490,3541 4580,3535 4669,3535 4759,3535 4849,3529 4938,3529 5028,3517 5117,3523"/>
+                <TextEquiv>
+                    <Unicode>Bohnensieg, van het afleggen van</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="2830,3851 2885,3883 3094,3834 3150,3860 3533,3856 3647,3943 3785,3905 3787,3769 3569,3778 3411,3713 3161,3689 2830,3727"/>
+                <Baseline points="2842,3845 2896,3839 2985,3839 3075,3833 3165,3833 3254,3833 3344,3833 3433,3827 3523,3827 3612,3827 3702,3833 3792,3839"/>
+                <TextEquiv>
+                    <Unicode>Aan den Koning.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
