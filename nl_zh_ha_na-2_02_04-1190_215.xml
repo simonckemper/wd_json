@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.3.0:model_id=51170:date=05_10_2023_21:07</Creator>
+        <Created>2023-10-05T08:02:44.332+02:00</Created>
+        <LastChange>2023-10-05T21:42:22.612+02:00</LastChange>
+        <TranskribusMetadata docId="1601069" pageId="60386626" pageNr="215" tsid="136538504" status="GT" userId="122145" imgUrl="https://files.transkribus.eu/Get?id=DBTQKIHTNGESYKGIDAOUFUSH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QRNKUSGVMBYBKYJKCAVYMYEP" imageId="48768751"/>
+    </Metadata>
+    <Page imageFilename="nl_zh_ha_na-2_02_04-1190_215.jpg" imageWidth="5491" imageHeight="4203">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1696622907980" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1696534080392_3170"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1696534082915_3177"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+                <RegionRefIndexed index="3" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1696534080392_3170" custom="readingOrder {index:0;}">
+            <Coords points="3235,254 5008,254 5008,621 3235,621"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3220,344 3935,329 4016,403 4183,312 4478,327 4478,226 4225,282 4033,236 3832,295 3716,243 3596,287 3343,221 3223,268"/>
+                <Baseline points="3235,322 3319,316 3408,316 3498,322 3588,328 3677,322 3767,322 3856,322 3946,322 4035,322 4125,316 4214,310 4304,310 4394,304 4483,304"/>
+                <TextEquiv>
+                    <Unicode>Eisch 8 Mei 1859 N:o 68</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696534076150_3161" custom="readingOrder {index:1;}">
+                <Coords points="3559,410 3743,398 4696,388 4957,405 5003,418 5003,553 4969,567 4905,570 4527,580 3630,565 3557,553"/>
+                <Baseline points="3570,537 3623,537 3713,537 3802,543 3892,537 3982,537 4071,531 4161,531 4250,525 4340,525 4429,531 4441,525 4531,525 4620,525 4710,525 4800,525 4889,525 4979,525 5008,525"/>
+                <TextEquiv>
+                    <Unicode>s' Gravenhage, den 6 Mei 1859</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Eisch 8 Mei 1859 N:o 68&#13;
+s' Gravenhage, den 6 Mei 1859</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1696534082915_3177" custom="readingOrder {index:1;}">
+            <Coords points="4551,1087 5008,1087 5008,1305 4551,1305"/>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:0;}">
+                <Coords points="4660,1353 4679,1353 4689,1344 4701,1348 4748,1309 4758,1309 4772,1324 4780,1317 4966,1318 4966,1144 4792,1150 4777,1137 4760,1142 4736,1118 4709,1130 4696,1118 4660,1113"/>
+                <Baseline points="4674,1295 4764,1295 4817,1295 4950,1288"/>
+                <TextEquiv>
+                    <Unicode>8 mei 59</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696534088153_3185" custom="readingOrder {index:1;}">
+                <Coords points="4615,1167 4810,1157 4812,1207 4617,1217"/>
+                <Baseline points="4617,1212 4812,1202"/>
+                <TextEquiv>
+                    <Unicode>ampen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8 mei 59&#13;
+ampen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:2;}">
+            <Coords points="3026,1663 5223,1663 5223,3060 3026,3060"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3011,1734 3046,1734 3068,1719 3105,1737 3139,1719 3193,1734 3200,1545 3183,1545 3164,1560 3154,1555 3092,1587 3016,1592"/>
+                <Baseline points="3026,1719 3110,1719 3200,1713 3299,1714"/>
+                <TextEquiv>
+                    <Unicode>L: A:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3031,1872 3063,1886 3092,1884 3107,1899 3134,1881 3198,1872 3228,1896 3250,1896 3250,1798 3228,1796 3200,1768 3186,1768 3156,1791 3134,1778 3102,1803 3083,1796 3031,1800"/>
+                <Baseline points="3044,1868 3074,1862 3164,1868 3253,1862"/>
+                <TextEquiv>
+                    <Unicode>N.o 14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3527,2201 4623,2154 4736,2243 4915,2147 5109,2164 5109,2095 5060,2076 4876,2095 4792,2049 4544,2110 4397,2068 4304,1860 3579,1841"/>
+                <Baseline points="3520,2157 3677,2155 3683,2155 3773,2149 3862,2149 3952,2149 4041,2155 4131,2149 4220,2149 4310,2149 4400,2143 4489,2143 4579,2143 4668,2143 4758,2143 4847,2137 4937,2137 5026,2137 5116,2137"/>
+                <TextEquiv>
+                    <Unicode>Ik heb de eer Uwer Majesteit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3314,2276 3790,2356 3874,2282 5175,2262 5089,2186 4743,2240 4274,2186 3790,2252 3317,2200"/>
+                <Baseline points="3301,2271 3582,2268 3659,2262 3749,2274 3838,2268 3928,2268 4017,2268 4107,2262 4197,2262 4286,2262 4376,2262 4465,2262 4555,2256 4644,2262 4734,2256 4823,2256 4913,2256 5003,2256 5092,2250 5182,2250"/>
+                <TextEquiv>
+                    <Unicode>hiernevens aan tebieden eene missive van</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3299,2405 3473,2461 3640,2385 5077,2390 5188,2378 5190,2306 3299,2336"/>
+                <Baseline points="3313,2376 3402,2382 3492,2382 3582,2382 3671,2376 3761,2376 3850,2376 3940,2376 4029,2376 4119,2376 4208,2376 4298,2370 4388,2370 4477,2370 4567,2370 4656,2370 4746,2364 4835,2364 4925,2364 5014,2358 5104,2358 5194,2364"/>
+                <TextEquiv>
+                    <Unicode>den Gouverneur- Generaal van Nederlands</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3306,2552 3476,2500 3837,2564 4058,2496 4220,2574 4321,2500 5077,2510 5207,2439 4839,2380 4620,2451 4244,2454 4154,2380 3972,2451 3923,2407 3306,2451"/>
+                <Baseline points="3319,2495 3331,2489 3420,2489 3510,2489 3600,2495 3689,2489 3779,2495 3868,2489 3958,2489 4047,2483 4137,2483 4226,2489 4316,2483 4405,2483 4495,2483 4585,2483 4674,2483 4764,2477 4853,2483 4943,2483 5032,2483 5122,2477 5211,2477"/>
+                <TextEquiv>
+                    <Unicode>Indie, dd 17 february 1859, N.o 132/4, waar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="3311,2623 4072,2655 4591,2601 4927,2667 5033,2594 5170,2611 5170,2496 5018,2554 4866,2505 4569,2567 4316,2500 4210,2577 3945,2496 3824,2572 3417,2510 3311,2554"/>
+                <Baseline points="3325,2608 3385,2608 3474,2602 3564,2602 3653,2602 3743,2602 3832,2602 3922,2602 4011,2597 4101,2597 4191,2597 4280,2597 4370,2597 4459,2597 4549,2597 4638,2591 4728,2591 4817,2591 4907,2585 4997,2585 5086,2579 5176,2585"/>
+                <TextEquiv>
+                    <Unicode>by aan de gunstige beslissing des Opperbe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="3286,2734 3608,2778 4183,2729 4294,2793 4473,2714 5126,2722 5195,2702 5197,2621 3289,2660"/>
+                <Baseline points="3301,2722 3319,2722 3408,2716 3498,2716 3588,2716 3677,2716 3767,2716 3856,2716 3946,2716 4035,2716 4125,2710 4214,2710 4304,2710 4394,2704 4483,2704 4573,2704 4662,2704 4752,2698 4841,2698 4931,2698 5020,2698 5110,2698 5200,2698"/>
+                <TextEquiv>
+                    <Unicode>stuurs wordt onderworpen een door den, by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="3296,2849 4434,2881 4780,2815 5089,2891 5212,2839 5180,2756 4841,2722 4755,2780 4517,2731 4294,2793 4122,2729 3299,2783"/>
+                <Baseline points="3313,2823 3337,2823 3426,2817 3516,2817 3605,2817 3695,2817 3785,2817 3874,2823 3964,2817 4053,2817 4143,2817 4232,2811 4322,2811 4411,2811 4501,2811 4591,2811 4680,2811 4770,2805 4859,2805 4949,2805 5038,2805 5128,2800 5217,2805"/>
+                <TextEquiv>
+                    <Unicode>besluit van 15 Augustus 1858, N:o 11, op zijn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="3294,2979 5072,2962 5183,2925 5185,2835 5089,2891 4782,2891 4667,2830 4478,2898 4114,2835 3888,2906 3633,2859 3296,2903"/>
+                <Baseline points="3307,2937 3397,2931 3486,2931 3576,2925 3665,2931 3755,2931 3844,2925 3934,2925 4023,2931 4113,2925 4203,2925 4292,2925 4382,2925 4471,2925 4561,2925 4650,2919 4740,2919 4829,2919 4919,2919 5008,2919 5098,2919 5188,2925"/>
+                <TextEquiv>
+                    <Unicode>verzoek, eervol uit's lands dienst ontsla¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;} textStyle {offset:17; length:5;underlined:true;} textStyle {offset:23; length:17;underlined:true;}">
+                <Coords points="3318,3068 4905,3097 5275,3077 5275,2952 5082,3004 4974,2938 4569,2945 4492,3014 4259,2945 4033,3021 3905,2967 3790,3019 3318,2987"/>
+                <Baseline points="3331,3050 3343,3050 3432,3044 3522,3044 3611,3044 3701,3044 3791,3038 3880,3044 3970,3044 4059,3044 4149,3044 4238,3050 4328,3050 4417,3044 4507,3050 4597,3044 4686,3038 4776,3038 4865,3038 4955,3032 5044,3032 5134,3032 5274,3033"/>
+                <TextEquiv>
+                    <Unicode>gen resident van Timor S. G. F. Fraenkel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>L: A:&#13;
+N.o 14&#13;
+Ik heb de eer Uwer Majesteit&#13;
+hiernevens aan tebieden eene missive van&#13;
+den Gouverneur- Generaal van Nederlands&#13;
+Indie, dd 17 february 1859, N.o 132/4, waar&#13;
+by aan de gunstige beslissing des Opperbe¬&#13;
+stuurs wordt onderworpen een door den, by&#13;
+besluit van 15 Augustus 1858, N:o 11, op zijn&#13;
+verzoek, eervol uit's lands dienst ontsla¬&#13;
+gen resident van Timor S. G. F. Fraenkel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:3;}">
+            <Coords points="2877,3078 5241,3078 5241,3908 2877,3908"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3299,3181 3883,3159 4050,3247 4252,3164 4355,3247 4465,3169 4782,3134 5021,3220 5163,3188 5163,3090 5065,3065 4669,3110 4605,3063 4436,3124 3299,3085"/>
+                <Baseline points="3313,3164 3379,3158 3468,3158 3558,3158 3647,3158 3737,3158 3826,3158 3916,3158 4005,3152 4095,3152 4185,3152 4274,3146 4364,3146 4453,3146 4543,3140 4632,3140 4722,3134 4811,3134 4901,3128 4991,3128 5080,3134 5170,3128"/>
+                <TextEquiv>
+                    <Unicode>by het in afschrift overgelegde rekest, ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3264,3294 3780,3277 3888,3345 4701,3255 5234,3274 5237,3166 5021,3220 4876,3144 4726,3228 4362,3247 4048,3247 3876,3156 3724,3240 3267,3176"/>
+                <Baseline points="3277,3271 3361,3271 3450,3265 3540,3265 3629,3265 3719,3265 3808,3271 3898,3271 3988,3277 4077,3265 4167,3265 4256,3265 4346,3265 4435,3259 4525,3259 4614,3259 4704,3253 4794,3253 4883,3247 4973,3247 5062,3241 5152,3241 5241,3247"/>
+                <TextEquiv>
+                    <Unicode>dagteekend Batavia, den 14 February 1854</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3318,3419 5282,3395 5265,3318 4598,3343 4475,3279 3837,3353 3318,3299"/>
+                <Baseline points="3331,3391 3349,3391 3438,3385 3528,3385 3617,3385 3707,3385 3797,3379 3886,3379 3976,3379 4065,3379 4155,3373 4244,3373 4334,3373 4423,3373 4513,3373 4603,3373 4692,3367 4782,3367 4871,3361 4961,3361 5050,3361 5140,3355 5229,3355 5282,3363"/>
+                <TextEquiv>
+                    <Unicode>gedaan verzoek, strekkende om, naar rede</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3296,3547 3920,3510 4095,3584 4195,3512 4461,3505 4576,3569 4741,3495 5195,3488 5197,3412 3299,3449"/>
+                <Baseline points="3313,3504 3319,3504 3408,3504 3498,3504 3588,3504 3677,3504 3767,3504 3856,3498 3946,3498 4035,3492 4125,3492 4214,3486 4304,3492 4394,3486 4483,3480 4573,3474 4662,3474 4752,3474 4841,3474 4931,3468 5020,3468 5110,3462 5200,3462"/>
+                <TextEquiv>
+                    <Unicode>van eenen 24 jarigen diensttyd, te worden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3296,3665 4502,3625 4623,3694 4814,3613 5195,3596 5161,3522 3299,3559"/>
+                <Baseline points="3313,3611 3319,3617 3408,3617 3498,3611 3588,3611 3677,3611 3767,3611 3856,3605 3946,3611 4035,3611 4125,3605 4214,3605 4304,3605 4394,3605 4483,3600 4573,3600 4662,3594 4752,3594 4841,3588 4931,3582 5020,3582 5110,3576 5200,3582"/>
+                <TextEquiv>
+                    <Unicode>gesteld in het genot van een jaarlyksch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696534258167_3237" custom="readingOrder {index:5;}">
+                <Coords points="2855,3775 2975,3651 3011,3685 2891,3809"/>
+                <Baseline points="2887,3806 3007,3682"/>
+                <TextEquiv>
+                    <Unicode>745</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="2864,3893 2955,3923 3512,3883 3761,3913 3807,3901 3810,3812 3468,3768 3316,3689 3272,3729 3178,3709 3127,3738 3088,3706 2866,3846"/>
+                <Baseline points="2877,3898 2919,3898 3008,3898 3098,3892 3188,3892 3277,3892 3367,3886 3456,3880 3546,3880 3635,3874 3725,3868 3814,3874"/>
+                <TextEquiv>
+                    <Unicode>Aan den Koning</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696534267551_3244" custom="readingOrder {index:7;}">
+                <Coords points="5036,3749 5263,3748 5263,3798 5036,3799"/>
+                <Baseline points="5036,3794 5263,3793"/>
+                <TextEquiv>
+                    <Unicode>pen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>by het in afschrift overgelegde rekest, ge¬&#13;
+dagteekend Batavia, den 14 February 1854&#13;
+gedaan verzoek, strekkende om, naar rede&#13;
+van eenen 24 jarigen diensttyd, te worden&#13;
+gesteld in het genot van een jaarlyksch&#13;
+745&#13;
+Aan den Koning&#13;
+pen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

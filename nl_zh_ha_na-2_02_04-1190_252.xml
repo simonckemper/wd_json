@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.3.0:model_id=51170:date=05_10_2023_20:21</Creator>
+        <Created>2023-10-05T08:02:44.465+02:00</Created>
+        <LastChange>2023-10-05T20:21:52.000+02:00</LastChange>
+        <TranskribusMetadata docId="1601069" pageId="60386663" pageNr="252" tsid="136528257" status="IN_PROGRESS" userId="122145" imgUrl="https://files.transkribus.eu/Get?id=MPZAMFZCSXJDXQOMWMNAUCYB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MUXSLEETSDBTGIPMSCLOAGDY" imageId="48768788"/>
+    </Metadata>
+    <Page imageFilename="nl_zh_ha_na-2_02_04-1190_252.jpg" imageWidth="5479" imageHeight="4130">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1696622910885" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1696529168138_2755"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1696529173976_2764"/>
+                <RegionRefIndexed index="3" regionRef="tr_3"/>
+                <RegionRefIndexed index="4" regionRef="region_1696529351121_2882"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="853,928 2637,928 2637,3453 853,3453"/>
+            <TextLine id="line_1696529010247_2671" custom="readingOrder {index:0;}">
+                <Coords points="839,1038 2607,1018 2536,912 1882,961 1677,884 839,893"/>
+                <Baseline points="853,996 925,996 1014,996 1104,996 1193,1002 1283,996 1372,990 1462,990 1551,990 1641,990 1736,984 1820,984 1909,990 1999,984 2088,978 2178,978 2267,978 2357,978 2613,976"/>
+                <TextEquiv>
+                    <Unicode>bouillante, ce qui fait que tous les corps étranger, de quelque nature qu’ils soient, en suspension</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="824,1120 2635,1066 2359,1006 827,1040"/>
+                <Baseline points="844,1076 990,1074 1038,1068 1127,1074 1217,1068 1307,1068 2599,1058 2641,1058"/>
+                <TextEquiv>
+                    <Unicode>ou en dissolution dont l’eau, non-seulement se séparent, mais encore adjèrent et sont retenue en une</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="856,1191 2595,1168 2595,1100 856,1123"/>
+                <Baseline points="871,1157 901,1151 990,1151 1080,1151 1169,1145 1259,1145 1348,1145 1438,1145 1527,1145 1617,1145 1706,1139 1796,1145 1885,1139 1975,1139 2065,1133 2154,1133 2244,1133 2333,1133 2423,1133 2512,1127 2602,1122"/>
+                <TextEquiv>
+                    <Unicode>inanstation sur les claisant; – et ainsi, on obtient graduellement le dépôt des matières incinstants</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="841,1262 2274,1262 2396,1214 2621,1259 2624,1160 844,1194"/>
+                <Baseline points="859,1223 931,1223 1020,1223 1110,1223 1199,1223 1289,1223 1378,1217 1468,1217 1557,1217 1647,1217 1736,1211 1826,1211 1915,1211 2005,1211 2094,1211 2184,1205 2273,1205 2363,1199 2452,1205 2542,1199 2631,1205"/>
+                <TextEquiv>
+                    <Unicode>selon leur densité; en les plut lourder se deposant sur les cloisont supérieures et les plus légères sur les</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="850,1356 1251,1353 1251,1279 1120,1279 1015,1248 958,1279 918,1279 890,1259 850,1268"/>
+                <Baseline points="865,1301 954,1301 1044,1307 1133,1301 1223,1301 1259,1301"/>
+                <TextEquiv>
+                    <Unicode>cloisons inférieure.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="964,1427 2442,1404 2612,1387 2615,1316 964,1347"/>
+                <Baseline points="978,1372 1008,1372 1098,1372 1187,1378 1277,1378 1366,1372 1456,1366 1545,1366 1635,1366 1724,1360 1814,1366 1903,1360 1993,1360 2082,1360 2172,1360 2261,1354 2351,1354 2440,1354 2530,1348 2620,1354"/>
+                <TextEquiv>
+                    <Unicode>En même temps que cette réparation a lieu, il se produit la condensation d’une grande partie de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="833,1501 2530,1492 2621,1470 2621,1384 833,1427"/>
+                <Baseline points="849,1463 1157,1450 1247,1450 1336,1444 1426,1444 1515,1444 1605,1444 1694,1444 1784,1438 1874,1438 1963,1438 2053,1438 2142,1438 2232,1432 2321,1432 2411,1432 2500,1432 2572,1450 2627,1436"/>
+                <TextEquiv>
+                    <Unicode>la rapeno qui parcourt l’intérieur du réservoir B. Cette condensation d’opère sur la parois, le plafond</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="844,1555 2459,1563 2618,1524 2618,1467 844,1501"/>
+                <Baseline points="859,1527 931,1527 1020,1527 1110,1527 1199,1527 1289,1521 1378,1521 1468,1521 1557,1521 1647,1521 1736,1521 1826,1515 1915,1515 2005,1515 2094,1515 2184,1509 2273,1509 2363,1509 2625,1515"/>
+                <TextEquiv>
+                    <Unicode>et sur les couches minces d'eau du réservoir B, et ainsi, on conçoit que par cette condensation, on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="844,1654 2476,1646 2635,1597 2635,1546 847,1580"/>
+                <Baseline points="859,1605 865,1605 954,1605 1044,1605 1133,1605 1223,1605 1313,1605 1402,1599 1492,1599 1581,1599 1671,1593 1760,1593 1850,1593 1939,1587 2029,1587 2118,1587 2208,1587 2297,1587 2387,1587 2476,1593 2639,1583"/>
+                <TextEquiv>
+                    <Unicode>obtient non seulement une partie d'eau distillée, mais encore on diminue d’autant la proportion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529049124_2683" custom="readingOrder {index:9;}">
+                <Coords points="836,1734 2385,1708 2385,1632 2200,1615 839,1654"/>
+                <Baseline points="853,1683 942,1683 1032,1683 1122,1683 1211,1683 1301,1677 1390,1677 1480,1677 1569,1677 1659,1671 1748,1671 1838,1665 1927,1665 2017,1665 2106,1671 2196,1665 2285,1659 2375,1659 2393,1659"/>
+                <TextEquiv>
+                    <Unicode>d’eau à épurer, et par suite, on simplifie la fonction de l’appareil purificateur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:10;}">
+                <Coords points="964,1808 2479,1791 2609,1751 2612,1674 964,1725"/>
+                <Baseline points="978,1754 1002,1754 1092,1754 1181,1754 1271,1754 1360,1748 1450,1748 1539,1748 1629,1748 1718,1748 1808,1742 1897,1742 1987,1742 2076,1742 2166,1736 2255,1736 2345,1736 2435,1736 2524,1742 2614,1736"/>
+                <TextEquiv>
+                    <Unicode>La grande production de l'eau épurée, mise à la disposition du générateur dans cet appareil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:11;}">
+                <Coords points="827,1896 1745,1839 2285,1868 2476,1828 2476,1782 830,1819"/>
+                <Baseline points="845,1841 942,1838 1026,1838 1116,1838 1205,1838 1295,1838 1384,1832 1474,1832 1563,1826 1653,1826 1742,1826 1832,1826 1921,1826 2011,1820 2100,1820 2190,1820 2279,1814 2369,1814 2483,1817"/>
+                <TextEquiv>
+                    <Unicode>reduit de volume, sera appréciée par l'exemple suivant, aussi sérieur que surprenant. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:12;}">
+                <Coords points="975,1950 2322,1944 2601,1899 2601,1836 975,1879"/>
+                <Baseline points="990,1909 996,1909 1086,1909 1175,1909 1265,1903 1354,1903 1444,1903 1533,1903 1623,1903 1712,1897 1802,1903 1891,1897 1981,1891 2070,1891 2160,1891 2250,1891 2339,1891 2429,1891 2518,1885 2608,1885"/>
+                <TextEquiv>
+                    <Unicode>L’appareil est, dans la pl. 1 au 1/18 d’exécution; en il possède une surface de chaussé d'environ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:13;}">
+                <Coords points="844,2035 1970,2032 2135,1978 2504,2018 2604,1990 2604,1933 844,1956"/>
+                <Baseline points="859,1987 907,1987 996,1987 1086,1981 1175,1987 1265,1987 1354,1981 1444,1981 1533,1981 1623,1981 1712,1975 1802,1975 1891,1975 1981,1969 2070,1969 2160,1969 2250,1969 2339,1969 2429,1969 2518,1963 2608,1963"/>
+                <TextEquiv>
+                    <Unicode>20. Mètres canis, il somme de l’eau en quantité suffisante pour une machine à rapens de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529062200_2691" custom="readingOrder {index:14;}">
+                <Coords points="873,2109 2166,2109 2237,2095 2237,2018 873,2035"/>
+                <Baseline points="889,2070 925,2070 1014,2065 1104,2065 1193,2065 1283,2065 1372,2065 1462,2059 1474,2059 1527,2059 1617,2070 1706,2059 1796,2053 1885,2053 1975,2047 2065,2047 2154,2047 2244,2047"/>
+                <TextEquiv>
+                    <Unicode>ingt chevaux de force, qui consomme par heure 2/3 de mêtre rubes d’eau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:15;}">
+                <Coords points="1160,2226 1336,2265 1481,2263 1552,2220 1654,2263 2030,2251 2081,2214 2223,2217 2226,2089 1163,2126"/>
+                <Baseline points="1175,2208 1247,2208 1336,2208 1426,2208 1515,2208 1605,2202 1694,2202 1784,2196 1874,2196 1963,2196 2053,2196 2142,2190 2232,2190"/>
+                <TextEquiv>
+                    <Unicode>Importance et avantages de l'appareil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529070738_2696" custom="readingOrder {index:16;}">
+                <Coords points="947,2339 1433,2348 1495,2300 2021,2345 2618,2283 2595,2203 1057,2277 949,2223"/>
+                <Baseline points="963,2304 1241,2291 1271,2291 1360,2285 1450,2285 1623,2279 1712,2279 1802,2279 1891,2279 1981,2273 1999,2279 2321,2267 2357,2267 2446,2273 2536,2267 2626,2261 2321,2267 2357,2267 2446,2273 2536,2267 2626,2261"/>
+                <TextEquiv>
+                    <Unicode>Comme l’eau parfaitement puisiée par cet appareil produit aussi une rapen exempte de toute</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529074489_2700" custom="readingOrder {index:17;}">
+                <Coords points="836,2416 1902,2405 1902,2331 1711,2308 839,2339"/>
+                <Baseline points="855,2375 954,2369 1044,2369 1116,2369 1133,2363 1193,2363 1283,2363 1372,2357 1462,2357 1551,2357 1641,2357 1730,2351 1820,2351 1909,2351"/>
+                <TextEquiv>
+                    <Unicode>impureté, j'appelle cet appareil: hydratmo- purificateur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529081963_2706" custom="readingOrder {index:18;}">
+                <Coords points="893,2496 2516,2470 2629,2436 2629,2379 895,2433"/>
+                <Baseline points="911,2457 1336,2435 1426,2435 1515,2429 1575,2435 1921,2423 1963,2423 2053,2423 2142,2423 2232,2423 2321,2423 2411,2417 2500,2417 2590,2417 2637,2421"/>
+                <TextEquiv>
+                    <Unicode>Depuis des années, on a employé vainement des moyens chimiques et autres, très coûteux, pour</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529089379_2711" custom="readingOrder {index:19;}">
+                <Coords points="861,2567 2425,2550 2621,2507 2621,2459 861,2499"/>
+                <Baseline points="877,2524 966,2524 1056,2524 1127,2524 1199,2518 1247,2518 1336,2518 1426,2512 1456,2512 1462,2512 1551,2512 1641,2506 1730,2512 1820,2506 1909,2506 1999,2506 2088,2500 2178,2506 2267,2512 2357,2506 2446,2506 2536,2494 2626,2494"/>
+                <TextEquiv>
+                    <Unicode>brier aux inconvénients des incensitations dans les générateurs, on a même essayé, poussé par la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:20;}">
+                <Coords points="856,2641 2598,2621 2641,2538 856,2567"/>
+                <Baseline points="871,2602 895,2602 984,2596 1074,2596 1163,2596 1253,2590 1342,2590 1432,2590 1521,2584 1611,2584 1700,2590 1790,2584 1879,2578 1969,2578 2059,2578 2148,2578 2238,2572 2327,2572 2417,2572 2506,2566 2596,2578 2645,2577"/>
+                <TextEquiv>
+                    <Unicode>récessité, des moyens abnordes, un aucun d'eux, bien entendu, n'a fourni des résultats, en tandis que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:21;}">
+                <Coords points="841,2720 1868,2717 2135,2663 2373,2706 2621,2624 841,2641"/>
+                <Baseline points="858,2683 883,2673 925,2679 1014,2673 1104,2673 1193,2667 1283,2667 1372,2667 1462,2661 1551,2661 1641,2661 1730,2655 1820,2655 1909,2655 1999,2655 2088,2655 2178,2649 2267,2649 2357,2649 2446,2643 2536,2649 2626,2649"/>
+                <TextEquiv>
+                    <Unicode>mon appareil offre à tous les industriels, un moyen sûr et efficace; en son apparition d'une hau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529102062_2718" custom="readingOrder {index:22;}">
+                <Coords points="833,2808 2624,2752 2555,2675 836,2723"/>
+                <Baseline points="851,2758 937,2757 1026,2757 1092,2757 1181,2751 1199,2751 1289,2751 1378,2745 1468,2745 1557,2739 1647,2739 1736,2739 1826,2739 1915,2733 2005,2733 2094,2727 2184,2727 2273,2727 2363,2727 2452,2727 2542,2721 2631,2721"/>
+                <TextEquiv>
+                    <Unicode>importance pour les gouvernements, pour les Compagnies de chemins de fer et pour la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:23;}">
+                <Coords points="853,2865 2638,2811 2581,2740 856,2771"/>
+                <Baseline points="871,2822 895,2828 984,2828 1074,2828 1163,2828 1253,2822 1342,2822 1432,2816 1521,2816 1611,2816 1700,2811 1790,2811 1879,2805 1969,2805 2059,2805 2148,2805 2238,2805 2327,2799 2417,2799 2506,2799 2596,2799 2644,2801"/>
+                <TextEquiv>
+                    <Unicode>narigation à rapeno, pour l’industrie et pour les actes en général, sera accueillie avec</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:24;}">
+                <Coords points="847,2953 2314,2891 2402,2933 2644,2891 2644,2837 847,2868"/>
+                <Baseline points="863,2900 925,2900 931,2900 1020,2900 1110,2900 1199,2894 1289,2894 1378,2894 1468,2894 1557,2888 1647,2888 1736,2888 1826,2882 1915,2882 2005,2882 2094,2882 2184,2882 2273,2882 2363,2876 2452,2876 2542,2870 2652,2875"/>
+                <TextEquiv>
+                    <Unicode>empressement. un En outre qu’il proviendra de grande dangere, il amène pour les générateurs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529124446_2727" custom="readingOrder {index:25;}">
+                <Coords points="836,3024 2265,3022 2590,2973 2592,2911 836,2956"/>
+                <Baseline points="852,2990 960,2984 1008,2978 1098,2978 1187,2978 1277,2972 1366,2972 1456,2972 1545,2972 1635,2966 1730,2967 1850,2960 1879,2966 1969,2972 2059,2960 2148,2960 2238,2954 2327,2954 2417,2948 2506,2948 2596,2948"/>
+                <TextEquiv>
+                    <Unicode>et pour les machinez, une marche supérieure et pour les propriétaires, des économies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:26;}">
+                <Coords points="841,3073 1038,3067 1134,3115 1205,3090 1487,3107 1529,3081 1660,3101 1708,3087 1711,2985 1592,3019 844,3024"/>
+                <Baseline points="856,3066 883,3055 913,3055 1002,3049 1092,3049 1181,3049 1271,3043 1360,3049 1450,3043 1539,3037 1629,3037 1718,3043"/>
+                <TextEquiv>
+                    <Unicode>considerables, notamment sur le combustible.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529135895_2735" custom="readingOrder {index:27;}">
+                <Coords points="944,3172 2621,3118 2621,3076 2405,3061 1140,3110 947,3070"/>
+                <Baseline points="963,3136 1008,3127 1050,3127 1139,3127 1229,3127 1318,3121 1408,3121 1498,3121 1587,3115 1677,3115 1766,3115 1856,3109 1874,3109 1909,3109 1999,3109 2088,3109 2178,3103 2267,3103 2357,3103 2446,3109 2536,3103 2626,3103"/>
+                <TextEquiv>
+                    <Unicode>Pour ne mentionner qu'un de ses avantages, nous citeront la condensation presque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529146680_2741" custom="readingOrder {index:28;}">
+                <Coords points="839,3263 2479,3226 2629,3212 2629,3132 841,3172"/>
+                <Baseline points="858,3213 960,3210 1002,3210 1092,3210 1181,3204 1271,3204 1366,3206 1462,3206 1557,3198 1647,3198 1736,3192 1826,3192 1915,3192 2005,3187 2094,3192 2184,3187 2273,3181 2363,3181 2452,3181 2542,3181 2631,3175 2637,3175"/>
+                <TextEquiv>
+                    <Unicode>complète de la rapenir, autrefois perdue dans l’atmosphère, - par laquelle condenuation, la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:29;}">
+                <Coords points="839,3331 1896,3323 2027,3275 2157,3317 2575,3286 2607,3235 839,3263"/>
+                <Baseline points="854,3286 907,3282 913,3282 1002,3282 1092,3282 1181,3276 1271,3276 1360,3276 1450,3270 1539,3276 1629,3270 1718,3270 1808,3270 1897,3270 1987,3270 2076,3264 2166,3264 2255,3258 2345,3258 2435,3252 2524,3252 2614,3258"/>
+                <TextEquiv>
+                    <Unicode>même eau presque chimiquement pure et chauffée au plus haut degré, est continuellement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529156996_2746" custom="readingOrder {index:30;}">
+                <Coords points="833,3400 2450,3380 2618,3343 2618,3275 836,3334"/>
+                <Baseline points="849,3363 990,3360 1038,3360 1127,3354 1217,3354 1307,3354 1396,3348 1486,3348 1575,3342 1665,3342 1754,3342 1844,3336 1933,3336 2023,3336 2053,3330 2142,3336 2232,3336 2321,3336 2393,3330 2429,3330 2446,3330 2536,3324 2626,3324"/>
+                <TextEquiv>
+                    <Unicode>ramenée sans frais au générateur; en même temps les générateurs sont complètement débarras</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529160192_2750" custom="readingOrder {index:31;}">
+                <Coords points="844,3459 2160,3479 2635,3431 2635,3368 847,3405"/>
+                <Baseline points="859,3437 895,3437 984,3443 1074,3437 1163,3437 1253,3437 1342,3431 1563,3425 1569,3425 1659,3425 1748,3419 2640,3411"/>
+                <TextEquiv>
+                    <Unicode>de toute incinstation, en des inconvénients et même des graver dangent qui en resultent.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1696529168138_2755" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1797,3605 1797,3657 1895,3657 1895,3605"/>
+            <TextLine id="line_1696529168484_2758" custom="readingOrder {index:0;}">
+                <Coords points="1782,3690 1799,3687 1819,3695 1845,3687 1856,3698 1887,3701 1885,3610 1839,3604 1816,3624 1779,3621"/>
+                <Baseline points="1797,3650 1894,3652"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1696529173976_2764" custom="readingOrder {index:2;}">
+            <Coords points="3354,673 5090,673 5090,2170 3354,2170"/>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="3445,986 5080,947 5080,875 4943,827 4647,881 3445,864"/>
+                <Baseline points="3461,942 3551,948 3640,942 3730,942 3819,942 3909,942 5086,930"/>
+                <TextEquiv>
+                    <Unicode>L’appareil representé dont la pl. 2, est semblable à celui que nous venons de décrire;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="3331,1043 4699,1057 5077,984 4642,941 3331,995"/>
+                <Baseline points="3347,1032 4368,1008 4458,1008 4547,1002 4637,1008 4726,1008 4816,1002 4905,1002 4995,1002 5084,1002"/>
+                <TextEquiv>
+                    <Unicode>il est muni des mêmes erganes en fournit une production égale; mais il est de forme eylindrique</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529183964_2774" custom="readingOrder {index:2;}">
+                <Coords points="3456,1114 5003,1134 5074,1123 5074,1020 4858,1060 4491,1018 4406,1069 3456,1032"/>
+                <Baseline points="3473,1098 3491,1092 3580,1092 3670,1092 4040,1086 4130,1086 4219,1086 4309,1092 4398,1086 4488,1092 4577,1080 4667,1080 4756,1080 4846,1086 4935,1080 5025,1080 5078,1086"/>
+                <TextEquiv>
+                    <Unicode>Cette forme eylindrique est préférable sont beaucoup de rapports à la forme parallelipi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="3337,1222 4176,1222 4261,1168 5074,1208 5094,1128 4701,1092 4318,1146 4235,1094 3337,1148"/>
+                <Baseline points="3352,1176 4828,1157 4893,1151 4983,1151 5099,1152"/>
+                <TextEquiv>
+                    <Unicode>pédique, notamment sont le rapport du prix de revient de la construction. — On retrouve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529195576_2780" custom="readingOrder {index:4;}">
+                <Coords points="3363,1262 4167,1251 4323,1305 4494,1248 4582,1296 5097,1242 5097,1200 3363,1217"/>
+                <Baseline points="3378,1247 3467,1247 3557,1247 3563,1247 3986,1241 4046,1235 4135,1241 4225,1235 4315,1235 4404,1235 4494,1235 4583,1235 4673,1235 4762,1229 4852,1229 5104,1232"/>
+                <TextEquiv>
+                    <Unicode>a tout les organes que nous avons décrits dans la forme parallélipipedique, nous mentionnerons</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529205266_2785" custom="readingOrder {index:5;}">
+                <Coords points="3337,1342 5031,1359 5003,1276 4750,1242 4611,1293 3337,1268"/>
+                <Baseline points="3354,1324 3407,1318 3497,1318 3586,1324 3676,1318 3765,1318 3795,1318 3885,1318 3974,1318 4004,1318 4070,1313 4159,1318 4249,1318 4315,1318 4679,1313 4768,1313 4858,1313 4947,1307 5037,1313"/>
+                <TextEquiv>
+                    <Unicode>seulement la construction et la superposition du système eloisonnane. — Les eloisont sont</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529211888_2789" custom="readingOrder {index:6;}">
+                <Coords points="3346,1416 4602,1396 4733,1444 5071,1401 5071,1350 4684,1319 4230,1376 3346,1345"/>
+                <Baseline points="3360,1402 3449,1402 3539,1402 3628,1402 3634,1402 4344,1390 4362,1390 4452,1390 4541,1384 4631,1384 4720,1390 4810,1384 4899,1384 4989,1384 5078,1384"/>
+                <TextEquiv>
+                    <Unicode>cirenlains et la moitié de ces dites claisons sont munier, sur leur deux sacer, d’une collerett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:7;}">
+                <Coords points="3346,1495 3809,1538 4645,1470 4818,1518 5057,1475 5060,1399 3348,1455"/>
+                <Baseline points="3360,1480 3366,1480 3455,1474 3545,1474 3634,1474 3724,1474 3813,1474 3903,1474 3992,1474 4082,1474 4171,1468 4261,1468 4350,1462 4440,1462 4529,1462 4619,1456 4708,1456 4798,1462 4887,1462 4977,1462 5067,1456"/>
+                <TextEquiv>
+                    <Unicode>saillante, (la collerette inférieure est formée par le bord rabattu, et la collerette supérieuse, pa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529219024_2795" custom="readingOrder {index:8;}">
+                <Coords points="4878,1512 4900,1515 4912,1507 4946,1512 4960,1526 4969,1526 4986,1509 5040,1509 5040,1467 5026,1467 5014,1458 5003,1467 4997,1461 4957,1478 4943,1478 4923,1467 4912,1472 4878,1470"/>
+                <Baseline points="4892,1505 5047,1504"/>
+                <TextEquiv>
+                    <Unicode>de rayon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:9;}">
+                <Coords points="3351,1606 4693,1543 4989,1592 5082,1586 5085,1495 3354,1498"/>
+                <Baseline points="3366,1551 3389,1551 3479,1545 3568,1551 3658,1551 3748,1551 3837,1545 3927,1545 4016,1545 4106,1545 4195,1545 4285,1545 4374,1545 4464,1545 4553,1539 4643,1539 4732,1539 4822,1539 4911,1539 5001,1533 5090,1539"/>
+                <TextEquiv>
+                    <Unicode>une bande rapportée) et portent une ouverture circulaire en leur centre (10 centimes). L'autre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:10;}">
+                <Coords points="3368,1654 3988,1683 4312,1623 4480,1680 4989,1677 5099,1651 5102,1583 4406,1546 3368,1603"/>
+                <Baseline points="3383,1629 3431,1629 3521,1635 3610,1629 3700,1635 3789,1629 3879,1623 3968,1623 4058,1623 4147,1623 4237,1617 4326,1617 4416,1617 4505,1617 4595,1617 4685,1617 4774,1611 4864,1617 4953,1617 5043,1611 5103,1627"/>
+                <TextEquiv>
+                    <Unicode>moitié est formée par des disques d’un diametre moindre. Chacune des cloisons porte„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:11;}">
+                <Coords points="3363,1720 3732,1714 3806,1745 4133,1705 4360,1720 4383,1634 4130,1632 4079,1674 3940,1683 3545,1686 3476,1646 3363,1651"/>
+                <Baseline points="3378,1706 3401,1706 3491,1706 3580,1700 3670,1700 3759,1700 3849,1700 3939,1700 4028,1700 4118,1694 4207,1689 4297,1694 4386,1694"/>
+                <TextEquiv>
+                    <Unicode>sur chacune de ses deux saces, quatre douiller. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529230532_2807" custom="readingOrder {index:12;}">
+                <Coords points="3451,1796 3781,1839 3957,1782 5000,1785 5088,1777 5088,1666 3454,1740"/>
+                <Baseline points="3467,1778 3479,1778 3568,1778 3658,1778 3748,1784 3837,1778 3927,1778 4016,1778 4106,1772 4195,1772 4285,1772 4494,1766 4583,1766 4673,1766 4762,1766 4810,1766 5094,1775"/>
+                <TextEquiv>
+                    <Unicode>Les douillet impérieures d'une des cloisons entrent dans les douiller inférieure de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529242366_2813" custom="readingOrder {index:13;}">
+                <Coords points="4736,1839 4807,1822 4827,1833 5082,1819 5082,1779 4969,1777 4920,1791 4898,1779 4875,1794 4849,1774 4736,1785"/>
+                <Baseline points="4751,1822 5089,1812"/>
+                <TextEquiv>
+                    <Unicode>[et à les rendre solidaires]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:14;}">
+                <Coords points="3351,1913 4483,1848 5020,1910 5082,1902 5082,1816 3960,1782 3815,1836 3351,1831"/>
+                <Baseline points="3366,1868 3449,1862 3539,1862 3628,1856 3718,1856 3807,1856 3897,1856 3986,1856 4076,1850 4165,1850 4255,1850 4344,1844 4434,1844 4523,1844 4613,1844 4702,1844 4801,1851 5090,1839"/>
+                <TextEquiv>
+                    <Unicode>la cloison voisine, de manière à maintenir l’écartement des claisant entre elles, en sorte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529247915_2819" custom="readingOrder {index:15;}">
+                <Coords points="3346,1958 4662,1930 4790,1978 4991,1944 4991,1893 4483,1848 3346,1907"/>
+                <Baseline points="3360,1945 3419,1939 3509,1933 3598,1933 3688,1927 3777,1933 3867,1927 3956,1927 4046,1927 4135,1921 4225,1921 4315,1921 4404,1921 4470,1921 4559,1921 4649,1915 4738,1915 4828,1915 4881,1921 4998,1927"/>
+                <TextEquiv>
+                    <Unicode>que la hauteur des dites douilles, donne la distance entre en deur claisant successives</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:16;}">
+                <Coords points="3468,2032 5028,2061 5102,1978 4611,1930 3471,1976"/>
+                <Baseline points="3485,2011 3533,2011 3622,2011 3712,2011 3801,2011 3891,2005 3980,2005 4070,2005 4159,2005 4249,2005 4338,2005 4428,2005 4517,2005 4607,1999 4696,1999 5106,2006"/>
+                <TextEquiv>
+                    <Unicode>On superpose et en alterne successivement une cloison pleine et une clorcon persorée,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529261885_2826" custom="readingOrder {index:17;}">
+                <Coords points="3351,2106 5091,2118 5091,2035 4005,2066 3945,2018 3573,2072 3351,2015"/>
+                <Baseline points="3367,2098 3419,2088 3509,2094 3598,2094 3688,2088 3777,2088 3867,2082 3956,2088 4046,2088 4135,2082 4225,2082 4315,2082 4428,2076 4517,2076 4583,2076 5098,2079"/>
+                <TextEquiv>
+                    <Unicode>en sorte qu’on obtient ainsi les passages qui permettent à la vapeur de circuler et de se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529269298_2831" custom="readingOrder {index:18;}">
+                <Coords points="3354,2206 4127,2211 4335,2157 4434,2217 4684,2160 4960,2203 5099,2186 5099,2126 4738,2084 4693,2129 3354,2138"/>
+                <Baseline points="3369,2165 3795,2160 3885,2160 3956,2160 3986,2154 4076,2154 4147,2154 4189,2148 4279,2148 4368,2148 4458,2154 4547,2148 4637,2148 4720,2148 5107,2146"/>
+                <TextEquiv>
+                    <Unicode>répandre successivement dans toutes les parties de l’appareil pour chauffer le desant et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:3;}">
+            <Coords points="3360,2176 5078,2176 5078,3561 3360,3561"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3346,2254 5108,2280 5108,2194 4767,2211 4684,2160 4559,2211 4335,2157 4196,2214 3346,2206"/>
+                <Baseline points="3360,2238 3443,2244 3533,2238 3622,2238 3712,2238 3801,2238 3891,2238 3980,2238 4070,2232 4159,2232 4249,2232 4338,2232 4428,2226 4517,2232 4607,2226 4696,2232 5115,2241"/>
+                <TextEquiv>
+                    <Unicode>le dessout dit cloisont, en produire ici encore les mêmes effets que ceux décrits dans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3348,2368 3445,2376 3468,2356 3542,2356 3553,2345 3576,2362 3658,2356 3661,2288 3587,2283 3564,2297 3542,2280 3456,2302 3439,2291 3417,2300 3394,2283 3351,2285"/>
+                <Baseline points="3367,2319 3473,2321 3485,2321 3574,2315 3664,2315"/>
+                <TextEquiv>
+                    <Unicode>l’appareil No. 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3445,2436 4454,2445 4642,2382 4832,2439 5105,2408 5105,2345 3445,2365"/>
+                <Baseline points="3461,2387 3479,2393 3568,2393 3658,2393 3748,2393 3837,2387 3927,2387 4016,2387 4106,2381 4195,2387 4285,2381 4374,2381 4464,2381 4553,2381 4643,2375 4732,2375 5109,2372"/>
+                <TextEquiv>
+                    <Unicode>Les étagères h indiquées dans le 1er appareil pour supporter les claisons en tenir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3326,2507 4551,2521 4767,2464 4841,2513 5077,2487 5099,2425 4639,2382 4454,2445 3326,2439"/>
+                <Baseline points="3340,2468 3461,2464 3551,2470 3640,2470 3658,2470 5106,2462"/>
+                <TextEquiv>
+                    <Unicode>leur écartement ne sont pas nécessaires, en raison de ce que la claisons se supportent l'une</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529291110_2842" custom="readingOrder {index:4;}">
+                <Coords points="3340,2601 4170,2553 4537,2595 5057,2550 5060,2482 3340,2521"/>
+                <Baseline points="3355,2559 3431,2554 3503,2554 3592,2548 3670,2542 3759,2542 3849,2542 3939,2542 4028,2542 4118,2542 4153,2542 5062,2533"/>
+                <TextEquiv>
+                    <Unicode>l’autre sur leurs douilles, et leur espacement est conservé par cet mêmes douilles. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="3456,2675 5051,2638 5088,2544 3456,2590"/>
+                <Baseline points="3473,2626 3491,2620 3580,2620 3670,2620 3759,2614 3849,2620 3939,2614 4028,2620 4118,2614 4207,2614 4297,2608 4386,2608 5096,2618"/>
+                <TextEquiv>
+                    <Unicode>Le dessin N=o 3 représente un appareil parallétipipédique, pour purisier l'eau destinée</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="3354,2740 5082,2706 5082,2624 3357,2663"/>
+                <Baseline points="3372,2697 3413,2697 3503,2697 3592,2697 3682,2697 3771,2697 3861,2697 3950,2697 4040,2691 4130,2691 4219,2691 4309,2685 4398,2685 4488,2685 4577,2679 5089,2686"/>
+                <TextEquiv>
+                    <Unicode>â alimenter un générateur, en produisant en même temps la plus grande condensation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529302729_2849" custom="readingOrder {index:7;}">
+                <Coords points="3357,2814 5034,2788 5074,2723 3357,2749"/>
+                <Baseline points="3372,2781 3431,2775 3521,2775 3610,2775 3700,2775 3789,2775 3879,2769 3968,2769 4058,2775 4147,2769 4237,2763 4326,2763 4416,2757 4505,2763 4535,2763 4541,2763 4631,2757 4720,2757 4810,2757 4899,2757 4989,2757 5078,2757"/>
+                <TextEquiv>
+                    <Unicode>possible de la vapeur sortant de l'échappement de la machine. A cette fin, le réservoir B</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529308950_2854" custom="readingOrder {index:8;}">
+                <Coords points="3346,2894 5020,2885 5099,2874 5102,2803 3348,2817"/>
+                <Baseline points="3360,2852 3419,2852 3509,2846 3598,2846 3688,2852 3777,2846 3867,2846 3956,2846 4046,2846 4135,2846 4225,2840 4315,2840 4404,2840 4494,2834 4732,2834 4822,2834 4911,2834 5108,2834"/>
+                <TextEquiv>
+                    <Unicode>(dessin N=o1) est pourvu d’une enveloppe C, reliée au fond, de manière à formeo un espace de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529313988_2860" custom="readingOrder {index:9;}">
+                <Coords points="3357,2962 4090,2987 4824,2922 4929,2965 5105,2925 5105,2871 3357,2888"/>
+                <Baseline points="3372,2924 3461,2924 3551,2924 3640,2924 3730,2924 3819,2924 3909,2918 3998,2924 4088,2918 4315,2918 4404,2912 4494,2912 4583,2912 4673,2912 4762,2906 4852,2900 5111,2908"/>
+                <TextEquiv>
+                    <Unicode>15 centimèt. de largeno, entre les parois extérieures du réservoir B, - et celles intérieure de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_15" custom="readingOrder {index:10;}">
+                <Coords points="3348,3044 3377,3041 3428,3061 3542,3039 3573,3050 3610,3044 3624,3059 3647,3059 3650,2976 3599,2979 3570,2962 3513,2968 3496,2982 3479,2968 3437,2965 3411,2976 3400,2965 3351,2965"/>
+                <Baseline points="3366,3007 3389,3007 3479,3007 3568,3007 3658,3002"/>
+                <TextEquiv>
+                    <Unicode>l'enveloppe C.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_16" custom="readingOrder {index:11;}">
+                <Coords points="3462,3095 4838,3113 5088,3081 5088,3022 3462,3050"/>
+                <Baseline points="3479,3079 3545,3079 3634,3079 3724,3079 3813,3073 3903,3073 3992,3073 4082,3073 4171,3073 4261,3067 4350,3067 4440,3067 4529,3067 4619,3061 4708,3061 4798,3067 4887,3061 5094,3069"/>
+                <TextEquiv>
+                    <Unicode>Le bord supérieur de l'enveloppe C dépasse, d’environ 45 centimes, le couverele du réservoir B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_17" custom="readingOrder {index:12;}">
+                <Coords points="3363,3198 4670,3212 4741,3155 4835,3203 5060,3147 5062,3101 3604,3127 3366,3056"/>
+                <Baseline points="3378,3163 3455,3157 3545,3157 3634,3151 3724,3151 3813,3151 3903,3151 3992,3151 4082,3145 4171,3145 4261,3145 4350,3145 4440,3145 4529,3145 4619,3139 4708,3139 4798,3139 4887,3139 4977,3133 5067,3139"/>
+                <TextEquiv>
+                    <Unicode>et cette enveloppe C’est elle-même fennée à la partie superieure par un couvercle, assemblé à</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_18" custom="readingOrder {index:13;}">
+                <Coords points="3346,3266 4082,3283 4173,3235 4335,3232 4468,3280 4497,3155 4389,3195 3346,3201"/>
+                <Baseline points="3360,3234 3431,3234 3521,3234 3610,3234 3700,3228 3789,3228 3879,3228 3968,3222 4058,3222 4147,3222 4237,3216 4326,3216 4416,3222 4505,3222"/>
+                <TextEquiv>
+                    <Unicode>l’enveloppe C par boulons et brides on par tout autre moyen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529328467_2869" custom="readingOrder {index:14;}">
+                <Coords points="3439,3329 4267,3357 4494,3303 4673,3351 5088,3323 5088,3272 4173,3235 3439,3292"/>
+                <Baseline points="3455,3314 3527,3306 3598,3312 3688,3306 3777,3306 3867,3306 3956,3306 4046,3300 4135,3300 4165,3300 4249,3294 4338,3300 4428,3294 4517,3294 5094,3299"/>
+                <TextEquiv>
+                    <Unicode>L'eau froide aspirée par la pompe ou diversée par un réservoir supérieur, est amenée</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_21" custom="readingOrder {index:15;}">
+                <Coords points="4122,3411 4161,3388 4213,3394 4241,3371 4389,3368 4412,3391 4443,3363 4619,3368 4619,3303 4588,3317 4454,3306 4366,3351 4286,3337 4210,3354 4124,3289"/>
+                <Baseline points="4141,3379 4237,3372 4326,3372 4416,3372 4505,3366 4595,3366 4625,3366"/>
+                <TextEquiv>
+                    <Unicode>sse par le turan de dame</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_22" custom="readingOrder {index:16;}">
+                <Coords points="3368,3425 4306,3434 4440,3377 4801,3431 5099,3380 5099,3300 4656,3348 4559,3258 4261,3258 4127,3354 3368,3357"/>
+                <Baseline points="3383,3383 3419,3383 3509,3383 3598,3383 3688,3378 3777,3378 3867,3383 3956,3378 4046,3378 4141,3379 5105,3373"/>
+                <TextEquiv>
+                    <Unicode>dans l’appareil pour être jurisiée ; elle passe par le kuyan a. dans l'espace vide formé entre les</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_23" custom="readingOrder {index:17;}">
+                <Coords points="3331,3510 5091,3462 5026,3397 4798,3377 4642,3434 3331,3422"/>
+                <Baseline points="3347,3470 3622,3461 3700,3461 3789,3461 3879,3455 3968,3455 4058,3455 4147,3455 4237,3449 4326,3449 4416,3455 4505,3449 4595,3455 5098,3447"/>
+                <TextEquiv>
+                    <Unicode>paroit du réservoir B et de l’enveloppe C ; elle monte jusqu’au trop plein q, qui établit son</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696529341683_2877" custom="readingOrder {index:18;}">
+                <Coords points="3354,3573 4156,3542 4338,3593 4463,3536 4696,3579 4861,3533 4969,3576 5099,3542 5099,3485 3354,3510"/>
+                <Baseline points="3371,3546 3473,3539 3545,3551 3634,3539 3724,3533 3813,3539 3903,3533 4285,3527 4374,3527 4434,3527 4619,3521 4708,3527 4798,3527 4887,3521 4977,3539 5007,3533 5107,3521"/>
+                <TextEquiv>
+                    <Unicode>niveau supérieur normal: - La rapeno entre, comme précédemment par b, chauffe par</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1696529351121_2882" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="4164,3571 4164,3629 4290,3629 4290,3571"/>
+            <TextLine id="line_1696529351387_2885" custom="readingOrder {index:0;}">
+                <Coords points="4147,3658 4176,3664 4184,3655 4201,3650 4215,3661 4230,3653 4250,3653 4255,3658 4264,3650 4284,3653 4286,3599 4272,3599 4258,3584 4252,3587 4244,3576 4230,3576 4224,3570 4210,3584 4201,3579 4181,3587 4153,3573"/>
+                <Baseline points="4167,3624 4290,3616"/>
+                <TextEquiv>
+                    <Unicode>5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

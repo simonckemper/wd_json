@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.3.0:model_id=51170:date=05_10_2023_19:50</Creator>
+        <Created>2023-10-05T08:02:44.414+02:00</Created>
+        <LastChange>2023-10-05T19:50:27.317+02:00</LastChange>
+        <TranskribusMetadata docId="1601069" pageId="60386649" pageNr="238" tsid="136522558" status="IN_PROGRESS" userId="122145" imgUrl="https://files.transkribus.eu/Get?id=XXQYAGKMEFCRRDGAHLJZMNDX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YNKBELPKDXCUTXOJFCEZGGLK" imageId="48768774"/>
+    </Metadata>
+    <Page imageFilename="nl_zh_ha_na-2_02_04-1190_238.jpg" imageWidth="5502" imageHeight="4116">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1696622909654" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1696512985287_1675"/>
+                <RegionRefIndexed index="1" regionRef="region_1696512989611_1683"/>
+                <RegionRefIndexed index="2" regionRef="region_1696512997798_1696"/>
+                <RegionRefIndexed index="3" regionRef="tr_1"/>
+                <RegionRefIndexed index="4" regionRef="region_1696512971454_1652"/>
+                <RegionRefIndexed index="5" regionRef="region_1696513000727_1704"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="region_1696512985287_1675" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="839,1514 839,1962 892,1962 892,1514"/>
+            <TextLine id="line_1696512985350_1678" custom="readingOrder {index:0;}">
+                <Coords points="946,1971 955,1922 944,1855 919,1826 936,1798 921,1777 965,1691 883,1562 885,1516 763,1514 744,1623 769,1684 748,1727 759,1745 746,1796 771,1844 753,1868 767,1969"/>
+                <Baseline points="887,1962 884,1514"/>
+                <TextEquiv>
+                    <Unicode>1704</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1696512989611_1683" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1109,504 1109,649 1365,649 1365,504"/>
+            <TextLine id="line_1696512994144_1691" custom="readingOrder {index:0;}">
+                <Coords points="995,833 1486,658 1533,672 1629,643 1667,679 1762,457 1718,443 1218,628 1073,651"/>
+                <Baseline points="1006,839 1655,556 1731,546"/>
+                <TextEquiv>
+                    <Unicode>4 mai 59) 46</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696512989705_1686" custom="readingOrder {index:1;}">
+                <Coords points="1115,641 1126,647 1159,634 1164,647 1185,639 1197,654 1233,641 1254,654 1317,645 1368,519 1332,523 1299,508 1212,529 1170,504"/>
+                <Baseline points="1126,644 1363,546"/>
+                <TextEquiv>
+                    <Unicode>Decr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1696512997798_1696" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1007,579 1007,1001 1810,1001 1810,579"/>
+            <TextLine id="line_1696512997908_1699" custom="readingOrder {index:0;}">
+                <Coords points="1010,1005 1214,1006 1459,955 1554,957 1623,997 1813,605 1775,584 1121,776"/>
+                <Baseline points="1027,997 1468,776 1808,620"/>
+                <TextEquiv>
+                    <Unicode>25 Jan 60 „ 79</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:3;}">
+            <Coords points="757,2550 2254,2550 2254,3750 757,3750"/>
+            <TextLine id="line_1696512981607_1670" custom="readingOrder {index:0;}">
+                <Coords points="2293,2585 2125,2584 1904,2504 1640,2593 771,2540 772,2624 2294,2643"/>
+                <Baseline points="2283,2600 772,2567"/>
+                <TextEquiv>
+                    <Unicode>te doen geworden Koninklijk besluit van heden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696512969174_1647" custom="readingOrder {index:1;}">
+                <Coords points="2273,3109 2039,3099 1870,2995 1817,3031 1712,2993 1661,3019 1627,2995 1376,3002 1377,3126 1629,3225 1807,3200 1859,3219 1944,3164 2273,3171"/>
+                <Baseline points="2264,3119 1374,3105"/>
+                <TextEquiv>
+                    <Unicode>den 13den October 1340, 1e. 1. aan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696512966780_1642" custom="readingOrder {index:2;}">
+                <Coords points="2266,3211 1617,3223 1415,3124 1050,3206 742,3189 744,3270 1229,3257 1355,3345 1724,3318 1817,3270 2268,3268"/>
+                <Baseline points="2260,3240 739,3203"/>
+                <TextEquiv>
+                    <Unicode>eer, in verband met de circulaire der Staats=Secretarie, van</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696512963109_1637" custom="readingOrder {index:3;}">
+                <Coords points="2175,3348 1356,3346 1153,3244 957,3326 746,3320 748,3445 1077,3560 1632,3381 2102,3434 2176,3396"/>
+                <Baseline points="2166,3353 743,3320"/>
+                <TextEquiv>
+                    <Unicode>De Directeur van het Kabinet ter Kanings, heeft de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696512959677_1632" custom="readingOrder {index:4;}">
+                <Coords points="2017,3695 1819,3666 1615,3710 1248,3657 1073,3704 751,3653 778,3765 868,3708 1237,3759 1448,3738 1688,3797 2019,3780"/>
+                <Baseline points="2009,3704 749,3675"/>
+                <TextEquiv>
+                    <Unicode>'s Gravenhage, den 1858.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1696512971454_1652" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="2414,3710 2414,3772 2546,3772 2546,3710"/>
+            <TextLine id="line_1696512971532_1655" custom="readingOrder {index:0;}">
+                <Coords points="2553,3706 2536,3702 2515,3710 2483,3689 2456,3708 2418,3706 2431,3849 2445,3847 2464,3830 2496,3835 2515,3851 2519,3847 2534,3854 2565,3845"/>
+                <Baseline points="2546,3727 2418,3715"/>
+                <TextEquiv>
+                    <Unicode>N.o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1696513000727_1704" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="2695,332 2695,626 2753,626 2753,332"/>
+            <TextLine id="line_1696513000837_1707" custom="readingOrder {index:0;}">
+                <Coords points="2722,634 2711,582 2721,567 2700,542 2700,523 2726,493 2743,445 2724,384 2698,356 2702,333 2601,331 2650,443 2648,464 2580,554 2582,597 2605,630"/>
+                <Baseline points="2748,625 2740,332"/>
+                <TextEquiv>
+                    <Unicode>O</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

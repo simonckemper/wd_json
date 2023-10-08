@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.3.0:model_id=51170:date=05_10_2023_20:21</Creator>
+        <Created>2023-10-05T08:02:44.462+02:00</Created>
+        <LastChange>2023-10-05T20:21:51.623+02:00</LastChange>
+        <TranskribusMetadata docId="1601069" pageId="60386662" pageNr="251" tsid="136528255" status="IN_PROGRESS" userId="122145" imgUrl="https://files.transkribus.eu/Get?id=EBUOTJUNZHBHHNNHNLMGJQQJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XTUXBSTCIGRHZJUYMPXRLXOL" imageId="48768787"/>
+    </Metadata>
+    <Page imageFilename="nl_zh_ha_na-2_02_04-1190_251.jpg" imageWidth="5479" imageHeight="4130">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1696622910807" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="region_1696528851586_2570"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1696528864501_2586"/>
+                <RegionRefIndexed index="3" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="587,724 2509,724 2481,3531 559,3531"/>
+            <TextLine id="line_1696528713415_2475" custom="readingOrder {index:0;}">
+                <Coords points="732,960 1517,979 1923,919 2279,960 2448,909 2452,808 2289,797 2038,884 732,889"/>
+                <Baseline points="745,949 2454,906"/>
+                <TextEquiv>
+                    <Unicode>Dans le même but. les deux claisons inférieures pfs...... portent. implantia sur leur surface suprécieuse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="725,1034 758,1043 799,1015 854,1013 891,1048 930,1018 992,1048 1080,1006 1096,1020 1133,1004 1289,1015 1289,969 1234,956 1167,974 1117,956 1025,976 967,960 896,976 834,960 767,979 728,969"/>
+                <Baseline points="740,1014 841,1002 865,1002 954,996 1044,996 1296,999"/>
+                <TextEquiv>
+                    <Unicode>plusieurs petites cloisons verticales</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="622,1091 988,1137 1971,1112 2088,1059 2441,1098 2441,1020 2236,995 622,1027"/>
+                <Baseline points="634,1083 751,1080 799,1080 889,1074 978,1074 1068,1074 2447,1046"/>
+                <TextEquiv>
+                    <Unicode>d. Chapelle en fonte, interparé sur le luyau de sortie st...; elle porte à son intérieur, un tannée r en cuivre, recouvert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528728227_2483" custom="readingOrder {index:3;}">
+                <Coords points="741,1211 2461,1149 2454,1091 2139,1078 988,1137 744,1103"/>
+                <Baseline points="754,1162 2468,1126"/>
+                <TextEquiv>
+                    <Unicode>d’un dieque filheur enfendre, cette chapelle constitue le commencement du tuyau pour la sortie de l’eau jurifice, en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:4;}">
+                <Coords points="737,1239 2109,1269 2443,1216 2445,1160 737,1209"/>
+                <Baseline points="750,1228 775,1229 829,1229 919,1229 1008,1229 1098,1223 2449,1199"/>
+                <TextEquiv>
+                    <Unicode>même temps que la continuation du tuyau de la pompe alimentaire. Elle conferme à sa partie sujouinne ; par un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528739544_2491" custom="readingOrder {index:5;}">
+                <Coords points="744,1333 1902,1354 2192,1289 2429,1306 2429,1255 744,1292"/>
+                <Baseline points="756,1312 811,1307 889,1313 978,1307 1068,1307 1157,1307 1247,1301 1336,1295 1426,1295 1939,1289 1987,1289 2076,1289 2166,1283 2255,1283 2345,1277 2435,1277"/>
+                <TextEquiv>
+                    <Unicode>convercle, qui se fixe jointif à l'arde d'une vie de pression, laquelle ne s'écrire sur un jong; ce denier agresé à m</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="739,1437 843,1437 863,1418 886,1434 988,1428 1008,1439 1041,1428 1082,1437 1082,1345 988,1363 937,1349 921,1365 857,1319 778,1317 741,1333"/>
+                <Baseline points="751,1384 817,1384 907,1378 996,1384 1086,1378"/>
+                <TextEquiv>
+                    <Unicode>bride de la chapelle d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="822,1522 2128,1504 2408,1453 2434,1407 2035,1365 1881,1370 1807,1428 824,1441"/>
+                <Baseline points="834,1474 1492,1450 1545,1450 1635,1444 1724,1444 1814,1444 1903,1444 1993,1438 2082,1438 2172,1438 2261,1432 2351,1432 2440,1432"/>
+                <TextEquiv>
+                    <Unicode>Cette disposition a pour bien de vouloir facilement l’interieur de la chapelle d pour nettoyer le fitre si de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="732,1591 801,1577 859,1600 916,1584 969,1596 1020,1577 1128,1596 1149,1577 1204,1575 1202,1510 1179,1520 1140,1504 1078,1527 1059,1510 1034,1524 962,1515 916,1529 868,1510 827,1524 734,1506"/>
+                <Baseline points="746,1545 763,1545 853,1545 942,1545 1032,1545 1122,1539 1211,1539"/>
+                <TextEquiv>
+                    <Unicode>dépôts bovenx sont venus l'oboté</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528753934_2500" custom="readingOrder {index:9;}">
+                <Coords points="626,1639 1748,1653 2477,1575 626,1580"/>
+                <Baseline points="640,1630 919,1623 948,1617 1038,1617 1127,1611 1217,1611 1307,1617 1396,1611 1486,1611 1575,1605 1665,1605 1754,1599 1844,1605 1921,1599 1933,1599 2023,1599 2112,1593 2202,1593 2481,1595"/>
+                <TextEquiv>
+                    <Unicode>7 Teunie en cuivre. recouvert d'un dinque de feutre, dans le but de retenir (quand cela se présente à la sortie du</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="739,1748 2146,1720 2367,1674 2369,1632 739,1667"/>
+                <Baseline points="751,1694 763,1694 853,1694 942,1694 1032,1689 1122,1689 1211,1689 1301,1689 1390,1689 1480,1683 1569,1683 1659,1677 1748,1677 1838,1671 1927,1671 2017,1671 2106,1665 2196,1665 2285,1665 2375,1665"/>
+                <TextEquiv>
+                    <Unicode>réservoir B) les particules les plus légues qui furnagent et qui ont été entrainées par le courant d'eau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528760772_2505" custom="readingOrder {index:11;}">
+                <Coords points="633,1817 1973,1814 2302,1720 633,1741"/>
+                <Baseline points="645,1786 751,1778 793,1778 883,1772 972,1772 1038,1766 1050,1766 1139,1772 1229,1766 1318,1760 1432,1754 1503,1754 1593,1754 1683,1754 1772,1748 1862,1748 1951,1748 2041,1748 2130,1742 2220,1742 2309,1742"/>
+                <TextEquiv>
+                    <Unicode>Éprouverte ou rolinck d'essai, destiné à connaitre le niveau de l'eau à l'intérieur du réservoir B. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:12;}">
+                <Coords points="638,1870 930,1913 2459,1856 2459,1791 2346,1775 824,1833 640,1787"/>
+                <Baseline points="650,1856 674,1856 763,1856 853,1856 942,1850 1032,1850 1122,1850 1211,1844 1301,1844 1390,1844 1480,1838 1569,1832 1659,1832 1748,1832 1838,1826 1927,1826 2017,1820 2106,1820 2196,1814 2285,1814 2375,1814 2464,1820"/>
+                <TextEquiv>
+                    <Unicode>2h... Quatre étagères en fer méplat, rivite aux parvie intérieures du rienvoir B; un elles supportent le claisont p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:13;}">
+                <Coords points="755,1969 1326,1980 1946,1906 2210,1946 2441,1927 2443,1849 758,1895"/>
+                <Baseline points="769,1933 835,1933 925,1927 1014,1927 1104,1921 1193,1921 1283,1921 1372,1915 1462,1915 1551,1909 1641,1909 1730,1903 1820,1903 1909,1897 1999,1897 2088,1891 2178,1891 2267,1891 2357,1891 2446,1891"/>
+                <TextEquiv>
+                    <Unicode>qui reposent sur des tasseaux houzontaux. ajustés à quere d'hironde sur les dites bandes de fer méplat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528775124_2518" custom="readingOrder {index:14;}">
+                <Coords points="1547,1973 1847,1969 1849,1918 1731,1918 1720,1929 1683,1920 1669,1934 1653,1923 1550,1923"/>
+                <Baseline points="1559,1969 1853,1962"/>
+                <TextEquiv>
+                    <Unicode>en regard l'une de l'autre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528770968_2514" custom="readingOrder {index:15;}">
+                <Coords points="741,2015 930,2061 2146,2040 2434,1980 2434,1941 744,1971"/>
+                <Baseline points="757,1999 805,2005 895,2005 984,2005 1074,1999 1163,1999 1253,1993 1342,1993 1432,1993 1521,1987 1784,1981 1814,1981 1903,1981 1993,1981 2082,1975 2172,1975 2261,1969 2351,1969 2440,1969"/>
+                <TextEquiv>
+                    <Unicode>Il nous reste à ajoutée que les parois 2 verticales, vennet aux clouars pp, s'inclinent légènement en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528780558_2524" custom="readingOrder {index:16;}">
+                <Coords points="638,2132 2374,2100 2445,2079 2448,2008 640,2056"/>
+                <Baseline points="652,2091 823,2076 883,2076 972,2076 1062,2076 1151,2076 1241,2070 1330,2070 1420,2065 1509,2065 1599,2065 1689,2059 1957,2053 2005,2053 2094,2047 2184,2047 2273,2047 2363,2041 2452,2041"/>
+                <TextEquiv>
+                    <Unicode>deraction, l'une vere l'autre pour conduire l'eau d'une cloison supérieur, sur cette inrédiatement inférieure, de telle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:17;}">
+                <Coords points="629,2217 2215,2178 2448,2151 2450,2084 631,2139"/>
+                <Baseline points="644,2166 662,2166 751,2160 841,2160 931,2154 1020,2148 1110,2148 1199,2148 1289,2142 1378,2142 1468,2142 1557,2142 1647,2142 1736,2136 1826,2136 1915,2130 2005,2130 2094,2124 2184,2124 2273,2118 2363,2118 2452,2118"/>
+                <TextEquiv>
+                    <Unicode>sorte qu'il se forme une cascade continuelle d'un seul côté de l'appareil, sais quil soin possible à une goutte d'eau de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528790948_2530" custom="readingOrder {index:18;}">
+                <Coords points="631,2256 1867,2273 2445,2243 2445,2178 633,2220"/>
+                <Baseline points="644,2244 710,2238 799,2238 889,2238 978,2232 1068,2232 1157,2226 1247,2232 1336,2226 1426,2226 1515,2226 1605,2220 1736,2220 1826,2214 1915,2208 2005,2208 2094,2208 2184,2202 2273,2202 2363,2202 2452,2196"/>
+                <TextEquiv>
+                    <Unicode>de déverser sur l’autre êdé. - - Chaque goutte d’eau préconcen ainsi successivement la longueur de la surface</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:19;}">
+                <Coords points="640,2365 2441,2321 2473,2238 642,2293"/>
+                <Baseline points="655,2312 704,2315 775,2315 865,2309 954,2309 1044,2309 1133,2303 1223,2303 1313,2297 1402,2297 1492,2297 1581,2297 1671,2297 1760,2291 1850,2285 1939,2285 2029,2285 2118,2285 2208,2279 2297,2273 2387,2273 2476,2279"/>
+                <TextEquiv>
+                    <Unicode>supérieur et inférieure de chacune dit cloiront. un Les or facie des claisons pp....,, doivent être bien plusie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528801886_2536" custom="readingOrder {index:20;}">
+                <Coords points="649,2438 2351,2415 2459,2381 2461,2319 652,2362"/>
+                <Baseline points="662,2423 686,2411 775,2393 865,2393 954,2393 1044,2393 1133,2387 1223,2387 1313,2381 1402,2381 1492,2387 1581,2381 1856,2369 1927,2363 2017,2357 2106,2357 2196,2357 2285,2351 2375,2351 2464,2351"/>
+                <TextEquiv>
+                    <Unicode>afin que la division et l'écoulement de l'eau soient parfaitement ainsaimes sur toutes les joursieurs des mêmes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:21;}">
+                <Coords points="649,2521 734,2521 764,2491 785,2484 799,2487 806,2480 836,2484 836,2436 817,2431 808,2441 776,2443 767,2450 755,2441 744,2450 728,2450 700,2431 682,2448 649,2454"/>
+                <Baseline points="662,2470 751,2470 841,2470"/>
+                <TextEquiv>
+                    <Unicode>surfaat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:22;}">
+                <Coords points="753,2597 2360,2558 2452,2537 2454,2471 755,2491"/>
+                <Baseline points="769,2548 847,2548 937,2542 1026,2542 1116,2542 1205,2536 1295,2530 1384,2530 1474,2536 1563,2536 1653,2530 1742,2524 1832,2524 1921,2518 2011,2518 2100,2512 2190,2506 2279,2506 2369,2500 2458,2500"/>
+                <TextEquiv>
+                    <Unicode>Par suite de l’horizontalité des cloisons pp.... et d'une faible épaisseur de la nappe d’eau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:23;}">
+                <Coords points="619,2680 1045,2625 2187,2648 2452,2593 2454,2547 622,2602"/>
+                <Baseline points="633,2635 817,2620 847,2620 937,2620 1026,2614 1116,2614 1205,2608 1295,2608 1384,2608 1474,2608 1563,2602 1653,2602 1742,2596 1832,2596 1921,2590 2011,2590 2100,2584 2190,2584 2279,2578 2369,2578 2458,2578"/>
+                <TextEquiv>
+                    <Unicode>parcemant cet clorsont, on comprendra que lorsque cette nappe aura parcouru la face supérieure d'une des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:24;}">
+                <Coords points="624,2740 1902,2731 2134,2705 2137,2646 626,2676"/>
+                <Baseline points="639,2707 912,2704 976,2704 1069,2700 1158,2700 1247,2691 1336,2685 1426,2685 1515,2679 1605,2679 1694,2679 1784,2679 1874,2673 1963,2667 2053,2667 2142,2661"/>
+                <TextEquiv>
+                    <Unicode>claroont elle parcourra ensuite, par le phénomène d'adhérence, la face inférieure de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:25;}">
+                <Coords points="2148,2705 2240,2703 2277,2680 2296,2692 2321,2680 2369,2715 2452,2712 2450,2616 2434,2613 2406,2636 2395,2627 2381,2643 2358,2646 2328,2646 2293,2623 2270,2632 2250,2616 2192,2643 2169,2629 2148,2641"/>
+                <Baseline points="2160,2661 2250,2661 2339,2661 2429,2661 2458,2667"/>
+                <TextEquiv>
+                    <Unicode>ême eloison, et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528821640_2546" custom="readingOrder {index:26;}">
+                <Coords points="707,2692 760,2680 778,2692 845,2676 1064,2685 1064,2627 707,2639"/>
+                <Baseline points="720,2675 1070,2674"/>
+                <TextEquiv>
+                    <Unicode>une partie de cette nappe d'eau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528827132_2551" custom="readingOrder {index:27;}">
+                <Coords points="1262,2756 1285,2758 1294,2749 1324,2749 1329,2754 1340,2754 1345,2749 1363,2749 1363,2712 1349,2715 1338,2708 1324,2710 1317,2717 1296,2717 1287,2710 1262,2715"/>
+                <Baseline points="1275,2743 1367,2742"/>
+                <TextEquiv>
+                    <Unicode>presque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:28;}">
+                <Coords points="631,2827 1978,2798 2081,2781 2084,2705 633,2742"/>
+                <Baseline points="646,2785 763,2787 835,2787 925,2781 1014,2775 1104,2769 1193,2769 1283,2763 1372,2757 1462,2757 1551,2757 1641,2757 1730,2751 1820,2751 1909,2745 1999,2745 2088,2745"/>
+                <TextEquiv>
+                    <Unicode>qu’ainsi, pour une seule cloison, on aura ^ doublé le journaux et la surface de chauffe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:29;}">
+                <Coords points="762,2901 2063,2883 2471,2791 764,2807"/>
+                <Baseline points="775,2846 865,2852 954,2846 1044,2846 1133,2846 1223,2840 1313,2840 1402,2840 1492,2840 1581,2840 1671,2834 1760,2834 1850,2828 1939,2822 2029,2822 2118,2816 2208,2822 2297,2816 2387,2805 2476,2805"/>
+                <TextEquiv>
+                    <Unicode>Pour consacrer en bon état les eloisons pp.... en pour faciliter leur nettoyage, qui a lieu dan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:30;}">
+                <Coords points="659,2982 2388,2943 2480,2901 2482,2839 661,2903"/>
+                <Baseline points="674,2930 698,2930 787,2930 877,2924 966,2924 1056,2924 1145,2924 1235,2918 1324,2918 1414,2912 1503,2912 1593,2906 1683,2906 1772,2906 1862,2900 1951,2900 2041,2894 2130,2894 2220,2894 2309,2888 2399,2882 2488,2888"/>
+                <TextEquiv>
+                    <Unicode>les cas ordinaire tous les six mois envieren, on peint leur surface avec un enduit composé d’huile de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:31;}">
+                <Coords points="638,3053 2058,3042 2429,2984 2461,2910 638,2986"/>
+                <Baseline points="650,3031 674,3031 763,3013 853,3007 942,3007 1032,3007 1122,3002 1211,3002 1301,2996 1390,2990 1480,2990 1569,2984 1659,2984 1748,2984 1838,2978 1927,2978 2017,2978 2106,2972 2196,2972 2285,2966 2375,2966 2464,2960"/>
+                <TextEquiv>
+                    <Unicode>poisson et de noir de suivre, ce qui, tout nouvellement, empêche l'adhérence des dépôts en facilite le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528838007_2561" custom="readingOrder {index:32;}">
+                <Coords points="649,3120 665,3124 675,3118 695,3136 702,3131 739,3145 767,3122 781,3122 792,3113 797,3118 813,3115 813,3055 794,3058 753,3044 737,3060 716,3069 691,3046 649,3051"/>
+                <Baseline points="661,3091 818,3088"/>
+                <TextEquiv>
+                    <Unicode>nettoyage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:33;}">
+                <Coords points="751,3198 2008,3196 2457,3136 2477,3085 753,3118"/>
+                <Baseline points="763,3157 781,3157 871,3157 960,3157 1050,3157 1139,3157 1229,3151 1318,3145 1408,3145 1498,3139 1587,3139 1677,3139 1766,3133 1856,3133 1945,3133 2035,3127 2124,3121 2214,3121 2303,3115 2393,3115 2482,3121"/>
+                <TextEquiv>
+                    <Unicode>De même aussi, quand l’appareil entre en fonction pour la 1.e fois, on enduit les claisons avec</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:34;}">
+                <Coords points="640,3283 707,3274 748,3290 790,3258 827,3279 843,3270 859,3288 923,3265 1025,3283 1027,3198 988,3191 944,3217 877,3198 813,3217 760,3198 730,3212 677,3198 642,3210"/>
+                <Baseline points="656,3246 674,3246 763,3246 853,3240 942,3240 1032,3240"/>
+                <TextEquiv>
+                    <Unicode>la même peinture. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:35;}">
+                <Coords points="746,3350 2208,3329 2464,3281 2464,3235 748,3279"/>
+                <Baseline points="761,3308 793,3312 859,3312 948,3312 1038,3306 1127,3306 1217,3306 1307,3300 1396,3300 1486,3294 1575,3294 1665,3288 1754,3282 1844,3282 1933,3282 2023,3276 2112,3270 2202,3270 2291,3270 2381,3270 2470,3264"/>
+                <TextEquiv>
+                    <Unicode>Tout les jointe de l'appareil sont faite avec des bandes de caoutchoue vulcanisé, en sorte que le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:36;}">
+                <Coords points="647,3424 2330,3415 2477,3373 2480,3318 649,3346"/>
+                <Baseline points="662,3389 668,3389 757,3383 847,3383 937,3383 1026,3389 1116,3383 1205,3378 1295,3378 1384,3378 1474,3372 1563,3366 1653,3366 1742,3366 1832,3366 1921,3360 2011,3354 2100,3354 2190,3348 2279,3348 2369,3348 2458,3354 2484,3351"/>
+                <TextEquiv>
+                    <Unicode>démontage, le nettoyage et le remontage sont faite avec la islut grande facilité en avec la plus grande</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528859184_2580" custom="readingOrder {index:37;}">
+                <Coords points="1626,3555 1637,3557 1649,3567 1662,3562 1681,3562 1697,3428 1683,3426 1676,3433 1665,3426 1655,3435 1642,3435"/>
+                <Baseline points="1640,3535 1692,3528"/>
+                <TextEquiv>
+                    <Unicode>2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1696528851586_2570" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="668,3425 668,3480 803,3480 803,3425"/>
+            <TextLine id="line_1696528851947_2573" custom="readingOrder {index:0;}">
+                <Coords points="656,3495 675,3493 686,3500 716,3497 739,3516 760,3511 794,3514 797,3426 781,3422 751,3440 741,3433 725,3442 711,3440 693,3456 659,3449"/>
+                <Baseline points="670,3475 803,3470"/>
+                <TextEquiv>
+                    <Unicode>rapidité</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1696528864501_2586" custom="readingOrder {index:2;}">
+            <Coords points="3401,683 5144,683 5144,1615 3401,1615"/>
+            <TextLine id="line_1696528872512_2595" custom="readingOrder {index:0;}">
+                <Coords points="3507,847 3597,889 3829,843 4501,889 4610,847 5151,859 5052,774 3507,787"/>
+                <Baseline points="3520,840 3849,835 3939,835 4016,835 4124,835 4213,835 4297,835 4858,835 4876,835 4965,835 5055,829 5154,837"/>
+                <TextEquiv>
+                    <Unicode>L’appareil que je vient de décrire peut-on le comprendra facilement, soin, soit à la condentation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:1;}">
+                <Coords points="3364,928 4080,956 4524,909 4697,967 5059,951 5135,859 3364,877"/>
+                <Baseline points="3376,914 3652,913 3706,907 3795,913 3885,907 3974,907 4064,907 4153,907 4243,907 4332,907 4422,907 4511,907 4601,907 4691,907 4780,907 4870,907 4959,901 5049,901 5138,901"/>
+                <TextEquiv>
+                    <Unicode>des rapens; soit à l’échauffemont des liquides quels qu’ils soient. Ainsi. par exemple pour concentrer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528883826_2601" custom="readingOrder {index:2;}">
+                <Coords points="3412,1002 5132,1013 5114,937 3412,937"/>
+                <Baseline points="3425,984 3515,990 3604,990 3694,984 3783,984 3873,984 3962,984 3980,984 4452,978 4511,978 4601,978 4691,978 4780,978 4870,978 4959,972 5049,972 5138,972"/>
+                <TextEquiv>
+                    <Unicode>un inop, je peut le faire parcourir, divisé ou nappel minées et continués, la surface de toutes les clous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:3;}">
+                <Coords points="3382,1084 5169,1112 5171,1032 5102,1013 3385,1018"/>
+                <Baseline points="3395,1071 4153,1062 4243,1062 4332,1062 4422,1062 4511,1062 4601,1062 4691,1062 4780,1062 4834,1062 5174,1066"/>
+                <TextEquiv>
+                    <Unicode>et injenter toujours en seul inverse du courant liquide, en lieu et place de la rapen. un courant d'air,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528890975_2606" custom="readingOrder {index:4;}">
+                <Coords points="3398,1156 3739,1220 3993,1223 4195,1147 4393,1149 4453,1202 4870,1193 4872,1114 4681,1073 3401,1087"/>
+                <Baseline points="3413,1139 3503,1139 3592,1163 3682,1163 3771,1157 3861,1145 3950,1157 4040,1145 4130,1145 4219,1139 4309,1133 4398,1139 4476,1139 4523,1133 4613,1133 4702,1133 4792,1133 4876,1133"/>
+                <TextEquiv>
+                    <Unicode>en autre gaz, chauffé en non. poussé par un ventilateur lespirant ou soufflant.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:5;}">
+                <Coords points="3693,1312 4506,1301 4628,1352 4870,1299 4870,1259 4828,1271 4766,1220 4566,1200 4347,1253 3877,1220 3693,1257"/>
+                <Baseline points="3706,1295 3712,1301 3801,1295 3891,1295 3980,1295 4070,1295 4159,1295 4249,1289 4338,1289 4428,1289 4517,1289 4607,1295 4696,1289 4786,1289 4876,1289"/>
+                <TextEquiv>
+                    <Unicode>Observations sur la marche de l’Appareil.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528896290_2610" custom="readingOrder {index:6;}">
+                <Coords points="3521,1384 3622,1425 3818,1377 5125,1402 5082,1329 4453,1352 4255,1301 3521,1287"/>
+                <Baseline points="3533,1372 3610,1372 3700,1366 3789,1366 3879,1366 3968,1366 4058,1366 4225,1366 4237,1366 4326,1366 4416,1366 4505,1366 4595,1366 4685,1360 4774,1366 4864,1360 4953,1366 5043,1360 5132,1354"/>
+                <TextEquiv>
+                    <Unicode>Léan froide –, eau de rivière ou de puite, quelque chargee qu’elle soit, arrive par le tuyau a dan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:7;}">
+                <Coords points="3394,1460 3838,1453 3951,1506 4319,1444 5121,1481 5121,1402 4764,1416 4718,1375 4356,1425 3394,1384"/>
+                <Baseline points="3406,1447 3545,1444 3604,1444 3694,1444 3783,1444 3873,1450 3962,1450 4052,1444 4141,1444 4231,1438 4320,1444 4410,1438 4500,1438 4589,1438 4679,1438 4768,1438 4858,1438 4947,1438 5037,1438 5126,1438"/>
+                <TextEquiv>
+                    <Unicode>le récipient A et là, elle s'échauffe à une température voisine de 80 à 100=0, en raison de ce que la rapen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:8;}">
+                <Coords points="3394,1563 5141,1547 5141,1474 4584,1508 4317,1446 4043,1515 3394,1460"/>
+                <Baseline points="3407,1539 3443,1533 3533,1533 3622,1527 3712,1527 3801,1533 3891,1527 3980,1533 4070,1533 4159,1527 4249,1527 4338,1527 4428,1527 4517,1527 4607,1527 4696,1527 4786,1521 4876,1521 4965,1521 5055,1521 5144,1515"/>
+                <TextEquiv>
+                    <Unicode>qui entre par le tuyau b et sorte par le ruyau C. échauffe le diaphragine qui sert de plancheri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:9;}">
+                <Coords points="3389,1616 3451,1607 3468,1621 3502,1609 3544,1632 3585,1621 3606,1632 3631,1612 3795,1616 3795,1584 3753,1589 3661,1540 3633,1559 3583,1556 3555,1584 3461,1584 3438,1561 3389,1561"/>
+                <Baseline points="3401,1599 3491,1599 3580,1599 3670,1599 3759,1605 3801,1605"/>
+                <TextEquiv>
+                    <Unicode>A et de plasond à B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:3;}">
+            <Coords points="3401,1615 5150,1615 5150,3716 3401,3716"/>
+            <TextLine id="line_1696528908582_2618" custom="readingOrder {index:0;}">
+                <Coords points="3493,1683 3707,1731 3979,1683 4149,1734 4299,1674 5144,1711 5144,1637 4722,1605 4036,1612 3937,1655 3493,1612"/>
+                <Baseline points="3506,1676 3557,1677 3568,1671 3658,1677 3748,1677 3837,1671 3885,1671 3974,1671 4064,1671 4153,1671 4243,1671 4332,1671 4422,1671 4511,1671 4601,1665 4691,1665 4780,1665 4870,1665 4959,1671 5049,1665 5138,1671 5150,1671"/>
+                <TextEquiv>
+                    <Unicode>L'eau chauffée continue dont le récipient A, s'introduit ensuite dans le réservoir B par le robina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="3389,1780 4660,1817 5160,1778 5070,1704 4605,1731 4296,1676 3829,1738 3389,1692"/>
+                <Baseline points="3402,1760 3527,1754 3563,1754 3652,1754 3742,1754 3831,1754 3921,1754 4010,1754 4100,1760 4189,1754 4279,1760 4368,1754 4458,1754 4547,1748 4637,1748 4726,1748 4816,1748 5163,1755"/>
+                <TextEquiv>
+                    <Unicode>ce dernier étant, comme nous le savons, manauré par une tige veiticale mise en mouvement par une</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="3389,1847 3417,1856 3435,1844 3454,1858 3479,1842 3497,1856 3553,1842 3594,1849 3606,1837 3615,1847 3640,1849 3643,1773 3601,1773 3578,1791 3541,1780 3518,1791 3493,1768 3456,1784 3392,1782"/>
+                <Baseline points="3401,1840 3497,1826 3586,1832 3646,1832"/>
+                <TextEquiv>
+                    <Unicode>manette C. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528925694_2626" custom="readingOrder {index:3;}">
+                <Coords points="3502,1927 4338,1946 4610,1904 4976,1953 5146,1911 5146,1849 4656,1879 4444,1837 4283,1888 3502,1847"/>
+                <Baseline points="3515,1903 3604,1903 3694,1903 3783,1903 3873,1903 3962,1903 4052,1903 4124,1903 4165,1903 4255,1903 4344,1903 4434,1903 4523,1897 4613,1897 4702,1897 4792,1897 4881,1897 4971,1897 5061,1897 5150,1897"/>
+                <TextEquiv>
+                    <Unicode>L'eau s'écoule donc par ce robinct, en un mina filst sur la 1ère du cloiront, chauffée par la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="3373,2038 3797,1989 4149,2045 4386,1992 5036,2022 5162,2003 5165,1939 3956,1971 3755,1909 3375,1911"/>
+                <Baseline points="3388,1981 3574,1987 3664,1987 3754,1981 3843,1981 3933,1987 4022,1987 4112,1987 4201,1981 4291,1981 4380,1981 4470,1981 4559,1981 4649,1975 4738,1975 4828,1975 4917,1981 5007,1975 5170,1975"/>
+                <TextEquiv>
+                    <Unicode>vapeur, et la cette eau s’étale en nappe mince pour parjourir successivement les insacat supérieures</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="3401,2077 4909,2058 5132,2102 5132,2022 5049,2010 4039,2042 3797,1989 3401,2040"/>
+                <Baseline points="3413,2059 3437,2059 3527,2059 3616,2059 3706,2053 3795,2053 3885,2053 3974,2053 4064,2059 4153,2053 4243,2053 4332,2053 4422,2053 4511,2053 4601,2053 4691,2047 4780,2047 4870,2047 4959,2047 5049,2047 5138,2047"/>
+                <TextEquiv>
+                    <Unicode>et inscrieures de chacune des cloisons un dans ce parcourt, elle est constamment bouillante; elle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="3394,2157 5077,2183 5141,2107 3820,2061 3394,2114"/>
+                <Baseline points="3407,2136 3443,2136 3533,2130 3622,2130 3712,2130 3801,2130 3891,2130 3980,2130 4070,2130 4159,2130 4249,2130 4338,2130 4428,2130 4517,2130 4607,2130 4696,2124 4786,2124 4876,2124 4965,2124 5055,2124 5144,2124"/>
+                <TextEquiv>
+                    <Unicode>arrive en cet état sur le fond du réservoir B= d'où elle est aspicée par la pompe alimentaire qui la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="3405,2252 4057,2222 4174,2273 4303,2217 4699,2213 5155,2259 5178,2180 3647,2197 3408,2153"/>
+                <Baseline points="3419,2214 3455,2220 3545,2214 3634,2214 3724,2214 3813,2214 3903,2214 3992,2214 4082,2214 4171,2208 4261,2208 4350,2208 4440,2208 4529,2202 4619,2202 4708,2202 4798,2208 4887,2202 4977,2202 5067,2202 5181,2211"/>
+                <TextEquiv>
+                    <Unicode>fait passer: dans la chapelle du pouv, de la silleur au travers du tamis r, et enfin se rendre épuice en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="3405,2305 3479,2298 3497,2309 3516,2298 3569,2326 3686,2321 3732,2293 3753,2296 3751,2227 3603,2243 3576,2268 3500,2266 3461,2231 3438,2231 3403,2254"/>
+                <Baseline points="3419,2285 3509,2285 3574,2285 3759,2295"/>
+                <TextEquiv>
+                    <Unicode>Hiltee au genérateur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:9;}">
+                <Coords points="3484,2374 5132,2413 5095,2316 4771,2289 3484,2309"/>
+                <Baseline points="3497,2357 3527,2357 3616,2357 3706,2357 3795,2357 3885,2357 3974,2357 4064,2357 4153,2357 4243,2357 4332,2357 4422,2351 4511,2357 4601,2357 4691,2351 4780,2351 4870,2351 4959,2351 5049,2351 5138,2351"/>
+                <TextEquiv>
+                    <Unicode>Il est convenable de faire que le fond du réservoir B soir place à environ 50 c/m au-desoistre des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528944146_2636" custom="readingOrder {index:10;}">
+                <Coords points="3424,2491 5125,2459 5125,2408 5031,2385 3801,2422 3424,2381"/>
+                <Baseline points="3437,2452 3449,2446 3539,2446 3628,2446 3718,2440 3807,2440 3897,2440 3986,2446 4076,2440 4165,2435 4679,2435 4768,2435 4858,2435 4947,2435 5037,2440 5126,2435 5132,2435"/>
+                <TextEquiv>
+                    <Unicode>lapets de resoulement de la pompe alimentaire, afin que ceux-ci soient constamment noyer. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_15" custom="readingOrder {index:11;}">
+                <Coords points="3495,2542 4414,2556 4623,2514 4888,2556 5107,2526 5109,2482 4711,2445 4267,2494 4181,2448 3946,2496 3822,2450 3594,2496 3497,2457"/>
+                <Baseline points="3509,2512 3592,2512 3682,2512 3771,2512 3861,2512 3950,2512 4040,2512 4130,2512 4219,2512 4309,2512 4398,2512 4488,2512 4577,2512 4667,2506 4756,2506 4846,2500 4935,2500 5025,2500 5114,2506"/>
+                <TextEquiv>
+                    <Unicode>L'eau étant obligée à couler d’elle-même sur la pampe; il ressort de ce que nous venons</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_16" custom="readingOrder {index:12;}">
+                <Coords points="3401,2604 3811,2597 3946,2648 4559,2590 5132,2623 5093,2547 4695,2570 4619,2514 4416,2558 3401,2526"/>
+                <Baseline points="3413,2590 3437,2590 3527,2590 3616,2590 3706,2590 3795,2590 3885,2590 3974,2596 4064,2596 4153,2590 4243,2590 4332,2590 4422,2590 4511,2584 4601,2584 4691,2584 4780,2584 4870,2584 4959,2584 5049,2584 5138,2578"/>
+                <TextEquiv>
+                    <Unicode>de dire, que la quantité d’eau à faire passer du récipieur A, dans le réderveur B, est réglée par le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_17" custom="readingOrder {index:13;}">
+                <Coords points="3394,2682 5098,2708 5144,2620 3394,2646"/>
+                <Baseline points="3407,2673 3449,2673 3539,2679 3628,2679 3718,2673 3807,2673 3897,2673 3986,2673 4076,2673 4165,2667 4255,2667 4344,2667 4434,2667 4523,2667 4613,2661 4702,2661 4792,2667 4881,2661 4971,2655 5061,2661 5150,2661"/>
+                <TextEquiv>
+                    <Unicode>robiner ou et que celle-ci est en rapport avec la dépense de la prise de rapen, on doit donc règler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_18" custom="readingOrder {index:14;}">
+                <Coords points="3389,2758 4002,2751 4101,2802 4506,2745 4904,2798 5118,2788 5121,2703 3389,2689"/>
+                <Baseline points="3401,2745 3425,2745 3515,2745 3604,2745 3694,2739 3783,2739 3873,2745 3962,2739 4052,2739 4141,2745 4231,2739 4320,2739 4410,2733 4500,2733 4589,2733 4679,2733 4768,2733 4858,2733 4947,2733 5037,2733 5126,2727"/>
+                <TextEquiv>
+                    <Unicode>l’aiguille de la manette c, on raison de la poëtien du niveau d’eau, du flotteur, der robiviert d'eprouvé</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_19" custom="readingOrder {index:15;}">
+                <Coords points="3369,2830 3647,2830 3702,2874 3767,2827 4750,2832 4750,2791 4504,2747 4101,2802 3933,2749 3369,2758"/>
+                <Baseline points="3382,2820 3574,2816 3664,2816 3754,2816 3843,2816 3933,2816 4022,2816 4112,2816 4201,2816 4291,2816 4380,2811 4470,2811 4559,2816 4649,2811 4738,2816 4756,2816"/>
+                <TextEquiv>
+                    <Unicode>ou de tout autre appareil indicateur de la hauteur de l'eau dont le générateur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_20" custom="readingOrder {index:16;}">
+                <Coords points="3502,2956 3696,2910 4188,2952 4564,2894 5077,2931 5135,2908 5135,2837 3502,2876"/>
+                <Baseline points="3515,2906 3527,2906 3616,2900 3706,2900 3795,2900 3885,2900 3974,2900 4064,2900 4153,2900 4243,2894 4332,2894 4422,2894 4511,2894 4601,2894 4691,2888 4780,2888 4870,2888 4959,2888 5049,2882 5138,2888"/>
+                <TextEquiv>
+                    <Unicode>D'après la marche d'écrite ci-dessus, on voit que l'eau s'écoulant en petit filer du</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_21" custom="readingOrder {index:17;}">
+                <Coords points="3382,2996 5144,3000 5102,2913 3573,2959 3385,2892"/>
+                <Baseline points="3394,2993 3497,2972 3539,2978 3628,2972 3718,2972 3807,2972 3897,2972 3986,2972 4076,2972 4165,2972 4255,2966 4344,2966 4434,2966 4523,2960 4613,2966 4702,2966 4792,2960 4881,2960 4971,2960 5061,2960 5150,2960"/>
+                <TextEquiv>
+                    <Unicode>rabinet 0, doit s’étendre en nappe mince, et circuler successivement sur chacune des deux confaes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_22" custom="readingOrder {index:18;}">
+                <Coords points="3394,3062 3997,3106 4168,3055 5125,3055 5125,3000 4867,2975 3940,3028 3394,2993"/>
+                <Baseline points="3407,3043 3431,3049 3521,3049 3610,3043 3700,3043 3789,3043 3879,3049 3968,3049 4058,3043 4147,3043 4237,3043 4326,3037 4416,3037 4505,3037 4595,3037 4685,3037 4774,3037 4864,3031 4953,3037 5043,3031 5132,3031"/>
+                <TextEquiv>
+                    <Unicode>de toutes les cloisons chauffées par la vapeur, lesquelles eloisont, en raison de leur disposition</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_23" custom="readingOrder {index:19;}">
+                <Coords points="3401,3154 5132,3157 5132,3083 4485,3099 4319,3055 3401,3115"/>
+                <Baseline points="3413,3139 3437,3139 3527,3133 3616,3127 3706,3133 3795,3133 3885,3127 3974,3127 4064,3127 4153,3121 4243,3121 4332,3121 4422,3121 4511,3115 4601,3115 4691,3121 4780,3115 4870,3115 4959,3115 5049,3109 5138,3115"/>
+                <TextEquiv>
+                    <Unicode>chicance, obligent la vapenr à une circulation continue dans tous les espaces formés par deux</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528958077_2645" custom="readingOrder {index:20;}">
+                <Coords points="3394,3226 4810,3194 5121,3242 5162,3124 5008,3168 3396,3154"/>
+                <Baseline points="3407,3204 3467,3204 3557,3204 3646,3204 3736,3198 3825,3198 3915,3198 4004,3198 4094,3192 4183,3192 4273,3192 4362,3192 4452,3192 4541,3192 4631,3192 4720,3192 4762,3187 4852,3187 4941,3187 5031,3187 5120,3187 5126,3187 5169,3187"/>
+                <TextEquiv>
+                    <Unicode>cloisons successiver du réservoir B: un Par là, on obtient une grande surface de chauffe agissant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528968125_2651" custom="readingOrder {index:21;}">
+                <Coords points="3412,3290 3562,3332 3960,3279 4211,3339 4379,3276 5139,3288 5139,3235 3986,3205 3412,3260"/>
+                <Baseline points="3425,3276 3485,3276 3574,3276 3664,3270 3754,3276 3843,3276 3933,3270 4022,3270 4112,3270 4201,3270 4291,3264 4380,3264 4470,3258 4870,3258 4959,3258 5049,3258 5138,3258 5144,3258"/>
+                <TextEquiv>
+                    <Unicode>sur des nappet minées, dans un esface excescirement restreint. L'eau étendue ainsi avec un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_28" custom="readingOrder {index:22;}">
+                <Coords points="3412,3375 4904,3408 5162,3366 5162,3306 4764,3327 4506,3274 4092,3334 3684,3281 3412,3332"/>
+                <Baseline points="3425,3354 3485,3360 3574,3354 3664,3360 3754,3354 3843,3354 3933,3354 4022,3354 4112,3348 5169,3348"/>
+                <TextEquiv>
+                    <Unicode>tien faible, épaisseur pendant tout son parcomt sur les claisons chauffées, de maintient constamment</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528975231_2656" custom="readingOrder {index:23;}">
+                <Coords points="4315,3463 4354,3461 4363,3451 4379,3456 4393,3454 4393,3389 4379,3389 4375,3385 4359,3387 4354,3392 4349,3389 4333,3405 4315,3405"/>
+                <Baseline points="4328,3439 4398,3439"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_29" custom="readingOrder {index:24;}">
+                <Coords points="3412,3523 5102,3509 5102,3463 4884,3435 3412,3447"/>
+                <Baseline points="3425,3491 3515,3497 3604,3497 3694,3497 3783,3497 3873,3497 3962,3497 4052,3497 4141,3497 4231,3497 4320,3497 4410,3497 4500,3497 4589,3491 4679,3497 4768,3497 4858,3491 4947,3491 5037,3491 5108,3491"/>
+                <TextEquiv>
+                    <Unicode>On voit alors que la vapeur d'échappement arrivant dans le réservoir B, sécoule entre les</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_30" custom="readingOrder {index:25;}">
+                <Coords points="3394,3587 5125,3606 5125,3521 3394,3518"/>
+                <Baseline points="3407,3568 3431,3568 3521,3568 3610,3568 3700,3568 3789,3568 3879,3568 3968,3568 4058,3568 4147,3568 4237,3568 4326,3563 4416,3563 4505,3563 4595,3563 4685,3563 4774,3563 4864,3563 4953,3563 5043,3563 5132,3563"/>
+                <TextEquiv>
+                    <Unicode>doisons en sens inverse de la nappe d'eau qui descend lentement et en cas cade sur un des côté</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_31" custom="readingOrder {index:26;}">
+                <Coords points="3389,3654 5121,3663 5121,3610 4964,3592 3389,3599"/>
+                <Baseline points="3401,3628 3491,3634 3580,3634 3670,3634 3759,3634 3849,3634 3939,3634 4028,3634 4118,3634 4207,3634 4297,3634 4386,3634 4476,3634 4565,3634 4655,3634 4744,3634 4834,3634 4923,3628 5013,3628 5102,3634 5126,3634"/>
+                <TextEquiv>
+                    <Unicode>du réservoir; on obtient ainsi dans les meilleures conditions, un échauffement graduel de l'eau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1696528979296_2662" custom="readingOrder {index:27;}">
+                <Coords points="3389,3732 5049,3765 5236,3712 5211,3640 4966,3689 3389,3654"/>
+                <Baseline points="3401,3700 3491,3700 3580,3706 3670,3706 3759,3706 3849,3706 3939,3706 4028,3706 4112,3706 4237,3700 4326,3706 4416,3706 4505,3706 4595,3706 4685,3706 4774,3706 4864,3706 4953,3706 4995,3700 5242,3709"/>
+                <TextEquiv>
+                    <Unicode>d’alimentation; en effet la vapeur la plus chaude rencontre d’abord les couches d'eau les plus échauffées en réciproquement.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
