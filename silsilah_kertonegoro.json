@@ -1,0 +1,466 @@
+{
+  "Sri Pamekas Nata Ing Pajajaran": {
+    "relations": {
+      "child": [
+        [
+          "Q49334",
+          "Raden Susuruh Nata Ing Majapahit I Raden Wijaya"
+        ]
+      ]
+    },
+    "name_id": "arsari1"
+  },
+  "Raden Susuruh Nata Ing Majapahit I Raden Wijaya": {
+    "relations": {
+      "child": [
+        [
+          "Q6167549",
+          "Sri Hanun Nata Ing Majapahit II Jaya Nagara"
+        ]
+      ]
+    },
+    "name_id": "Q49334"
+  },
+  "Sri Hanun Nata Ing Majapahit II Jaya Nagara": {
+    "relations": {
+      "child": [
+        [
+          "arsari2",
+          "Sri Handaning Kung Nata Ing Majapahit III Tribuwana Tungga Dewi"
+        ]
+      ]
+    },
+    "name_id": "Q6167549"
+  },
+  "Sri Handaning Kung Nata Ing Majapahit III Tribuwana Tungga Dewi": {
+    "relations": {
+      "child": [
+        [
+          "arsari3",
+          "Sri Hayam Wuruk Nata Ing Majapahit IV Rajasanagara"
+        ]
+      ]
+    },
+    "name_id": "arsari2"
+  },
+  "Sri Hayam Wuruk Nata Ing Majapahit IV Rajasanagara": {
+    "relations": {
+      "child": [
+        [
+          "Q12452603",
+          "Prabu Lembu Hamisani Nata Ing Majapahit V Wikrama Wardhana"
+        ]
+      ]
+    },
+    "name_id": "arsari3"
+  },
+  "Prabu Lembu Hamisani Nata Ing Majapahit V Wikrama Wardhana": {
+    "relations": {
+      "child": [
+        [
+          "Q14917434",
+          "Sri Tanjung Nata Ing Majapahit VI Rajasa Wardhana"
+        ]
+      ]
+    },
+    "name_id": "Q12452603"
+  },
+  "Sri Tanjung Nata Ing Majapahit VI Rajasa Wardhana": {
+    "relations": {
+      "child": [
+        [
+          "arsari4",
+          "Sang Prabu Brawijaya Pamungkas"
+        ],
+        [
+          "arsari5",
+          "Raden Baribin (Raden Putra)"
+        ]
+      ]
+    },
+    "name_id": "Q14917434"
+  },
+  "Raden Baribin (Raden Putra)": {
+    "relations": {
+      "child": [
+        [
+          "arsari6",
+          "Raden Banyakumara, Bupati Kaleng"
+        ],
+        [
+          "arsari7",
+          "Raden Banyak Sasra, Bepat Pasir Luhur"
+        ],
+        [
+          "arsari8",
+          "Rhj. Ngaisah Kawin dengan Ki Mranggi"
+        ],
+        [
+          "arsari9",
+          "Raden Katuha, Hadipati Wirahutama II, Wirasaba"
+        ]
+      ]
+    },
+    "name_id": "arsari5"
+  },
+  "Raden Katuha, Hadipati Wirahutama II, Wirasaba": {
+    "relations": {
+      "child": [
+        [
+          "arsari10",
+          "Ngabehi Merta Menggala Wirahutama III - Wirasaba"
+        ]
+      ]
+    },
+    "name_id": "arsari9"
+  },
+  "Ngabehi Merta Menggala Wirahutama III - Wirasaba": {
+    "relations": {
+      "child": [
+        [
+          "arsari11",
+          "Raden Surawin, Hadipati Wirahutama IV - Wirasaba"
+        ]
+      ]
+    },
+    "name_id": "arsari10"
+  },
+  "Raden Surawin, Hadipati Wirahutama IV - Wirasaba": {
+    "relations": {
+      "child": [
+        [
+          "arsari12",
+          "Raden Tambangan, Hadipati Surahutama - Wirasaba"
+        ]
+      ]
+    },
+    "name_id": "arsari11"
+  },
+  "Raden Tambangan, Hadipati Surahutama - Wirasaba": {
+    "relations": {
+      "child": [
+        [
+          "arsari13",
+          "Kyai Demang Tajareka"
+        ],
+        [
+          "arsari14",
+          "Kyai Panjer"
+        ],
+        [
+          "arsari13",
+          "Raden Warga, Hadipati Warga Hutama-Wirasaba"
+        ]
+      ]
+    },
+    "name_id": "arsari12"
+  },
+  "Raden Warga, Hadipati Warga Hutama-Wirasaba": {
+    "relations": {
+      "child": [
+        [
+          "arsari14",
+          "Rhdj. Kartimas, Istri Hadipati Banyumas"
+        ],
+        [
+          "arsari15",
+          "Raden Wirayuda, Bupati Banjar Selalembu"
+        ],
+        [
+          "arsari16",
+          "Rhdj. Sukartijah"
+        ],
+        [
+          "arsari17",
+          "Raden Wirakusuma, Bupati Marden"
+        ],
+        [
+          "arsari18",
+          "Raden Wiranegara, Bupati Wirasaba"
+        ]
+      ]
+    },
+    "name_id": "arsari13"
+  },
+  "Rhdj. Kartimas, Istri Hadipati Banyumas": {
+    "relations": {
+      "child": [
+        [
+          "arsari19",
+          "Ngabehi Wira Kusumah"
+        ],
+        [
+          "arsari20",
+          "Ngabehi Ngabehi Merta Yuda"
+        ],
+        [
+          "arsari21",
+          "Ngabehi Ngabehi Werta Wedana"
+        ],
+        [
+          "arsari22",
+          "Ngabehi Merta Menggala"
+        ],
+        [
+          "arsari23",
+          "Ngabehi Sutra Praja"
+        ],
+        [
+          "arsari24",
+          "Ngabehi Djanah Banyumas"
+        ]
+      ]
+    },
+    "name_id": "arsari14"
+  },
+  "Ngabehi Djanah Banyumas": {
+    "relations": {
+      "child": [
+        [
+          "arsari25",
+          "Ngabehi Merto Suro, Banyumas"
+        ]
+      ]
+    },
+    "name_id": "arsari24"
+  },
+  "Ngabehi Merto Suro, Banyumas": {
+    "relations": {
+      "child": [
+        [
+          "arsari26",
+          "Raden Tumenggung Mertoyudo-Banyumas"
+        ]
+      ]
+    },
+    "name_id": "arsari25"
+  },
+  "Raden Tumenggung Mertoyudo-Banyumas": {
+    "relations": {
+      "child": [
+        [
+          "arsari27",
+          "Demang Merta Sura-No.12"
+        ],
+        [
+          "arsari28",
+          "Ngabehi Banyakwide. Kliwon Banyumas"
+        ]
+      ]
+    },
+    "name_id": "arsari26"
+  },
+  "R.T. Yudanegara I, Banyumas": {
+    "relations": {
+      "child": [
+        [
+          "arsari29",
+          "Ngabehi Banyakwide. Kliwon Banyumas"
+        ]
+      ]
+    },
+    "name_id": "arsari27"
+  },
+  "Ngabehi Banyakwide. Kliwon Banyumas": {
+    "relations": {
+      "child": [
+        [
+          "arsari30",
+          "Bagus Broto"
+        ],
+        [
+          "arsari31",
+          "Ngabehi Reksowijoyo"
+        ],
+        [
+          "arsari32",
+          "Ngabehi Kerto Yudo"
+        ],
+        [
+          "arsari33",
+          "Ngabehi Mangun Yudo"
+        ]
+      ]
+    },
+    "name_id": "arsari28"
+  },
+  "Ngabehi Kerto Yudo": {
+    "relations": {
+      "child": [
+        [
+          "arsari34",
+          "Nyai Nyasijah"
+        ],
+        [
+          "arsari35",
+          "Kyai Kaminah"
+        ],
+        [
+          "arsari36",
+          "Bagus Bengawan"
+        ],
+        [
+          "arsari37",
+          "Raden Tumenggung Mangku Projo"
+        ]
+      ]
+    },
+    "name_id": "arsari32"
+  },
+  "Raden Tumenggung Mangku Projo": {
+    "relations": {
+      "child": [
+        [
+          "arsari38",
+          "Raden Tumenggung Kartonegoro I"
+        ]
+      ]
+    },
+    "name_id": "arsari37"
+  },
+  "Raden Tumenggung Kartonegoro I": {
+    "relations": {
+      "child": [
+        [
+          "arsari39",
+          "Raden Tumenggung Kartonegoro II"
+        ]
+      ]
+    },
+    "name_id": "arsari38"
+  },
+  "Raden Tumenggung Kartonegoro II": {
+    "relations": {
+      "child": [
+        [
+          "arsari40",
+          "Raden Kertowijoyo"
+        ],
+        [
+          "arsari41",
+          "Raden Nganten Wonowijoyo"
+        ],
+        [
+          "arsari42",
+          "Raden Panij Hendrajit"
+        ],
+        [
+          "arsari43",
+          "Raden Rekso Projo"
+        ],
+        [
+          "arsari44",
+          "Raden Tumenggung Kartonegoro III"
+        ]
+      ]
+    },
+    "name_id": "arsari39"
+  },
+  "Raden Tumenggung Kartonegoro III": {
+    "relations": {
+      "child": [
+        [
+          "arsari45",
+          "R. Kerto Projo - No. 15"
+        ],
+        [
+          "arsari46",
+          "Raden Ngabehi  Wonohito"
+        ]
+      ]
+    },
+    "name_id": "arsari44"
+  },
+  "Raden Ngabehi  Wonohito": {
+    "relations": {
+      "child": [
+        [
+          "arsari47",
+          "R. Hy. Kartowirono - No. 13"
+        ],
+        [
+          "arsari48",
+          "Raden Hayu Honggoyudo"
+        ],
+        [
+          "arsari49",
+          "R. Ng. Harjoseputro - No. 7"
+        ]
+      ]
+    },
+    "name_id": "arsari46"
+  },
+  "Raden Hayu Honggoyudo": {
+    "relations": {
+      "child": [
+        [
+          "arsari50",
+          "R.M. Slamet Honggo Winoto"
+        ],
+        [
+          "arsari51",
+          "Rhj.Sutodimejo"
+        ],
+        [
+          "arsari52",
+          "Rhj. Rekso Sudirjo"
+        ],
+        [
+          "arsari53",
+          "Rhj. Tjokroprawiro"
+        ]
+      ]
+    },
+    "name_id": "arsari48"
+  },
+  "Rhj. Rekso Sudirjo": {
+    "relations": {
+      "child": [
+        [
+          "arsari54",
+          "Rhj. Rukmi Katijah"
+        ],
+        [
+          "arsari55",
+          "Rhj. Kustinah"
+        ],
+        [
+          "arsari56",
+          "R. Alip Raharjo"
+        ],
+        [
+          "arsari57",
+          "R. Harsono"
+        ],
+        [
+          "arsari58",
+          "Rhj. Mursidiyah Slamet Dwijosusilo"
+        ],
+        [
+          "arsari59",
+          "R. Parwoto"
+        ]
+      ]
+    },
+    "name_id": "arsari52"
+  },
+  "Raden Panij Hendrajit": {
+    "relations": {
+      "child": [
+        [
+          "arsari60",
+          "R. Djoyodiwiryo-No. 7"
+        ],
+        [
+          "arsari61",
+          "Raden Kertonegoro IV, Banyakwide"
+        ],
+        [
+          "arsari62",
+          "Rhj. Tumenggung Dipoyudo"
+        ]
+      ]
+    },
+    "name_id": "arsari42"
+  }
+}
