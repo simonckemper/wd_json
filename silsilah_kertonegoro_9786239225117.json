@@ -65,6 +65,17 @@
     },
     "name_id": "arsari79"
   },
+  "Raden Tumenggung Kartonegoro III": {
+    "relations": {
+      "child": [
+        [
+          "arsari61",
+          "Raden Kertonegoro IV, Banyakwide"
+        ]
+      ]
+    },
+    "name_id": "arsari44"
+  },
   "Raden Kertonegoro IV, Banyakwide": {
     "relations": {
       "child": [
