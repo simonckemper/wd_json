@@ -1,0 +1,101 @@
+{
+  "Bagus Djanah/ Kerto Yudo / Siloreng II": {
+    "relations": {
+      "child": [
+        [
+          "arsari37",
+          "Raden Adipati Mangkuprojo"
+        ]
+      ]
+    },
+    "name_id": "arsari32"
+  },
+  "Raden Adipati Mangkuprojo": {
+    "relations": {
+      "child": [
+        [
+          "arsari38",
+          "Raden Tummenggung Kertonegoro I"
+        ]
+      ]
+    },
+    "name_id": "arsari37"
+  },
+  "Raden Tummenggung Kertonegoro I": {
+    "relations": {
+      "child": [
+        [
+          "arsari39",
+          "Raden Tummenggung Kertonegoro II"
+        ]
+      ]
+    },
+    "name_id": "arsari38"
+  },
+  "Raden Tummenggung Kertonegoro II": {
+    "relations": {
+      "child": [
+        [
+          "arsari43",
+          "Raden Rekso Projo"
+        ]
+      ]
+    },
+    "name_id": "arsari39"
+  },
+  "Raden Rekso Projo": {
+    "relations": {
+      "child": [
+        [
+          "arsari79",
+          "Raden Rekso Projo II"
+        ]
+      ]
+    },
+    "name_id": "arsari43"
+  },
+  "Raden Rekso Projo II": {
+    "relations": {
+      "child": [
+        [
+          "arsari44",
+          "Raden Tumenggung Kartonegoro III"
+        ]
+      ]
+    },
+    "name_id": "arsari79"
+  },
+  "Raden Kertonegoro IV, Banyakwide": {
+    "relations": {
+      "child": [
+        [
+          "arsari64",
+          "Raden Karto Atmojo"
+        ]
+      ]
+    },
+    "name_id": "arsari61"
+  },
+  "Raden Karto Atmojo": {
+    "relations": {
+      "child": [
+        [
+          "arsari67",
+          "Raden Mas Hendrokusumo"
+        ]
+      ]
+    },
+    "name_id": "arsari64"
+  },
+  "Raden Mas Hendrokusumo": {
+    "relations": {
+      "child": [
+        [
+          "arsari74",
+          "R.M. Margono Djojohadikusumo"
+        ]
+      ]
+    },
+    "name_id": "arsari67"
+  }
+}
