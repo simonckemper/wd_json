@@ -462,5 +462,86 @@
       ]
     },
     "name_id": "arsari42"
+  },
+  "Rhj. Tumenggung Dipoyudo": {
+    "relations": {
+      "child": [
+        [
+          "arsari63",
+          "R. Ng. Kartonadi - No.13"
+        ],
+        [
+          "arsari64",
+          "Raden Karto Atmojo"
+        ],
+        [
+          "arsari65",
+          "R. Djoyorelo-No.6"
+        ]
+      ]
+    },
+    "name_id": "arsari62"
+  },
+  "Raden Karto Atmojo": {
+    "relations": {
+      "child": [
+        [
+          "arsari66",
+          "Rhj. Hendro Atmojo - No.9"
+        ],
+        [
+          "arsari67",
+          "Raden Mas Hendro Kusumo"
+        ],
+        [
+          "arsari68",
+          "R.M. Hendro Winoto - No. 2"
+        ]
+      ]
+    },
+    "name_id": "arsari64"
+  },
+  "Raden Mas Hendro Kusumo": {
+    "relations": {
+      "child": [
+        [
+          "arsari69",
+          "Rhj. Abdul Parwoto"
+        ],
+        [
+          "arsari70",
+          "R.M. Sutrisno"
+        ],
+        [
+          "arsari71",
+          "R.M. Sujana"
+        ],
+        [
+          "arsari72",
+          "Rhj. Haning"
+        ],
+        [
+          "arsari73",
+          "Rhj. Mulyadi"
+        ],
+        [
+          "arsari74",
+          "R.M. Margono Djoyohadi Kusumo"
+        ],
+        [
+          "arsari75",
+          "R.M. Abdul Rachman"
+        ],
+        [
+          "arsari76",
+          "R.M. Sumedi"
+        ],
+        [
+          "arsari77",
+          "R.M. Muhamad"
+        ]
+      ]
+    },
+    "name_id": "arsari67"
   }
 }
